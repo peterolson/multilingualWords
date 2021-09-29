@@ -1,0 +1,19 @@
+{
+  "name": "knowledge-score",
+  "version": "1.0.0",
+  "description": "Functions for calculating knowledge scores in a vocabulary model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "language",
+    "knowledge",
+    "score",
+    "model",
+    "learning",
+    "vocabulary"
+  ],
+  "author": "Peter Olson",
+  "license": "ISC"
+}
