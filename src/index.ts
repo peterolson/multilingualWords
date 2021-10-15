@@ -14,7 +14,5 @@ export const updateScore = (points: number, previousScore: number = 0, previousT
     return previousScore + Math.min(staticBonus + days * multiplier * frequencyBonus, maxIncrease);
   }
   if (previousScore <= 0) return 0;
-  const halfLife = previousScore * 0.3;
-  const diff = previousScore - previousScore * Math.pow(0.5, days / halfLife);
-  return previousScore + diff * multiplier;
+  return Math.floor(previousScore / 4);
 };
