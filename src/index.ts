@@ -20,7 +20,7 @@ export const gameWords = async (languageCode: string): Promise<GameWords> => {
   }
   let languageData: Record<string, [string, string[]]>;
 
-  languageData = await import(`../words/${languageCode}`);
+  languageData = await import(`./words/${languageCode}`).then((module) => module.default);
   const allWords = new Set();
   const byCategory: Record<string, Set<string>> = {};
   const translations: Record<string, string> = {};

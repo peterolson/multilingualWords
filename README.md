@@ -14,10 +14,10 @@ npm install --save multilingual-game-words
 import { gameWords } from 'multilingual-game-words';
 
 async function run() {
-  const SpanishWords = await gameWords('es');
-  const FrenchWords = await gameWords('ru');
+  const spanishWords = await gameWords('es');
+  const russianWords = await gameWords('ru');
 
-  console.log(SpanishWords.getAllWords());
+  console.log(spanishWords.getAllWords());
   /*
     [
     { word: 'hierro', en: 'iron' },
@@ -26,7 +26,7 @@ async function run() {
     { word: 'cuaderno', en: 'notebook' },
     ...
     */
-  console.log(FrenchWords.getByCategory('swadesh'));
+  console.log(russianWords.getByCategory('swadesh'));
   /*
     [
     { word: 'колено', en: 'knee' },
