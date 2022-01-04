@@ -11,7 +11,7 @@ npm install --save multilingual-game-words
 ## Usage
 
 ```javascript
-import { gameWords } from './index';
+import { gameWords } from 'multilingual-game-words';
 
 async function run() {
   const SpanishWords = await gameWords('es');
