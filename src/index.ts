@@ -1,4 +1,4 @@
-import { supportedLangs } from './supportedLangs';
+import { supportedLangImports } from './supportedLangs';
 
 export type WordPair = {
   word: string;
@@ -12,7 +12,7 @@ export type GameWords = {
 const cachedGameWords: Record<string, GameWords> = {};
 
 export const gameWords = async (languageCode: string): Promise<GameWords> => {
-  if (!supportedLangs.includes(languageCode)) {
+  if (!(languageCode in supportedLangImports)) {
     throw new Error(`Language ${languageCode} is not supported.`);
   }
   if (cachedGameWords[languageCode]) {
@@ -20,7 +20,7 @@ export const gameWords = async (languageCode: string): Promise<GameWords> => {
   }
   let languageData: Record<string, [string, string[]]>;
 
-  languageData = await import(`./words/${languageCode}`).then((module) => module.default);
+  languageData = await supportedLangImports[languageCode]().then((x) => x.default);
   const allWords = new Set();
   const byCategory: Record<string, Set<string>> = {};
   const translations: Record<string, string> = {};
