@@ -24,7 +24,7 @@ export const gameWords = async (languageCode: string): Promise<GameWords> => {
   const allWords = new Set();
   const byCategory: Record<string, Set<string>> = {};
   const translations: Record<string, string> = {};
-  for (const word in languageData) {
+  for (const word of Object.keys(languageData)) {
     const data = languageData[word];
     if (!data) continue;
     if (!data[0] || !data[1]) continue;
@@ -48,8 +48,3 @@ export const gameWords = async (languageCode: string): Promise<GameWords> => {
   cachedGameWords[languageCode] = out;
   return out;
 };
-
-(async () => {
-  const SpanishWords = await gameWords('zh-TW');
-  console.log(SpanishWords.getByCategory('objects'));
-})();
