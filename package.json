@@ -1,7 +1,7 @@
 {
   "name": "multilingual-game-words",
   "version": "1.0.2",
-  "description": "Functions for calculating knowledge scores in a vocabulary model",
+  "description": "Words for games like taboo/pictionary/charades/catchphrase/etc in many different languages.",
   "main": "lib/index.js",
   "scripts": {
     "build": "tsc",
@@ -21,12 +21,14 @@
     "url": "https://github.com/peterolson/multilingualWords.git"
   },
   "keywords": [
+    "game",
     "language",
-    "knowledge",
-    "score",
-    "model",
-    "learning",
-    "vocabulary"
+    "words",
+    "multilingual",
+    "taboo",
+    "charades",
+    "catchphrase",
+    "pictionary"
   ],
   "author": "Peter Olson",
   "license": "ISC",
