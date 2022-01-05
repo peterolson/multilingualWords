@@ -1,1189 +1,442 @@
 export default {
-  "Aironi": [
-    "iron",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Ua": [
-    "wave",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Baqe": [
-    "bank",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Loaloa": [
-    "black",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "Vuaka": [
-    "pig",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Vakayakavi": [
-    "dinner",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "Vula": [
-    "moon",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Qita": [
-    "guitar",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Manumanu": [
-    "animal",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Kompiuta": [
-    "computer",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Matanitu": [
-    "country",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Uca cevata": [
-    "hail",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Gusu": [
-    "mouth",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Koli": [
-    "dog",
-    [
-      "catchphrase",
-      "charades",
-      "people",
-      "swadesh"
-    ]
-  ],
-  "Toa": [
-    "chicken",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Daliga": [
-    "ear",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Tagane": [
-    "man",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Pusi": [
-    "cat",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Ika": [
-    "fish",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Ulunivanua": [
-    "mountain",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Boroya": [
-    "paint",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Ketena": [
-    "stomach",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Manumanu vuka": [
-    "bird",
-    [
-      "catchphrase",
-      "charades",
-      "swadesh"
-    ]
-  ],
-  "Siganisucu": [
-    "birthday",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Wai": [
-    "water",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "O": [
-    "cloud",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Cagi": [
-    "wind",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Lalaga": [
-    "wall",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Calculator": [
-    "calculator",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Kirisimasi": [
-    "Christmas",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Wasawasa kaukaua": [
-    "seashell",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Dauvakadidike": [
-    "scientist",
-    [
-      "catchphrase",
-      "people"
-    ]
-  ],
-  "Sote": [
-    "shirt",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Waqa": [
-    "ship",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Kato": [
-    "box",
-    [
-      "catchphrase",
-      "household",
-      "objects"
-    ]
-  ],
-  "Drodrolagi": [
-    "rainbow",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Dauvakaraitaki": [
-    "actor",
-    [
-      "catchphrase",
-      "people"
-    ]
-  ],
-  "Tututolu": [
-    "triangle",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Yatevuso": [
-    "lung",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Ulumu": [
-    "head",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Vunikau": [
-    "tree",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Matanisiga": [
-    "sun",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Ucacevata": [
-    "snow",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Iloilo": [
-    "mirror",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Retioyaloyalo": [
-    "television",
-    [
-      "catchphrase",
-      "household",
-      "objects"
-    ]
-  ],
-  "Basketball": [
-    "basketball",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Tavipolo": [
-    "baseball",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Bukawaqa": [
-    "fire",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Kaloko": [
-    "clock",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Viritalawalawa": [
-    "spider",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Ivakatagi": [
-    "music",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Danisi": [
-    "dance",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Pepa": [
-    "paper",
-    [
-      "catchphrase",
-      "household",
-      "objects"
-    ]
-  ],
-  "Yavana": [
-    "leg",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Tavaya": [
-    "bottle",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Senikau": [
-    "flower",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Siga": [
-    "day",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "Vulavula": [
-    "white",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "Iviu": [
-    "umbrella",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Kuila": [
-    "flag",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Kareti": [
-    "carrot",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Polo": [
-    "ball",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Bebe": [
-    "butterfly",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Sala": [
-    "road",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Bai": [
-    "fence",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Vuravura": [
-    "earth",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "Sikuea": [
-    "square",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Yapolo": [
-    "apple",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Savasava": [
-    "laundry",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Ose": [
-    "horse",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Baluni": [
-    "balloon",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Domona": [
-    "neck",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "Qerepi": [
-    "grape",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Ikatalau": [
-    "breakfast",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Aisi": [
-    "ice",
-    [
-      "catchphrase",
-      "household",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Beka": [
-    "bat",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Kabu": [
-    "fog",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Rarama": [
-    "light",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Mata": [
-    "eye",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Kalokalo": [
-    "star",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Siti": [
-    "city",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Uca": [
-    "rain",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Iwirini": [
-    "circle",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Uciwai": [
-    "river",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Qaravatu": [
-    "cave",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Beseni": [
-    "bowl",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Moko": [
-    "lizard",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Seniwiji": [
-    "sandwich",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Buina": [
-    "tail",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Yalo": [
-    "heart",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Bilo": [
-    "cup",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Vakacagicagi": [
-    "holiday",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Moniti": [
-    "Monday",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Itaba": [
-    "camera",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Ivola": [
-    "book",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Bulukau": [
-    "button",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "Koula": [
-    "gold",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Ilavo": [
-    "coin",
-    [
-      "catchphrase",
-      "household",
-      "objects"
-    ]
-  ],
-  "Itutunisenikau": [
-    "vase",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "Basikeli": [
-    "bicycle",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Bati": [
-    "tooth",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Kuli": [
-    "skin",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Drano": [
-    "lake",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Siqeleti": [
-    "t-shirt",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "Iyaragi": [
-    "tool",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Veikau": [
-    "forest",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Mape": [
-    "map",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Co": [
-    "weed",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "Simede": [
-    "brick",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Tea": [
-    "plant",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Waiwai": [
-    "oil",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Basikete": [
-    "basket",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "Palasitika": [
-    "plastic",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "Chess": [
-    "chess",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Liga": [
-    "hand",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Meli": [
-    "mail",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "Kau": [
-    "wood",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Vakaraubuka": [
-    "Friday",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Cegu": [
-    "air",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Mona": [
-    "brain",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Shampoo": [
-    "shampoo",
-    [
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Gata": [
-    "snake",
-    [
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Neketai": [
-    "necktie",
-    [
-      "charades",
-      "household"
-    ]
-  ],
-  "Kote mamare": [
-    "sweater",
-    [
-      "household"
-    ]
-  ],
-  "Vokete": [
-    "bucket",
-    [
-      "household",
-      "objects"
-    ]
-  ],
-  "Cakacakaniliga": [
-    "art",
-    [
-      "objects"
-    ]
-  ],
-  "Dra": [
-    "blood",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Sui": [
-    "bone",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Barasi": [
-    "brush",
-    [
-      "objects"
-    ]
-  ],
-  "Bata": [
-    "butter",
-    [
-      "objects"
-    ]
-  ],
-  "Jisi": [
-    "cheese",
-    [
-      "objects"
-    ]
-  ],
-  "Sakini": [
-    "circus",
-    [
-      "objects"
-    ]
-  ],
-  "Kirimu": [
-    "cream",
-    [
-      "objects"
-    ]
-  ],
-  "Lali": [
-    "drum",
-    [
-      "objects"
-    ]
-  ],
-  "Igu": [
-    "energy",
-    [
-      "objects"
-    ]
-  ],
-  "Kakana": [
-    "food",
-    [
-      "objects"
-    ]
-  ],
-  "Yava": [
-    "foot",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Vua": [
-    "fruit",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Isoso kalokalo": [
-    "galaxy",
-    [
-      "objects"
-    ]
-  ],
-  "Bibi": [
-    "gravity",
-    [
-      "objects"
-    ]
-  ],
-  "Yanuyanu": [
-    "island",
-    [
-      "objects"
-    ]
-  ],
-  "Kania": [
-    "meat",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Sucu": [
-    "milk",
-    [
-      "objects"
-    ]
-  ],
-  "Masela": [
-    "muscle",
-    [
-      "objects"
-    ]
-  ],
-  "Wasa": [
-    "ocean",
-    [
-      "objects"
-    ]
-  ],
-  "Okosijeni": [
-    "oxygen",
-    [
-      "objects"
-    ]
-  ],
-  "Papeti": [
-    "puppet",
-    [
-      "objects"
-    ]
-  ],
-  "Taqomaki": [
-    "safety",
-    [
-      "objects"
-    ]
-  ],
-  "Veitaqomaki": [
-    "security",
-    [
-      "objects"
-    ]
-  ],
-  "Kawa": [
-    "seed",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Lomalagi": [
-    "sky",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Vanualala": [
-    "space",
-    [
-      "objects"
-    ]
-  ],
-  "Dovu": [
-    "sugar",
-    [
-      "objects"
-    ]
-  ],
-  "Veisele": [
-    "surgery",
-    [
-      "objects"
-    ]
-  ],
-  "Iseleiwau": [
-    "sword",
-    [
-      "objects"
-    ]
-  ],
-  "Gauna": [
-    "time",
-    [
-      "objects"
-    ]
-  ],
-  "Gaunisala": [
-    "traffic",
-    [
-      "objects"
-    ]
-  ],
-  "Dina": [
-    "truth",
-    [
-      "objects"
-    ]
-  ],
-  "Unifomu": [
-    "uniform",
-    [
-      "objects"
-    ]
-  ],
-  "Yalomatua": [
-    "wisdom",
-    [
-      "objects"
-    ]
-  ],
-  "Marama": [
-    "woman",
-    [
-      "swadesh"
-    ]
-  ],
-  "Tamata": [
-    "person",
-    [
-      "swadesh"
-    ]
-  ],
-  "Uro": [
-    "fat",
-    [
-      "swadesh"
-    ]
-  ],
-  "Yate": [
-    "liver",
-    [
-      "swadesh"
-    ]
-  ],
-  "Wasawasa": [
-    "sea",
-    [
-      "swadesh"
-    ]
-  ],
-  "Yabaki": [
-    "year",
-    [
-      "swadesh"
-    ]
-  ]
+  "97": {
+    "form": "dravu",
+    "concept": "brown/colour"
+  },
+  "131": {
+    "form": "siga",
+    "concept": "day/period of 24 hours"
+  },
+  "169": {
+    "form": "aua",
+    "concept": "hour/time period of sixty minutes"
+  },
+  "173": {
+    "form": "miniti",
+    "concept": "minute/unit of time"
+  },
+  "812": {
+    "form": "macava",
+    "concept": "week/period of seven days"
+  },
+  "851": {
+    "form": "nikua",
+    "concept": "today/on the current day"
+  },
+  "1197": {
+    "form": "senikavika",
+    "concept": "orange/colour"
+  },
+  "1228": {
+    "form": "kalo kalo",
+    "concept": "star/id=Q523|luminous celestial body"
+  },
+  "1413": {
+    "form": "vola",
+    "concept": "letter/letter of the alphabet"
+  },
+  "1985": {
+    "form": "yapolo",
+    "concept": "apple/fruit"
+  },
+  "2068": {
+    "form": "mataka",
+    "concept": "morning/the part of the day after midnight and before midday"
+  },
+  "2081": {
+    "form": "kakana",
+    "concept": "food/any substance consumed by living organisms to sustain life"
+  },
+  "2162": {
+    "form": "nanoa",
+    "concept": "yesterday/day before today"
+  },
+  "2280": {
+    "form": "gauna",
+    "concept": "time/inevitable passing of events"
+  },
+  "2407": {
+    "form": "vou",
+    "concept": "new/recently made or created"
+  },
+  "2992": {
+    "form": "mape",
+    "concept": "map/visual representation of an area"
+  },
+  "3096": {
+    "form": "gunuva",
+    "concept": "drink/consume liquid through the mouth"
+  },
+  "3152": {
+    "form": "io",
+    "concept": "yes/word used to indicate agreement or acceptance"
+  },
+  "3834": {
+    "form": "marama",
+    "concept": "woman/adult female person"
+  },
+  "4601": {
+    "form": "kau",
+    "concept": "tree/large woody plant"
+  },
+  "4910": {
+    "form": "yanuyanu",
+    "concept": "island/area of land completely surrounded by water"
+  },
+  "4934": {
+    "form": "mahumanu",
+    "concept": "bird/animal"
+  },
+  "5047": {
+    "form": "qasikalolo",
+    "concept": "ant/insect"
+  },
+  "5183": {
+    "form": "qele",
+    "concept": "earth/soil"
+  },
+  "5193": {
+    "form": "gata",
+    "concept": "snake/legless reptile"
+  },
+  "5250": {
+    "form": "i mawī",
+    "concept": "left/the west side of the body when one is facing north"
+  },
+  "5291": {
+    "form": "tama",
+    "concept": "father/male parent"
+  },
+  "5327": {
+    "form": "gone",
+    "concept": "child/a minor"
+  },
+  "5380": {
+    "form": "vale vo",
+    "concept": "bathroom/a room with a bathtub"
+  },
+  "5398": {
+    "form": "batabata",
+    "concept": "cold/having a low temperature"
+  },
+  "5740": {
+    "form": "vuli",
+    "concept": "learn/to acquire knowledge or ability"
+  },
+  "5859": {
+    "form": "kalavo",
+    "concept": "rat/rodent"
+  },
+  "5925": {
+    "form": "vonu",
+    "concept": "turtle/land or marine reptile with a shell"
+  },
+  "6035": {
+    "form": "idabedabe",
+    "concept": "chair/furniture"
+  },
+  "6142": {
+    "form": "namu",
+    "concept": "mosquito/small flying insect of the family Culicidae, known for biting and sucking blood"
+  },
+  "6143": {
+    "form": "bula",
+    "concept": "hello/greeting"
+  },
+  "6159": {
+    "form": "moce",
+    "concept": "goodbye/farewell"
+  },
+  "6726": {
+    "form": "wai ni mata",
+    "concept": "tear/drop of clear salty liquid from the eyes"
+  },
+  "6898": {
+    "form": "wilika",
+    "concept": "read/look at and interpret letters or other information"
+  },
+  "7112": {
+    "form": "yava",
+    "concept": "foot/part of human body {{jump|t|human body part}}"
+  },
+  "7582": {
+    "form": "uca",
+    "concept": "rain/condensed water from a cloud"
+  },
+  "7637": {
+    "form": "vinaka",
+    "concept": "thank you/an expression of gratitude"
+  },
+  "8031": {
+    "form": "uneune",
+    "concept": "earthquake/shaking of the surface of a planet"
+  },
+  "8592": {
+    "form": "ruve",
+    "concept": "dove/bird of the family Columbidae"
+  },
+  "9326": {
+    "form": "nimataka",
+    "concept": "tomorrow/on the day after the present day"
+  },
+  "9327": {
+    "form": "nimataka",
+    "concept": "tomorrow/the day after the present day"
+  },
+  "9357": {
+    "form": "voce",
+    "concept": "oar/implement used to row a boat"
+  },
+  "9787": {
+    "form": "jisi",
+    "concept": "cheese/dairy product"
+  },
+  "9951": {
+    "form": "kato",
+    "concept": "bag/flexible container"
+  },
+  "9969": {
+    "form": "waqa",
+    "concept": "boat/water craft"
+  },
+  "10006": {
+    "form": "madrai",
+    "concept": "bread/baked dough made from cereals"
+  },
+  "10048": {
+    "form": "bata",
+    "concept": "butter/soft foodstuff made from milk"
+  },
+  "10095": {
+    "form": "totoka",
+    "concept": "beautiful/possessing charm and attractive"
+  },
+  "11278": {
+    "form": "qona",
+    "concept": "bitter/having an acrid taste"
+  },
+  "11357": {
+    "form": "ou",
+    "concept": "cloud/visible mass of water droplets suspended in the air"
+  },
+  "11483": {
+    "form": "keke",
+    "concept": "cake/a sweet dessert"
+  },
+  "11722": {
+    "form": "drano",
+    "concept": "lake/body of water"
+  },
+  "11909": {
+    "form": "kuita",
+    "concept": "octopus/mollusc"
+  },
+  "11916": {
+    "form": "toa",
+    "concept": "chicken/bird"
+  },
+  "11951": {
+    "form": "bebe",
+    "concept": "butterfly/id=Q11946202|insect"
+  },
+  "12000": {
+    "form": "lulu",
+    "concept": "owl/a bird"
+  },
+  "12409": {
+    "form": "bula",
+    "concept": "life/the state of being alive"
+  },
+  "12497": {
+    "form": "isele",
+    "concept": "knife/utensil or tool designed for cutting"
+  },
+  "12505": {
+    "form": "ulunivanua",
+    "concept": "mountain/large mass of earth and rock"
+  },
+  "12518": {
+    "form": "suka",
+    "concept": "sugar/sucrose from sugar cane or sugar beet and used to sweeten food and drink"
+  },
+  "12809": {
+    "form": "nuku",
+    "concept": "sand/finely ground rock"
+  },
+  "12832": {
+    "form": "kabu",
+    "concept": "fog/cloud that forms at a low altitude and obscures vision"
+  },
+  "13644": {
+    "form": "ituki",
+    "concept": "hammer/tool"
+  },
+  "13728": {
+    "form": "kumi",
+    "concept": "beard/facial hair"
+  },
+  "14404": {
+    "form": "vinakata",
+    "concept": "want/desire"
+  },
+  "14448": {
+    "form": "kofe",
+    "concept": "coffee/beverage"
+  },
+  "14725": {
+    "form": "marau",
+    "concept": "happy/contented, joyous"
+  },
+  "15585": {
+    "form": "wasa",
+    "concept": "sea/body of water"
+  },
+  "15595": {
+    "form": "yalo vinaka",
+    "concept": "please/interjection to make a polite request"
+  },
+  "16787": {
+    "form": "kutu",
+    "concept": "flea/parasitic insect"
+  },
+  "16811": {
+    "form": "kutu",
+    "concept": "louse/insect"
+  },
+  "17209": {
+    "form": "vale ni kana",
+    "concept": "restaurant/an eating establishment in which diners are served food at their tables"
+  },
+  "17930": {
+    "form": "vico",
+    "concept": "navel/remnant of umbilical cord"
+  },
+  "18064": {
+    "form": "sigaanisucu",
+    "concept": "birthday/anniversary"
+  },
+  "21029": {
+    "form": "vanua",
+    "concept": "land/part of Earth that is not covered by oceans or other bodies of water"
+  },
+  "21451": {
+    "form": "vata",
+    "concept": "shelf/structure"
+  },
+  "22457": {
+    "form": "drau",
+    "concept": "leaf/part of a plant"
+  },
+  "22626": {
+    "form": "maqo",
+    "concept": "mango/fruit"
+  },
+  "22960": {
+    "form": "vinivo",
+    "concept": "dress/garment"
+  },
+  "24521": {
+    "form": "liga-na",
+    "concept": "sleeve/part of a garment that covers the arm"
+  },
+  "24638": {
+    "form": "wasa",
+    "concept": "ocean/one of the large bodies of water"
+  },
+  "24641": {
+    "form": "pasipote",
+    "concept": "passport/official document"
+  },
+  "25808": {
+    "form": "qio",
+    "concept": "shark/fish"
+  },
+  "25813": {
+    "form": "tavuto",
+    "concept": "whale/large sea mammal"
+  },
+  "26635": {
+    "form": "kareti",
+    "concept": "carrot/''Daucus carota ssp. sativus''"
+  },
+  "27040": {
+    "form": "otela",
+    "concept": "hotel/establishment providing accommodation"
+  },
+  "27738": {
+    "form": "yadre",
+    "concept": "forehead/part of face above eyebrows"
+  },
+  "29729": {
+    "form": "isulu",
+    "concept": "clothing/clothes"
+  },
+  "30033": {
+    "form": "curu",
+    "concept": "enter/to go into (a room, etc.)"
+  },
+  "31862": {
+    "form": "vale ni kuro",
+    "concept": "kitchen/room"
+  },
+  "32445": {
+    "form": "buke",
+    "concept": "hill/elevated location"
+  },
+  "32585": {
+    "form": "qaravatu",
+    "concept": "cave/large, naturally occurring cavity formed underground"
+  },
+  "33428": {
+    "form": "qaniliga",
+    "concept": "glove/item of clothing"
+  },
+  "34193": {
+    "form": "saga-na",
+    "concept": "thigh/upper leg"
+  },
+  "35169": {
+    "form": "savu",
+    "concept": "waterfall/flow of water over the edge of a cliff"
+  },
+  "35880": {
+    "form": "vakatākarakara",
+    "concept": "statue/three-dimensional work of art"
+  },
+  "48133": {
+    "form": "lumi",
+    "concept": "moss/plants of the division Bryophyta"
+  },
+  "50912": {
+    "form": "itaube",
+    "concept": "necklace/jewelry"
+  },
+  "52348": {
+    "form": "veivakararawataki",
+    "concept": "torture/intentional causing of somebody's experiencing agony"
+  },
+  "67901": {
+    "form": "niu",
+    "concept": "coconut/fruit of coco palm"
+  },
+  "73886": {
+    "form": "vadreti-taka",
+    "concept": "bandage/medical binding"
+  },
+  "75875": {
+    "form": "ibulubulu",
+    "concept": "graveyard/tract of land in which the dead are buried"
+  },
+  "99596": {
+    "form": "sega",
+    "concept": "no/used to show disagreement or negation"
+  },
+  "100273": {
+    "form": "ose",
+    "concept": "horse/members of the species ''Equus ferus''"
+  },
+  "148995": {
+    "form": "turaga",
+    "concept": "man/translations/adult male human"
+  }
 };

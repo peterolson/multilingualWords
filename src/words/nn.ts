@@ -1,3371 +1,1906 @@
 export default {
-  "Jern": [
-    "iron",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Bibliotek": [
-    "library",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Syster": [
-    "sister",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Verdsrommet": [
-    "outer space",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Haiar": [
-    "shark",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Pengar": [
-    "money",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Tunnel": [
-    "tunnel",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Telefon": [
-    "telephone",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Bølgje": [
-    "wave",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Strand": [
-    "beach",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Bank": [
-    "bank",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Kne": [
-    "knee",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "Hoste": [
-    "cough",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Blyant": [
-    "pencil",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "Svart": [
-    "black",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "Vigsel": [
-    "wedding",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Radio": [
-    "radio",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Tannkost": [
-    "toothbrush",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "Gris": [
-    "pig",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Søvn": [
-    "sleep",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Middagsmat": [
-    "dinner",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "Brokkoli": [
-    "broccoli",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Pysj": [
-    "pajamas",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "Juice": [
-    "juice",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Månen": [
-    "moon",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Storm": [
-    "storm",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Gitar": [
-    "guitar",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Dyr": [
-    "animal",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Panne": [
-    "forehead",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Datamaskin": [
-    "computer",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Klo": [
-    "claw",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Rim": [
-    "rhyme",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Fontene": [
-    "fountain",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Prins": [
-    "prince",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Fiolin": [
-    "violin",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Drosje": [
-    "taxi",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Raud": [
-    "red",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "Veske": [
-    "bag",
-    [
-      "catchphrase",
-      "household",
-      "objects"
-    ]
-  ],
-  "Briller": [
-    "glasses",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Bil": [
-    "car",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Gåve": [
-    "gift",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Traktor": [
-    "tractor",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Kjole": [
-    "dress",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "Land": [
-    "country",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Hagl": [
-    "hail",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Munn": [
-    "mouth",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Bror": [
-    "brother",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "Hus": [
-    "house",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Bånsull": [
-    "lullaby",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Hydrant": [
-    "fire hydrant",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Hund": [
-    "dog",
-    [
-      "catchphrase",
-      "charades",
-      "people",
-      "swadesh"
-    ]
-  ],
-  "Høns": [
-    "chicken",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Øyre": [
-    "ear",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Mann": [
-    "man",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Natt": [
-    "night",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Katt": [
-    "cat",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Fisk": [
-    "fish",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Fjell": [
-    "mountain",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Berg-og-dal-bane": [
-    "roller coaster",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Syskenbarn": [
-    "cousin",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Måling": [
-    "paint",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Nase": [
-    "nose",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Dyrehage": [
-    "zoo",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Monster": [
-    "monster",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Gøymsle": [
-    "hide-and-seek",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Kunstnar": [
-    "artist",
-    [
-      "catchphrase",
-      "charades",
-      "people"
-    ]
-  ],
-  "Diamant": [
-    "diamond",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Magesekk": [
-    "stomach",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Gul": [
-    "yellow",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "Skei": [
-    "spoon",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "Hår": [
-    "hair",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Fuglar": [
-    "bird",
-    [
-      "catchphrase",
-      "charades",
-      "swadesh"
-    ]
-  ],
-  "Fødselsdag": [
-    "birthday",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Vatn": [
-    "water",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Draum": [
-    "dream",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Sky": [
-    "cloud",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Elefant": [
-    "elephant",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Vind": [
-    "wind",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Skule": [
-    "school",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Mur": [
-    "wall",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Kalkulator": [
-    "calculator",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Ballett": [
-    "ballet",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Finger": [
-    "finger",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Jul": [
-    "Christmas",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Godteri": [
-    "candy",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Skjorte": [
-    "shirt",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Kulde": [
-    "cold",
-    [
-      "catchphrase",
-      "charades",
-      "swadesh"
-    ]
-  ],
-  "Drake i snor": [
-    "kite",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Båt": [
-    "boat",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Tå": [
-    "toe",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Sjukepleiar": [
-    "nurse",
-    [
-      "catchphrase",
-      "people"
-    ]
-  ],
-  "Rulletrapp": [
-    "escalator",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Jarnbanetog": [
-    "train",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Sko": [
-    "shoe",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "Regnboge": [
-    "rainbow",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Skodespelar": [
-    "actor",
-    [
-      "catchphrase",
-      "people"
-    ]
-  ],
-  "Kake": [
-    "cake",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Seglbåt": [
-    "sailboat",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Trekant": [
-    "triangle",
-    [
-      "catchphrase"
-    ]
-  ],
-  "And": [
-    "duck",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Lunge": [
-    "lung",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Hovud": [
-    "head",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Ulv": [
-    "wolf",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Tre": [
-    "tree",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Sola": [
-    "sun",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Levande lys": [
-    "candle",
-    [
-      "catchphrase",
-      "household",
-      "objects"
-    ]
-  ],
-  "Dusj": [
-    "shower",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Husrom": [
-    "room",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Jente": [
-    "girl",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Torebrak": [
-    "thunder",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Seng": [
-    "bed",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Ordbok": [
-    "dictionary",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Konge": [
-    "king",
-    [
-      "catchphrase",
-      "people"
-    ]
-  ],
-  "Dokke": [
-    "doll",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Sofa": [
-    "couch",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Bru": [
-    "bridge",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Arm": [
-    "arm",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Snø": [
-    "snow",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Trehytte": [
-    "tree house",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Brannbil": [
-    "fire engine",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Spegel": [
-    "mirror",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Fjernsyn": [
-    "television",
-    [
-      "catchphrase",
-      "household",
-      "objects"
-    ]
-  ],
-  "Korgball": [
-    "basketball",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Mareritt": [
-    "nightmare",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Telt": [
-    "tent",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Baseball": [
-    "baseball",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Grøn": [
-    "green",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "Tak": [
-    "roof",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "Eld": [
-    "fire",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Motorsykkel": [
-    "motorcycle",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Lyn": [
-    "lightning",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Gut": [
-    "boy",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Nebb": [
-    "beak",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Klokke": [
-    "clock",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Steikjepanne": [
-    "frying pan",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Kinn i andletet": [
-    "cheek",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Edderkoppar": [
-    "spider",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Musikk": [
-    "music",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Dans": [
-    "dance",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Papir": [
-    "paper",
-    [
-      "catchphrase",
-      "household",
-      "objects"
-    ]
-  ],
-  "Vesenet fe": [
-    "fairy",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Rullestol": [
-    "wheelchair",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Bein": [
-    "leg",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Søle": [
-    "mud",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Vinter": [
-    "winter",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Museum": [
-    "museum",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Flaske": [
-    "bottle",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Blome": [
-    "flower",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Brud": [
-    "bride",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Dag": [
-    "day",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "Klasserom": [
-    "classroom",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Skugge": [
-    "shadow",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Kvit": [
-    "white",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "Paraply": [
-    "umbrella",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Makk": [
-    "worm",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Pels": [
-    "fur",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Krit": [
-    "chalk",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Hatt": [
-    "hat",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Leikeplass": [
-    "playground",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Løve": [
-    "lion",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Pute": [
-    "pillow",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Flagg": [
-    "flag",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Toalettpapir": [
-    "toilet paper",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "Familie": [
-    "family",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Ball": [
-    "ball",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Nevø": [
-    "nephew",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Saks": [
-    "scissors",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "Veg": [
-    "road",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Koffert": [
-    "suitcase",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "Gjerde": [
-    "fence",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Jorda": [
-    "earth",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "Kvadrat": [
-    "square",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Nysing": [
-    "sneeze",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Vindauge": [
-    "window",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Sitron": [
-    "lemon",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Robot": [
-    "robot",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "people"
-    ]
-  ],
-  "Eple": [
-    "apple",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Klesvask": [
-    "laundry",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Park": [
-    "park",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Hest": [
-    "horse",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Ballong": [
-    "balloon",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Hals": [
-    "neck",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "Vulkan": [
-    "volcano",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Reir": [
-    "nest",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Lauv": [
-    "leaf",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Drue": [
-    "grape",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Dør": [
-    "door",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Tiger": [
-    "tiger",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Frukost": [
-    "breakfast",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Ryggsekk": [
-    "backpack",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Is": [
-    "ice",
-    [
-      "catchphrase",
-      "household",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Flaggermus": [
-    "bat",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Tåke": [
-    "fog",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Lys": [
-    "light",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Gard": [
-    "farm",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Sopelime": [
-    "broom",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Auga": [
-    "eye",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Romfarar": [
-    "astronaut",
-    [
-      "catchphrase",
-      "people"
-    ]
-  ],
-  "Tannlege": [
-    "dentist",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Stjerne": [
-    "star",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Helikopter": [
-    "helicopter",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Såpe": [
-    "soap",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "By": [
-    "city",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Regn": [
-    "rain",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Gaffel": [
-    "fork",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Skulebuss": [
-    "school bus",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Student": [
-    "student",
-    [
-      "catchphrase",
-      "people"
-    ]
-  ],
-  "Blå": [
-    "blue",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Stol": [
-    "chair",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Lastebil": [
-    "truck",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Sirkel": [
-    "circle",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Elv": [
-    "river",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Grotte": [
-    "cave",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Fest": [
-    "party",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Skål": [
-    "bowl",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Kjøleskap": [
-    "refrigerator",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "Røyk": [
-    "smoke",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Øgle": [
-    "lizard",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Idrettshall": [
-    "gym",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Trapp": [
-    "stairs",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "Smil": [
-    "smile",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Augebryn": [
-    "eyebrow",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Fly": [
-    "airplane",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Lærar": [
-    "teacher",
-    [
-      "catchphrase",
-      "people"
-    ]
-  ],
-  "Restaurant": [
-    "restaurant",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Bøn": [
-    "prayer",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Gate": [
-    "street",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Piknik": [
-    "picnic",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Sandwich": [
-    "sandwich",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Hale": [
-    "tail",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Hjarte": [
-    "heart",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Middag": [
-    "noon",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Kopp": [
-    "cup",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Snømann": [
-    "snowman",
-    [
-      "catchphrase",
-      "household",
-      "people"
-    ]
-  ],
-  "Ås": [
-    "hill",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Heilagdag": [
-    "holiday",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Slikkepinne": [
-    "lollipop",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Hóv": [
-    "hoof",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Måndag": [
-    "Monday",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Heis": [
-    "elevator",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Vassmelon": [
-    "watermelon",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Sokk": [
-    "sock",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Lomme": [
-    "pocket",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Bok": [
-    "book",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Spel": [
-    "game",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Lunsj": [
-    "lunch",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Hake": [
-    "chin",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Hovudskalle": [
-    "skull",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Knapp": [
-    "button",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "Gull": [
-    "gold",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Mynt": [
-    "coin",
-    [
-      "catchphrase",
-      "household",
-      "objects"
-    ]
-  ],
-  "Fyr": [
-    "lighthouse",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Lufthamn": [
-    "airport",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Sal til dyr": [
-    "saddle",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Sykkel": [
-    "bicycle",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Sevje": [
-    "sap",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Leppe": [
-    "lip",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Slange": [
-    "hose",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Sag": [
-    "saw",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Tann": [
-    "tooth",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Røyrleggjar": [
-    "plumber",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Snøball": [
-    "snowball",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Fyrstikk": [
-    "match",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Hud": [
-    "skin",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Armbandsur": [
-    "wristwatch",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "Rullebrett": [
-    "skateboard",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "Innsjø": [
-    "lake",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "T-skjorte": [
-    "t-shirt",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "Badestamp": [
-    "hot tub",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Vindmølle": [
-    "windmill",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Svampar": [
-    "sponge",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "Bensin": [
-    "gasoline",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Jarnbane": [
-    "railroad",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Skog": [
-    "forest",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Kart": [
-    "map",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Ugras": [
-    "weed",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "Murstein": [
-    "brick",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Bestefar": [
-    "grandfather",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Ribbein": [
-    "rib",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Kjetting": [
-    "chain",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Tavle": [
-    "blackboard",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Vaskemaskin": [
-    "washing machine",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "Blekk": [
-    "ink",
-    [
-      "catchphrase",
-      "household",
-      "objects"
-    ]
-  ],
-  "Plantar": [
-    "plant",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Lêr": [
-    "leather",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Olje": [
-    "oil",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Avis": [
-    "newspaper",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "Korg": [
-    "basket",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "Plast": [
-    "plastic",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "Fortau": [
-    "sidewalk",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Hovudverk": [
-    "headache",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Lysestake": [
-    "candlestick",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Fotograf": [
-    "photographer",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Skip": [
-    "ship",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Skulder": [
-    "shoulder",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Gyngestol": [
-    "rocking chair",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "Sjakk": [
-    "chess",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Hand": [
-    "hand",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Fløyte": [
-    "flute",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Rakett": [
-    "rocket",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Lag": [
-    "team",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Gåte": [
-    "riddle",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Dekk": [
-    "tire",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Jordskjelv": [
-    "earthquake",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Snøkrystall": [
-    "snowflake",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Insekt": [
-    "insect",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Postvesen": [
-    "mail",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "Trevirke": [
-    "wood",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Dogg": [
-    "dew",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Glidelås": [
-    "zipper",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "Fredag": [
-    "Friday",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Luft": [
-    "air",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Hjerne": [
-    "brain",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Synd": [
-    "sin",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Drikke": [
-    "drink",
-    [
-      "charades",
-      "swadesh"
-    ]
-  ],
-  "Stige": [
-    "ladder",
-    [
-      "charades",
-      "household"
-    ]
-  ],
-  "Stikkemygg": [
-    "mosquito",
-    [
-      "charades"
-    ]
-  ],
-  "Olboge": [
-    "elbow",
-    [
-      "charades"
-    ]
-  ],
-  "Tunge": [
-    "tongue",
-    [
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Song": [
-    "song",
-    [
-      "charades",
-      "objects"
-    ]
-  ],
-  "Einhyrning": [
-    "unicorn",
-    [
-      "charades"
-    ]
-  ],
-  "Leppestift": [
-    "lipstick",
-    [
-      "charades",
-      "household"
-    ]
-  ],
-  "Veng": [
-    "wing",
-    [
-      "charades",
-      "swadesh"
-    ]
-  ],
-  "Leiketøy": [
-    "toy",
-    [
-      "charades",
-      "objects"
-    ]
-  ],
-  "Pingvinar": [
-    "penguin",
-    [
-      "charades"
-    ]
-  ],
-  "Ormar": [
-    "snake",
-    [
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Hjul": [
-    "wheel",
-    [
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Slips": [
-    "necktie",
-    [
-      "charades",
-      "household"
-    ]
-  ],
-  "Sand": [
-    "sand",
-    [
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Knute": [
-    "knot",
-    [
-      "charades"
-    ]
-  ],
-  "Parykk": [
-    "wig",
-    [
-      "charades",
-      "objects"
-    ]
-  ],
-  "Hårtørkar": [
-    "hair dryer",
-    [
-      "charades",
-      "household"
-    ]
-  ],
-  "Golv": [
-    "floor",
-    [
-      "charades",
-      "household"
-    ]
-  ],
-  "Krukke": [
-    "jar",
-    [
-      "charades",
-      "household"
-    ]
-  ],
-  "Tennis": [
-    "tennis",
-    [
-      "charades"
-    ]
-  ],
-  "Tau": [
-    "rope",
-    [
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Tannkrem": [
-    "toothpaste",
-    [
-      "household"
-    ]
-  ],
-  "Skorstein": [
-    "chimney",
-    [
-      "household"
-    ]
-  ],
-  "Tidsskrift": [
-    "magazine",
-    [
-      "household"
-    ]
-  ],
-  "Måltid": [
-    "meal",
-    [
-      "household"
-    ]
-  ],
-  "Viskelêr": [
-    "eraser",
-    [
-      "household",
-      "objects"
-    ]
-  ],
-  "Kjøken": [
-    "kitchen",
-    [
-      "household"
-    ]
-  ],
-  "Tekstilgarn": [
-    "yarn",
-    [
-      "household"
-    ]
-  ],
-  "Vott": [
-    "mitten",
-    [
-      "household"
-    ]
-  ],
-  "Stove": [
-    "living room",
-    [
-      "household"
-    ]
-  ],
-  "Reiskapen bor": [
-    "drill",
-    [
-      "household"
-    ]
-  ],
-  "Globus": [
-    "globe",
-    [
-      "household"
-    ]
-  ],
-  "Solbriller": [
-    "sunglasses",
-    [
-      "household"
-    ]
-  ],
-  "Bøtte": [
-    "bucket",
-    [
-      "household",
-      "objects"
-    ]
-  ],
-  "Glas": [
-    "glass",
-    [
-      "household"
-    ]
-  ],
-  "Krans": [
-    "wreath",
-    [
-      "household"
-    ]
-  ],
-  "Baderom": [
-    "bathroom",
-    [
-      "household"
-    ]
-  ],
-  "Badekar": [
-    "bathtub",
-    [
-      "household"
-    ]
-  ],
-  "Støvlar": [
-    "boot",
-    [
-      "household"
-    ]
-  ],
-  "Skrivebord": [
-    "desk",
-    [
-      "household"
-    ]
-  ],
-  "Hage": [
-    "garden",
-    [
-      "household",
-      "objects"
-    ]
-  ],
-  "Alkohol": [
-    "alcohol",
-    [
-      "objects"
-    ]
-  ],
-  "Engel": [
-    "angel",
-    [
-      "objects"
-    ]
-  ],
-  "Kunst": [
-    "art",
-    [
-      "objects"
-    ]
-  ],
-  "Militært slag": [
-    "battle",
-    [
-      "objects"
-    ]
-  ],
-  "Skjegg": [
-    "beard",
-    [
-      "objects"
-    ]
-  ],
-  "Bikini": [
-    "bikini",
-    [
-      "objects"
-    ]
-  ],
-  "Blod": [
-    "blood",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Bombe": [
-    "bomb",
-    [
-      "objects"
-    ]
-  ],
-  "Knokkel": [
-    "bone",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Børste": [
-    "brush",
-    [
-      "objects"
-    ]
-  ],
-  "Buss": [
-    "bus",
-    [
-      "objects"
-    ]
-  ],
-  "Smør": [
-    "butter",
-    [
-      "objects"
-    ]
-  ],
-  "Kaktus": [
-    "cactus",
-    [
-      "objects"
-    ]
-  ],
-  "Våpenet kanon": [
-    "cannon",
-    [
-      "objects"
-    ]
-  ],
-  "Teppe": [
-    "carpet",
-    [
-      "objects"
-    ]
-  ],
-  "Ost": [
-    "cheese",
-    [
-      "objects"
-    ]
-  ],
-  "Sirkus": [
-    "circus",
-    [
-      "objects"
-    ]
-  ],
-  "Konsert": [
-    "concert",
-    [
-      "objects"
-    ]
-  ],
-  "Mot": [
-    "courage",
-    [
-      "objects"
-    ]
-  ],
-  "Kremfløyte": [
-    "cream",
-    [
-      "objects"
-    ]
-  ],
-  "Krone til hovudet": [
-    "crown",
-    [
-      "objects"
-    ]
-  ],
-  "Død": [
-    "death",
-    [
-      "objects"
-    ]
-  ],
-  "Bleie": [
-    "diaper",
-    [
-      "objects"
-    ]
-  ],
-  "Dinosaurar": [
-    "dinosaur",
-    [
-      "objects"
-    ]
-  ],
-  "Esel": [
-    "donkey",
-    [
-      "objects"
-    ]
-  ],
-  "Fabeldyret drake": [
-    "dragon",
-    [
-      "objects"
-    ]
-  ],
-  "Tromme": [
-    "drum",
-    [
-      "objects"
-    ]
-  ],
-  "Støv": [
-    "dust",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Egg": [
-    "egg",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Energi": [
-    "energy",
-    [
-      "objects"
-    ]
-  ],
-  "Faktum": [
-    "fact",
-    [
-      "objects"
-    ]
-  ],
-  "Fabrikk": [
-    "factory",
-    [
-      "objects"
-    ]
-  ],
-  "Fjør": [
-    "feather",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Feber": [
-    "fever",
-    [
-      "objects"
-    ]
-  ],
-  "Mat": [
-    "food",
-    [
-      "objects"
-    ]
-  ],
-  "Fot": [
-    "foot",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Frukt": [
-    "fruit",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Framtid": [
-    "future",
-    [
-      "objects"
-    ]
-  ],
-  "Galakse": [
-    "galaxy",
-    [
-      "objects"
-    ]
-  ],
-  "Spøkelse": [
-    "ghost",
-    [
-      "objects",
-      "people"
-    ]
-  ],
-  "Gorilla": [
-    "gorilla",
-    [
-      "objects"
-    ]
-  ],
-  "Gravitasjon": [
-    "gravity",
-    [
-      "objects"
-    ]
-  ],
-  "Sorg": [
-    "grief",
-    [
-      "objects"
-    ]
-  ],
-  "Hammar": [
-    "hammer",
-    [
-      "objects"
-    ]
-  ],
-  "Helvete": [
-    "hell",
-    [
-      "objects"
-    ]
-  ],
-  "Hjelm": [
-    "helmet",
-    [
-      "objects"
-    ]
-  ],
-  "Honning": [
-    "honey",
-    [
-      "objects"
-    ]
-  ],
-  "Von": [
-    "hope",
-    [
-      "objects"
-    ]
-  ],
-  "Orkan": [
-    "hurricane",
-    [
-      "objects"
-    ]
-  ],
-  "Øy": [
-    "island",
-    [
-      "objects"
-    ]
-  ],
-  "Vits": [
-    "joke",
-    [
-      "objects"
-    ]
-  ],
-  "Jungel": [
-    "jungle",
-    [
-      "objects"
-    ]
-  ],
-  "Kniv": [
-    "knife",
-    [
-      "objects"
-    ]
-  ],
-  "Kjærleik": [
-    "love",
-    [
-      "objects"
-    ]
-  ],
-  "Maskin": [
-    "machine",
-    [
-      "objects"
-    ]
-  ],
-  "Magnet": [
-    "magnet",
-    [
-      "objects"
-    ]
-  ],
-  "Ekteskap": [
-    "marriage",
-    [
-      "objects"
-    ]
-  ],
-  "Labyrint": [
-    "maze",
-    [
-      "objects"
-    ]
-  ],
-  "Kjøtt": [
-    "meat",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Medisin": [
-    "medicine",
-    [
-      "objects"
-    ]
-  ],
-  "Mjølk": [
-    "milk",
-    [
-      "objects"
-    ]
-  ],
-  "Mirakel": [
-    "miracle",
-    [
-      "objects"
-    ]
-  ],
-  "Drap": [
-    "murder",
-    [
-      "objects"
-    ]
-  ],
-  "Muskel": [
-    "muscle",
-    [
-      "objects"
-    ]
-  ],
-  "Nyhende": [
-    "news",
-    [
-      "objects"
-    ]
-  ],
-  "Støy": [
-    "noise",
-    [
-      "objects"
-    ]
-  ],
-  "Verdshav": [
-    "ocean",
-    [
-      "objects"
-    ]
-  ],
-  "Omn": [
-    "oven",
-    [
-      "objects"
-    ]
-  ],
-  "Oksygen": [
-    "oxygen",
-    [
-      "objects"
-    ]
-  ],
-  "Smerte": [
-    "pain",
-    [
-      "objects"
-    ]
-  ],
-  "Fallskjerm": [
-    "parachute",
-    [
-      "objects"
-    ]
-  ],
-  "Opptog": [
-    "parade",
-    [
-      "objects"
-    ]
-  ],
-  "Labb": [
-    "paw",
-    [
-      "objects"
-    ]
-  ],
-  "Fred": [
-    "peace",
-    [
-      "objects"
-    ]
-  ],
-  "Gift": [
-    "poison",
-    [
-      "objects"
-    ]
-  ],
-  "Popkorn": [
-    "popcorn",
-    [
-      "objects"
-    ]
-  ],
-  "Svangerskap": [
-    "pregnancy",
-    [
-      "objects"
-    ]
-  ],
-  "Protein": [
-    "protein",
-    [
-      "objects"
-    ]
-  ],
-  "Kvalp": [
-    "puppy",
-    [
-      "objects"
-    ]
-  ],
-  "Røyndom": [
-    "reality",
-    [
-      "objects"
-    ]
-  ],
-  "Hemn": [
-    "revenge",
-    [
-      "objects"
-    ]
-  ],
-  "Saus": [
-    "sauce",
-    [
-      "objects"
-    ]
-  ],
-  "Pølse": [
-    "sausage",
-    [
-      "objects"
-    ]
-  ],
-  "Tryggleik": [
-    "security",
-    [
-      "objects"
-    ]
-  ],
-  "Frø": [
-    "seed",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Skam": [
-    "shame",
-    [
-      "objects"
-    ]
-  ],
-  "Stille": [
-    "silence",
-    [
-      "objects"
-    ]
-  ],
-  "Skjelett": [
-    "skeleton",
-    [
-      "objects"
-    ]
-  ],
-  "Himmel": [
-    "sky",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Suppe": [
-    "soup",
-    [
-      "objects"
-    ]
-  ],
-  "Statue": [
-    "statue",
-    [
-      "objects"
-    ]
-  ],
-  "Sukker": [
-    "sugar",
-    [
-      "objects"
-    ]
-  ],
-  "Kirurgi": [
-    "surgery",
-    [
-      "objects"
-    ]
-  ],
-  "Sverd": [
-    "sword",
-    [
-      "objects"
-    ]
-  ],
-  "Skatt": [
-    "tax",
-    [
-      "objects"
-    ]
-  ],
-  "Teleskop": [
-    "telescope",
-    [
-      "objects"
-    ]
-  ],
-  "Strupe": [
-    "throat",
-    [
-      "objects"
-    ]
-  ],
-  "Tid": [
-    "time",
-    [
-      "objects"
-    ]
-  ],
-  "Toalett": [
-    "toilet",
-    [
-      "objects"
-    ]
-  ],
-  "Tårn": [
-    "tower",
-    [
-      "objects"
-    ]
-  ],
-  "Trafikk": [
-    "traffic",
-    [
-      "objects"
-    ]
-  ],
-  "Sanning": [
-    "truth",
-    [
-      "objects"
-    ]
-  ],
-  "Uniform": [
-    "uniform",
-    [
-      "objects"
-    ]
-  ],
-  "Siger": [
-    "victory",
-    [
-      "objects"
-    ]
-  ],
-  "Virus": [
-    "virus",
-    [
-      "objects"
-    ]
-  ],
-  "Vitamin": [
-    "vitamin",
-    [
-      "objects"
-    ]
-  ],
-  "Krig": [
-    "war",
-    [
-      "objects"
-    ]
-  ],
-  "Komikar": [
-    "comedian",
-    [
-      "people"
-    ]
-  ],
-  "Far": [
-    "father",
-    [
-      "people",
-      "swadesh"
-    ]
-  ],
-  "Bestemor": [
-    "grandmother",
-    [
-      "people"
-    ]
-  ],
-  "Advokat": [
-    "lawyer",
-    [
-      "people"
-    ]
-  ],
-  "Tømmerhoggar": [
-    "lumberjack",
-    [
-      "people"
-    ]
-  ],
-  "Ektemann": [
-    "husband",
-    [
-      "people",
-      "swadesh"
-    ]
-  ],
-  "Hustru": [
-    "wife",
-    [
-      "people",
-      "swadesh"
-    ]
-  ],
-  "Politi": [
-    "police",
-    [
-      "people"
-    ]
-  ],
-  "Politikar": [
-    "politician",
-    [
-      "people"
-    ]
-  ],
-  "Prest": [
-    "priest",
-    [
-      "people"
-    ]
-  ],
-  "Soldat": [
-    "soldier",
-    [
-      "people"
-    ]
-  ],
-  "Barn": [
-    "child",
-    [
-      "people",
-      "swadesh"
-    ]
-  ],
-  "Dommar i retten": [
-    "judge",
-    [
-      "people"
-    ]
-  ],
-  "Sekretær som yrke": [
-    "secretary",
-    [
-      "people"
-    ]
-  ],
-  "Ingeniør": [
-    "engineer",
-    [
-      "people"
-    ]
-  ],
-  "Musikar": [
-    "musician",
-    [
-      "people"
-    ]
-  ],
-  "Sjøfolk": [
-    "sailor",
-    [
-      "people"
-    ]
-  ],
-  "Bibliotekar": [
-    "librarian",
-    [
-      "people"
-    ]
-  ],
-  "Gartnar": [
-    "gardener",
-    [
-      "people"
-    ]
-  ],
-  "Kvinne": [
-    "woman",
-    [
-      "swadesh"
-    ]
-  ],
-  "Mor": [
-    "mother",
-    [
-      "swadesh"
-    ]
-  ],
-  "Røter": [
-    "root",
-    [
-      "swadesh"
-    ]
-  ],
-  "Feitt": [
-    "fat",
-    [
-      "swadesh"
-    ]
-  ],
-  "Bryst": [
-    "breast",
-    [
-      "swadesh"
-    ]
-  ],
-  "Lever": [
-    "liver",
-    [
-      "swadesh"
-    ]
-  ],
-  "Lygn": [
-    "lie",
-    [
-      "swadesh"
-    ]
-  ],
-  "Hav": [
-    "sea",
-    [
-      "swadesh"
-    ]
-  ],
-  "Stein": [
-    "stone",
-    [
-      "swadesh"
-    ]
-  ],
-  "Oske": [
-    "ash",
-    [
-      "swadesh"
-    ]
-  ],
-  "År": [
-    "year",
-    [
-      "swadesh"
-    ]
-  ]
+  "1": {
+    "form": "ordbok",
+    "concept": "dictionary/publication that explains the meanings of an ordered list of words"
+  },
+  "37": {
+    "form": "bok",
+    "concept": "book/collection of sheets of paper bound together containing printed or written material"
+  },
+  "68": {
+    "form": "tjern",
+    "concept": "pond/small lake"
+  },
+  "161": {
+    "form": "dialekt",
+    "concept": "dialect/variety of a language"
+  },
+  "167": {
+    "form": "substantiv",
+    "concept": "noun/grammatical category (narrow sense)"
+  },
+  "204": {
+    "form": "verb",
+    "concept": "verb/(grammar) a word that indicates an action, event, or a state"
+  },
+  "208": {
+    "form": "adjektiv",
+    "concept": "adjective/(grammar) a word that modifies a noun or describes a noun’s referent"
+  },
+  "272": {
+    "form": "hovud",
+    "concept": "head/part of the body"
+  },
+  "301": {
+    "form": "graskar",
+    "concept": "pumpkin/plant"
+  },
+  "803": {
+    "form": "kalender",
+    "concept": "calendar/system by which time is divided"
+  },
+  "812": {
+    "form": "veke",
+    "concept": "week/period of seven days"
+  },
+  "822": {
+    "form": "vinter",
+    "concept": "winter/fourth season, marked by short days and lowest temperatures"
+  },
+  "827": {
+    "form": "bein",
+    "concept": "bone/component of a skeleton"
+  },
+  "851": {
+    "form": "i dag",
+    "concept": "today/on the current day"
+  },
+  "1103": {
+    "form": "haust",
+    "concept": "autumn/season"
+  },
+  "1104": {
+    "form": "sumar",
+    "concept": "summer/hottest season"
+  },
+  "1220": {
+    "form": "ulv",
+    "concept": "wolf/animal"
+  },
+  "1225": {
+    "form": "planet",
+    "concept": "planet/each of the seven major bodies which move relative to the fixed stars in the night sky"
+  },
+  "1228": {
+    "form": "stjerne",
+    "concept": "star/id=Q523|luminous celestial body"
+  },
+  "1255": {
+    "form": "null",
+    "concept": "zero/cardinal number before 1, denoting nothing"
+  },
+  "1293": {
+    "form": "alfabet",
+    "concept": "alphabet/an ordered set of letters used in a language"
+  },
+  "1357": {
+    "form": "gras",
+    "concept": "grass/ground cover plant"
+  },
+  "1413": {
+    "form": "bokstav",
+    "concept": "letter/letter of the alphabet"
+  },
+  "1414": {
+    "form": "brev",
+    "concept": "letter/written message"
+  },
+  "1420": {
+    "form": "år",
+    "concept": "year/time it takes for the Earth to complete one revolution around the Sun"
+  },
+  "1460": {
+    "form": "klokke",
+    "concept": "clock/instrument to measure or keep track of time"
+  },
+  "1477": {
+    "form": "kjøt",
+    "concept": "meat/animal flesh used as food"
+  },
+  "1499": {
+    "form": "paraply",
+    "concept": "umbrella/cloth-covered frame used for protection against rain or sun"
+  },
+  "1710": {
+    "form": "språk",
+    "concept": "language/body of words used as a form of communication"
+  },
+  "1718": {
+    "form": "adverb",
+    "concept": "adverb/lexical category"
+  },
+  "1731": {
+    "form": "fløyte",
+    "concept": "flute/woodwind instrument"
+  },
+  "1795": {
+    "form": "våpen",
+    "concept": "weapon/instrument of attack or defense in combat"
+  },
+  "1838": {
+    "form": "løyndom",
+    "concept": "secret/knowledge that is hidden"
+  },
+  "1856": {
+    "form": "fred",
+    "concept": "peace/tranquility, quiet, harmony; absence of violence"
+  },
+  "1859": {
+    "form": "fred",
+    "concept": "peace/state of being free from war"
+  },
+  "1864": {
+    "form": "land",
+    "concept": "country/region of land"
+  },
+  "1865": {
+    "form": "land",
+    "concept": "country/nation state"
+  },
+  "1950": {
+    "form": "no",
+    "concept": "now/at the present time"
+  },
+  "1989": {
+    "form": "open",
+    "concept": "open/not closed"
+  },
+  "2029": {
+    "form": "frukt",
+    "concept": "fruit/part of plant"
+  },
+  "2044": {
+    "form": "ektemann",
+    "concept": "husband/male partner in marriage"
+  },
+  "2047": {
+    "form": "religion",
+    "concept": "religion/system of beliefs dealing with soul, deity and/or life after death"
+  },
+  "2049": {
+    "form": "regjering",
+    "concept": "government/body with the power to make and/or enforce laws"
+  },
+  "2054": {
+    "form": "vegg",
+    "concept": "wall/substantial structure acting as side or division in a building"
+  },
+  "2067": {
+    "form": "morgon",
+    "concept": "morning/part of the day between dawn and midday"
+  },
+  "2068": {
+    "form": "morgon",
+    "concept": "morning/the part of the day after midnight and before midday"
+  },
+  "2095": {
+    "form": "verd",
+    "concept": "world/human collective existence"
+  },
+  "2097": {
+    "form": "verd",
+    "concept": "world/the Earth"
+  },
+  "2129": {
+    "form": "seia",
+    "concept": "say/to pronounce"
+  },
+  "2162": {
+    "form": "gårdag",
+    "concept": "yesterday/day before today"
+  },
+  "2164": {
+    "form": "i går",
+    "concept": "yesterday/on the day before today"
+  },
+  "2165": {
+    "form": "selskap",
+    "concept": "company/in legal context, a corporation"
+  },
+  "2254": {
+    "form": "radio",
+    "concept": "radio/technology"
+  },
+  "2361": {
+    "form": "blod",
+    "concept": "blood/vital liquid flowing in animal bodies"
+  },
+  "2366": {
+    "form": "sjukdom",
+    "concept": "disease/an abnormal condition of the body causing discomfort or dysfunction"
+  },
+  "2461": {
+    "form": "omsetjing",
+    "concept": "translation/act of translating between languages"
+  },
+  "2467": {
+    "form": "kjærleik",
+    "concept": "love/strong affection"
+  },
+  "2531": {
+    "form": "kalkun",
+    "concept": "turkey/bird"
+  },
+  "2583": {
+    "form": "datamaskin",
+    "concept": "computer/device"
+  },
+  "2992": {
+    "form": "kart",
+    "concept": "map/visual representation of an area"
+  },
+  "3074": {
+    "form": "spørje",
+    "concept": "ask/request an answer"
+  },
+  "3076": {
+    "form": "natt",
+    "concept": "night/period between sunset and sunrise"
+  },
+  "3083": {
+    "form": "hær",
+    "concept": "army/military force concerned mainly with ground operations"
+  },
+  "3104": {
+    "form": "ku",
+    "concept": "cow/female domesticated ox or other bovine"
+  },
+  "3140": {
+    "form": "spedbarn",
+    "concept": "baby/very young human being"
+  },
+  "3436": {
+    "form": "tiger",
+    "concept": "tiger/The mammal ''Panthera tigris''"
+  },
+  "3466": {
+    "form": "kyrkje",
+    "concept": "church/house of worship"
+  },
+  "3491": {
+    "form": "tomat",
+    "concept": "tomato/fruit"
+  },
+  "3599": {
+    "form": "rosa",
+    "concept": "pink/pale red colour"
+  },
+  "3613": {
+    "form": "sylv",
+    "concept": "silver/metal"
+  },
+  "3639": {
+    "form": "kvit",
+    "concept": "white/color/colour"
+  },
+  "3834": {
+    "form": "kvinne",
+    "concept": "woman/adult female person"
+  },
+  "3917": {
+    "form": "sjå",
+    "concept": "see/perceive with the eyes"
+  },
+  "3924": {
+    "form": "midnatt",
+    "concept": "midnight/12 am"
+  },
+  "3947": {
+    "form": "middag",
+    "concept": "noon/midday"
+  },
+  "4024": {
+    "form": "person",
+    "concept": "person/individual"
+  },
+  "4129": {
+    "form": "trekant",
+    "concept": "triangle/polygon"
+  },
+  "4137": {
+    "form": "kvadrat",
+    "concept": "square/type of polygon"
+  },
+  "4371": {
+    "form": "hand",
+    "concept": "hand/part of the fore limb"
+  },
+  "4498": {
+    "form": "sebra",
+    "concept": "zebra/African animal"
+  },
+  "4499": {
+    "form": "struts",
+    "concept": "ostrich/large flightless bird"
+  },
+  "4523": {
+    "form": "bilete",
+    "concept": "picture/representation of visible reality produced by drawing, etc"
+  },
+  "4617": {
+    "form": "kakerlakk",
+    "concept": "cockroach/type of insect"
+  },
+  "4633": {
+    "form": "gut",
+    "concept": "boy/young male"
+  },
+  "4643": {
+    "form": "jente",
+    "concept": "girl/young female person"
+  },
+  "4874": {
+    "form": "mylne",
+    "concept": "mill/grinding apparatus"
+  },
+  "4885": {
+    "form": "lêr",
+    "concept": "leather/material produced by tanning animal skin"
+  },
+  "4910": {
+    "form": "øy",
+    "concept": "island/area of land completely surrounded by water"
+  },
+  "4934": {
+    "form": "fugl",
+    "concept": "bird/animal"
+  },
+  "5002": {
+    "form": "luft",
+    "concept": "air/mixture of gases making up the atmosphere of the Earth"
+  },
+  "5146": {
+    "form": "aust",
+    "concept": "east/compass point"
+  },
+  "5152": {
+    "form": "sør",
+    "concept": "south/compass point"
+  },
+  "5157": {
+    "form": "vest",
+    "concept": "west/compass point"
+  },
+  "5201": {
+    "form": "tjukk",
+    "concept": "thick/relatively great in extent from one surface to another"
+  },
+  "5226": {
+    "form": "voks",
+    "concept": "wax/oily, water-resistant substance"
+  },
+  "5285": {
+    "form": "forelder",
+    "concept": "parent/person from whom one is descended"
+  },
+  "5324": {
+    "form": "barn",
+    "concept": "child/a female or male child, a daughter or son"
+  },
+  "5329": {
+    "form": "son",
+    "concept": "son/a male person in relation to his parents"
+  },
+  "5336": {
+    "form": "bestefar",
+    "concept": "grandfather/grandfather (from either side)"
+  },
+  "5341": {
+    "form": "soneson",
+    "concept": "grandson/son of one's child"
+  },
+  "5353": {
+    "form": "svigerfar",
+    "concept": "father-in-law/one's spouse's father"
+  },
+  "5354": {
+    "form": "svigermor",
+    "concept": "mother-in-law/spouse’s mother"
+  },
+  "5365": {
+    "form": "svigerson",
+    "concept": "son-in-law/son-in-law"
+  },
+  "5366": {
+    "form": "svigerdotter",
+    "concept": "daughter-in-law/wife of one's child"
+  },
+  "5372": {
+    "form": "honning",
+    "concept": "honey/sweet substance produced by bees"
+  },
+  "5385": {
+    "form": "veng",
+    "concept": "wing/part of an animal"
+  },
+  "5422": {
+    "form": "temperatur",
+    "concept": "temperature/a measure of cold or heat"
+  },
+  "5475": {
+    "form": "regnboge",
+    "concept": "rainbow/multicoloured arch in the sky"
+  },
+  "5510": {
+    "form": "blom",
+    "concept": "flower/reproductive structure in angiosperms"
+  },
+  "5536": {
+    "form": "tommel",
+    "concept": "thumb/digit"
+  },
+  "5555": {
+    "form": "and",
+    "concept": "duck/aquatic bird of the family Anatidae"
+  },
+  "5568": {
+    "form": "grønsak",
+    "concept": "vegetable/a plant raised for some edible part of it"
+  },
+  "5859": {
+    "form": "rotte",
+    "concept": "rat/rodent"
+  },
+  "5925": {
+    "form": "skjelpadde",
+    "concept": "turtle/land or marine reptile with a shell"
+  },
+  "5939": {
+    "form": "bronse",
+    "concept": "bronze/alloy"
+  },
+  "5953": {
+    "form": "komet",
+    "concept": "comet/a celestial body, generally with a tail"
+  },
+  "6016": {
+    "form": "skjelpadde",
+    "concept": "tortoise/land-dwelling reptile"
+  },
+  "6020": {
+    "form": "penn",
+    "concept": "pen/writing tool"
+  },
+  "6026": {
+    "form": "kopar",
+    "concept": "copper/id=Q753|chemical element"
+  },
+  "6035": {
+    "form": "stol",
+    "concept": "chair/furniture"
+  },
+  "6050": {
+    "form": "rose",
+    "concept": "rose/flower"
+  },
+  "6137": {
+    "form": "helikopter",
+    "concept": "helicopter/aircraft"
+  },
+  "6149": {
+    "form": "håndvåpen",
+    "concept": "gun/a very portable, short weapon, for hand use"
+  },
+  "6217": {
+    "form": "prest",
+    "concept": "priest/clergyman (clergywoman, clergyperson)"
+  },
+  "6230": {
+    "form": "jordbær",
+    "concept": "strawberry/fruit"
+  },
+  "6245": {
+    "form": "sitron",
+    "concept": "lemon/citrus fruit"
+  },
+  "6301": {
+    "form": "ris",
+    "concept": "rice/plants"
+  },
+  "6302": {
+    "form": "ris",
+    "concept": "rice/seeds used as food"
+  },
+  "6310": {
+    "form": "stråle",
+    "concept": "ray/beam of light or radiation"
+  },
+  "6384": {
+    "form": "moské",
+    "concept": "mosque/a place of worship for Muslims"
+  },
+  "6413": {
+    "form": "palass",
+    "concept": "palace/large, lavish residence"
+  },
+  "6448": {
+    "form": "bytte",
+    "concept": "bucket/container"
+  },
+  "6573": {
+    "form": "flaggermus",
+    "concept": "bat/small flying mammal"
+  },
+  "6706": {
+    "form": "song",
+    "concept": "song/music with words"
+  },
+  "6711": {
+    "form": "syngja",
+    "concept": "sing/to produce harmonious sounds with one’s voice"
+  },
+  "6713": {
+    "form": "gråta",
+    "concept": "cry/intransitive: to weep"
+  },
+  "6726": {
+    "form": "tåra",
+    "concept": "tear/drop of clear salty liquid from the eyes"
+  },
+  "6728": {
+    "form": "auge",
+    "concept": "eye/organ"
+  },
+  "6770": {
+    "form": "lyd",
+    "concept": "sound/sensation perceived by the ear"
+  },
+  "6795": {
+    "form": "stemma",
+    "concept": "voice/sound uttered by the mouth"
+  },
+  "6941": {
+    "form": "lita",
+    "concept": "look/to try to see"
+  },
+  "7067": {
+    "form": "tann",
+    "concept": "tooth/biological tooth"
+  },
+  "7071": {
+    "form": "hår",
+    "concept": "hair/a pigmented keratinaceous growth on the human head"
+  },
+  "7072": {
+    "form": "hår",
+    "concept": "hair/the collection or mass of filaments growing from the skin of humans and animals"
+  },
+  "7074": {
+    "form": "øyra",
+    "concept": "ear/organ of hearing"
+  },
+  "7081": {
+    "form": "nase",
+    "concept": "nose/protuberance on the face"
+  },
+  "7099": {
+    "form": "olboge",
+    "concept": "elbow/joint between upper arm and forearm"
+  },
+  "7102": {
+    "form": "bein",
+    "concept": "leg/lower limb from groin to ankle"
+  },
+  "7112": {
+    "form": "fot",
+    "concept": "foot/part of human body {{jump|t|human body part}}"
+  },
+  "7125": {
+    "form": "hals",
+    "concept": "neck/the part of body connecting the head and the trunk found in humans and some animals"
+  },
+  "7150": {
+    "form": "snigel",
+    "concept": "snail/any animal of the class ''Gastropoda'' having a shell"
+  },
+  "7152": {
+    "form": "engel",
+    "concept": "angel/messenger from a deity"
+  },
+  "7170": {
+    "form": "andlet",
+    "concept": "face/front part of head"
+  },
+  "7253": {
+    "form": "lukt",
+    "concept": "smell/sensation"
+  },
+  "7257": {
+    "form": "bukse",
+    "concept": "pants/garment covering the body from the waist downwards"
+  },
+  "7362": {
+    "form": "gås",
+    "concept": "goose/a grazing waterfowl of the family Anatidae"
+  },
+  "7365": {
+    "form": "hæl",
+    "concept": "heel/anatomy: part of the foot"
+  },
+  "7386": {
+    "form": "svane",
+    "concept": "swan/waterfowl of the genus ''Cygnus''"
+  },
+  "7418": {
+    "form": "gate",
+    "concept": "street/paved part of road in a village or a town"
+  },
+  "7544": {
+    "form": "livmor",
+    "concept": "womb/uterus"
+  },
+  "7600": {
+    "form": "republikk",
+    "concept": "republic/a type of state"
+  },
+  "7602": {
+    "form": "høy",
+    "concept": "hay/grass cut and dried for use as animal fodder"
+  },
+  "7607": {
+    "form": "svolten",
+    "concept": "hungry/affected by hunger; desirous of food"
+  },
+  "7613": {
+    "form": "vêr",
+    "concept": "weather/state of the atmosphere"
+  },
+  "7791": {
+    "form": "hustru",
+    "concept": "wife/married woman"
+  },
+  "7873": {
+    "form": "handflate",
+    "concept": "palm/inner, concave part of hand"
+  },
+  "7914": {
+    "form": "smerte",
+    "concept": "pain/ache or bodily suffering"
+  },
+  "8024": {
+    "form": "vitskap",
+    "concept": "science/collective discipline of learning acquired through the scientific method"
+  },
+  "8031": {
+    "form": "jordskjelv",
+    "concept": "earthquake/shaking of the surface of a planet"
+  },
+  "8067": {
+    "form": "bjørn",
+    "concept": "bear/large mammal of family Ursidae"
+  },
+  "8231": {
+    "form": "augevippe",
+    "concept": "eyelash/hair growing on the edge of an eyelid"
+  },
+  "8232": {
+    "form": "augelok",
+    "concept": "eyelid/(anatomy) a thin skin membrane that covers and moves over an eye"
+  },
+  "8418": {
+    "form": "bringe",
+    "concept": "bring/to transport toward somebody/somewhere"
+  },
+  "8592": {
+    "form": "due",
+    "concept": "dove/bird of the family Columbidae"
+  },
+  "8619": {
+    "form": "draum",
+    "concept": "dream/imaginary events seen while sleeping"
+  },
+  "8626": {
+    "form": "full",
+    "concept": "drunk/intoxicated after drinking too much alcohol"
+  },
+  "8771": {
+    "form": "fluge",
+    "concept": "fly/insect of the family Muscidae"
+  },
+  "8773": {
+    "form": "fly",
+    "concept": "fly/to travel through air"
+  },
+  "8863": {
+    "form": "gløyma",
+    "concept": "forget/to lose remembrance of"
+  },
+  "9042": {
+    "form": "due",
+    "concept": "pigeon/bird of the pigeon and dove family Columbidae"
+  },
+  "9326": {
+    "form": "i morgon",
+    "concept": "tomorrow/on the day after the present day"
+  },
+  "9371": {
+    "form": "ull",
+    "concept": "wool/hair of sheep, etc."
+  },
+  "9497": {
+    "form": "skjorte",
+    "concept": "shirt/article of clothing"
+  },
+  "9547": {
+    "form": "tore",
+    "concept": "thunder/sound caused by lightning"
+  },
+  "9591": {
+    "form": "saman",
+    "concept": "together/at the same time, in the same place"
+  },
+  "9735": {
+    "form": "saks",
+    "concept": "scissors/tool used for cutting"
+  },
+  "9785": {
+    "form": "kamera",
+    "concept": "camera/still camera"
+  },
+  "9787": {
+    "form": "ost",
+    "concept": "cheese/dairy product"
+  },
+  "9816": {
+    "form": "bjølle",
+    "concept": "bell/percussive instrument"
+  },
+  "9852": {
+    "form": "billeg",
+    "concept": "cheap/low in price"
+  },
+  "9969": {
+    "form": "båt",
+    "concept": "boat/water craft"
+  },
+  "9987": {
+    "form": "knapp",
+    "concept": "button/knob or small disc serving as a fastener"
+  },
+  "10023": {
+    "form": "krit",
+    "concept": "chalk/a piece of chalk used for drawing and on a blackboard"
+  },
+  "10048": {
+    "form": "smør",
+    "concept": "butter/soft foodstuff made from milk"
+  },
+  "10050": {
+    "form": "bru",
+    "concept": "bridge/construction or natural feature that spans a divide"
+  },
+  "10079": {
+    "form": "gardin",
+    "concept": "curtain/piece of cloth covering a window"
+  },
+  "10100": {
+    "form": "murstein",
+    "concept": "brick/hardened block used for building"
+  },
+  "11013": {
+    "form": "symja",
+    "concept": "swim/move through water"
+  },
+  "11052": {
+    "form": "tanke",
+    "concept": "thought/form created in the mind"
+  },
+  "11250": {
+    "form": "kokk",
+    "concept": "cook/a person who prepares food for a living"
+  },
+  "11284": {
+    "form": "bomullsplante",
+    "concept": "cotton/plant"
+  },
+  "11357": {
+    "form": "sky",
+    "concept": "cloud/visible mass of water droplets suspended in the air"
+  },
+  "11452": {
+    "form": "kol",
+    "concept": "coal/uncountable: carbon rock"
+  },
+  "11459": {
+    "form": "ball",
+    "concept": "ball/solid or hollow sphere"
+  },
+  "11460": {
+    "form": "ball",
+    "concept": "ball/object, generally spherical, used for playing games"
+  },
+  "11630": {
+    "form": "jarn",
+    "concept": "iron/id=Q677|element"
+  },
+  "11709": {
+    "form": "is",
+    "concept": "ice/water in frozen form"
+  },
+  "11722": {
+    "form": "innsjø",
+    "concept": "lake/body of water"
+  },
+  "11853": {
+    "form": "geit",
+    "concept": "goat/animal"
+  },
+  "11888": {
+    "form": "fiolin",
+    "concept": "violin/string instrument"
+  },
+  "11910": {
+    "form": "penis",
+    "concept": "penis/male organ for copulation and urination"
+  },
+  "11916": {
+    "form": "høne",
+    "concept": "chicken/bird"
+  },
+  "11931": {
+    "form": "svale",
+    "concept": "swallow/bird"
+  },
+  "11950": {
+    "form": "påfugl",
+    "concept": "peacock/pheasant of one of the genera ''Pavo'' and ''Afropavo''"
+  },
+  "11951": {
+    "form": "sommarfugl",
+    "concept": "butterfly/id=Q11946202|insect"
+  },
+  "12000": {
+    "form": "ugle",
+    "concept": "owl/a bird"
+  },
+  "12024": {
+    "form": "storfe",
+    "concept": "cattle/domesticated bovine animals"
+  },
+  "12028": {
+    "form": "kamel",
+    "concept": "camel/beast of burden"
+  },
+  "12042": {
+    "form": "piggsvin",
+    "concept": "hedgehog/animal"
+  },
+  "12048": {
+    "form": "hare",
+    "concept": "hare/animal"
+  },
+  "12054": {
+    "form": "grevling",
+    "concept": "badger/mammal"
+  },
+  "12082": {
+    "form": "ekorn",
+    "concept": "squirrel/rodent"
+  },
+  "12200": {
+    "form": "hjarte",
+    "concept": "heart/an organ"
+  },
+  "12239": {
+    "form": "mørk",
+    "concept": "dark/having an absolute or relative lack of light"
+  },
+  "12260": {
+    "form": "død",
+    "concept": "death/cessation of life"
+  },
+  "12294": {
+    "form": "dommar",
+    "concept": "judge/public judicial official"
+  },
+  "12369": {
+    "form": "smal",
+    "concept": "narrow/having small width"
+  },
+  "12380": {
+    "form": "vid",
+    "concept": "wide/having a large physical extent from side to side"
+  },
+  "12409": {
+    "form": "liv",
+    "concept": "life/the state of being alive"
+  },
+  "12497": {
+    "form": "kniv",
+    "concept": "knife/utensil or tool designed for cutting"
+  },
+  "12503": {
+    "form": "metall",
+    "concept": "metal/atomic element''' or '''material made of such atoms"
+  },
+  "12505": {
+    "form": "fjell",
+    "concept": "mountain/large mass of earth and rock"
+  },
+  "12527": {
+    "form": "hale",
+    "concept": "tail/appendage of an animal"
+  },
+  "12561": {
+    "form": "sverd",
+    "concept": "sword/weapon"
+  },
+  "12584": {
+    "form": "tung",
+    "concept": "heavy/having great weight"
+  },
+  "12596": {
+    "form": "lever",
+    "concept": "liver/organ of the body"
+  },
+  "12608": {
+    "form": "nær",
+    "concept": "near/physically close"
+  },
+  "12645": {
+    "form": "gamal",
+    "concept": "old/of an object, concept, etc: having existed for a relatively long period of time"
+  },
+  "12646": {
+    "form": "gamal",
+    "concept": "old/of a living being: having lived for relatively many years"
+  },
+  "12707": {
+    "form": "mage",
+    "concept": "stomach/digestive organ"
+  },
+  "12774": {
+    "form": "telja",
+    "concept": "count/to enumerate or determine number"
+  },
+  "12809": {
+    "form": "sand",
+    "concept": "sand/finely ground rock"
+  },
+  "12859": {
+    "form": "flamme",
+    "concept": "flame/visible part of fire"
+  },
+  "12869": {
+    "form": "oske",
+    "concept": "ash/solid remains of a fire"
+  },
+  "12940": {
+    "form": "snø",
+    "concept": "snow/precipitation"
+  },
+  "12966": {
+    "form": "heis",
+    "concept": "lift/mechanical device for vertically transporting goods or people"
+  },
+  "13133": {
+    "form": "vene",
+    "concept": "vein/blood vessel"
+  },
+  "13157": {
+    "form": "keisar",
+    "concept": "emperor/ruler of an empire"
+  },
+  "13184": {
+    "form": "stat",
+    "concept": "state/any sovereign polity"
+  },
+  "13256": {
+    "form": "kommunisme",
+    "concept": "communism/philosophy"
+  },
+  "13439": {
+    "form": "nøtt",
+    "concept": "nut/hard-shelled fruit"
+  },
+  "13516": {
+    "form": "kalv",
+    "concept": "calf/young cow or bull"
+  },
+  "13628": {
+    "form": "dogg",
+    "concept": "dew/moisture in the air that settles on plants, etc"
+  },
+  "13644": {
+    "form": "hammar",
+    "concept": "hammer/tool"
+  },
+  "13728": {
+    "form": "skjegg",
+    "concept": "beard/facial hair"
+  },
+  "14016": {
+    "form": "hydrogen",
+    "concept": "hydrogen/id=Q556|chemical element"
+  },
+  "14026": {
+    "form": "termometer",
+    "concept": "thermometer/apparatus used to measure temperature"
+  },
+  "14428": {
+    "form": "nashorn",
+    "concept": "rhinoceros/herbivorous pachyderm with horn(s)"
+  },
+  "14657": {
+    "form": "biologi",
+    "concept": "biology/study of living matter"
+  },
+  "14712": {
+    "form": "lommetørkle",
+    "concept": "handkerchief/cloth for wiping the face, eyes, nose or hands"
+  },
+  "14717": {
+    "form": "pære",
+    "concept": "pear/fruit"
+  },
+  "14750": {
+    "form": "nyre",
+    "concept": "kidney/an organ in the body"
+  },
+  "15004": {
+    "form": "nitrogen",
+    "concept": "nitrogen/id=Q627|chemical element"
+  },
+  "15006": {
+    "form": "oksygen",
+    "concept": "oxygen/id=Q629|chemical element"
+  },
+  "15019": {
+    "form": "fly",
+    "concept": "airplane/powered aircraft"
+  },
+  "15100": {
+    "form": "fysikk",
+    "concept": "physics/branch of science"
+  },
+  "15114": {
+    "form": "bryst",
+    "concept": "breast/milk-producing organ"
+  },
+  "15126": {
+    "form": "vindauge",
+    "concept": "window/opening for light and air"
+  },
+  "15155": {
+    "form": "minne",
+    "concept": "memory/ability to recall"
+  },
+  "15250": {
+    "form": "universitet",
+    "concept": "university/institution of higher education"
+  },
+  "15254": {
+    "form": "edderkopp",
+    "concept": "spider/arthropod"
+  },
+  "15585": {
+    "form": "hav",
+    "concept": "sea/body of water"
+  },
+  "15818": {
+    "form": "sjiraff",
+    "concept": "giraffe/mammal"
+  },
+  "15893": {
+    "form": "dansar",
+    "concept": "dancer/person who dances"
+  },
+  "16056": {
+    "form": "motorsykkel",
+    "concept": "motorcycle/open-seated motor-powered vehicle with two wheels"
+  },
+  "16116": {
+    "form": "helium",
+    "concept": "helium/id=Q560|chemical element"
+  },
+  "16117": {
+    "form": "mjølk",
+    "concept": "milk/liquid"
+  },
+  "16143": {
+    "form": "fjør",
+    "concept": "feather/branching, hair-like structure that grows on the bodies of birds"
+  },
+  "16163": {
+    "form": "karbon",
+    "concept": "carbon/id=Q623|chemical element"
+  },
+  "16741": {
+    "form": "halvdel",
+    "concept": "half/one of two equal parts into which anything may be divided"
+  },
+  "16787": {
+    "form": "loppe",
+    "concept": "flea/parasitic insect"
+  },
+  "16799": {
+    "form": "brunn",
+    "concept": "well/hole sunk into the ground"
+  },
+  "16811": {
+    "form": "lus",
+    "concept": "louse/insect"
+  },
+  "16814": {
+    "form": "insekt",
+    "concept": "insect/arthropod of class ''insecta''"
+  },
+  "16970": {
+    "form": "by",
+    "concept": "town/settlement"
+  },
+  "16971": {
+    "form": "butikk",
+    "concept": "shop/establishment that sells goods"
+  },
+  "16988": {
+    "form": "namn",
+    "concept": "surname/name that indicates family"
+  },
+  "17115": {
+    "form": "sveitte",
+    "concept": "sweat/fluid that exits the body through pores"
+  },
+  "17137": {
+    "form": "utdanning",
+    "concept": "education/process or art of imparting knowledge, skill and judgment"
+  },
+  "17177": {
+    "form": "gaffel",
+    "concept": "fork/eating utensil"
+  },
+  "17211": {
+    "form": "fjernsyn",
+    "concept": "television/medium"
+  },
+  "17212": {
+    "form": "fjernsyn",
+    "concept": "television/device for receiving television signals"
+  },
+  "17387": {
+    "form": "problem",
+    "concept": "problem/difficulty"
+  },
+  "17625": {
+    "form": "boge",
+    "concept": "bow/weapon used for shooting arrows"
+  },
+  "18009": {
+    "form": "skip",
+    "concept": "ship/large water vessel"
+  },
+  "18064": {
+    "form": "fødselsdag",
+    "concept": "birthday/anniversary"
+  },
+  "18094": {
+    "form": "nål",
+    "concept": "needle/implement for sewing etc."
+  },
+  "18310": {
+    "form": "film",
+    "concept": "movie/motion picture"
+  },
+  "18340": {
+    "form": "mandel",
+    "concept": "almond/nut"
+  },
+  "18356": {
+    "form": "rektangel",
+    "concept": "rectangle/quadrilateral"
+  },
+  "18493": {
+    "form": "nagl",
+    "concept": "nail/on fingers and toes"
+  },
+  "18733": {
+    "form": "slave",
+    "concept": "slave/person owned by another"
+  },
+  "18803": {
+    "form": "skalla",
+    "concept": "bald/having no hair"
+  },
+  "18934": {
+    "form": "flaum",
+    "concept": "flood/overflow of water"
+  },
+  "19263": {
+    "form": "paradis",
+    "concept": "paradise/heaven"
+  },
+  "19312": {
+    "form": "omsetjar",
+    "concept": "translator/someone who translates"
+  },
+  "19377": {
+    "form": "avis",
+    "concept": "newspaper/publication"
+  },
+  "19380": {
+    "form": "glas",
+    "concept": "glass/substance"
+  },
+  "19381": {
+    "form": "glas",
+    "concept": "glass/drinking vessel"
+  },
+  "19427": {
+    "form": "iskrem",
+    "concept": "ice cream/dessert"
+  },
+  "19479": {
+    "form": "strand",
+    "concept": "beach/sandy shore"
+  },
+  "19819": {
+    "form": "lengd",
+    "concept": "length/distance from end to end"
+  },
+  "20203": {
+    "form": "arbeidar",
+    "concept": "worker/person who performs labor"
+  },
+  "20404": {
+    "form": "kvitlauk",
+    "concept": "garlic/plant"
+  },
+  "20517": {
+    "form": "arkeologi",
+    "concept": "archaeology/scientific study of past remains"
+  },
+  "20559": {
+    "form": "sopp",
+    "concept": "mushroom/fruiting body of a fungus"
+  },
+  "20868": {
+    "form": "advokat",
+    "concept": "lawyer/professional person authorized to practice law"
+  },
+  "20870": {
+    "form": "bonde",
+    "concept": "farmer/person who works the land and/or who keeps livestock"
+  },
+  "20892": {
+    "form": "krypdyr",
+    "concept": "reptile/a cold-blooded vertebrate"
+  },
+  "20925": {
+    "form": "hjul",
+    "concept": "wheel/a circular device facilitating movement or transportation"
+  },
+  "21080": {
+    "form": "horn",
+    "concept": "horn/growth on the heads of certain animals"
+  },
+  "21133": {
+    "form": "løve",
+    "concept": "lion/big cat ''Panthera leo''"
+  },
+  "21139": {
+    "form": "flodhest",
+    "concept": "hippopotamus/large African mammal"
+  },
+  "21185": {
+    "form": "ape",
+    "concept": "monkey/primate"
+  },
+  "21188": {
+    "form": "krokodille",
+    "concept": "crocodile/reptile"
+  },
+  "21255": {
+    "form": "dal",
+    "concept": "valley/elongated depression between hills or mountains"
+  },
+  "21263": {
+    "form": "kveite",
+    "concept": "wheat/grain"
+  },
+  "21266": {
+    "form": "heks",
+    "concept": "witch/person who uses magic"
+  },
+  "21288": {
+    "form": "øgle",
+    "concept": "lizard/reptile"
+  },
+  "21312": {
+    "form": "stål",
+    "concept": "steel/metal produced from iron"
+  },
+  "21451": {
+    "form": "hylle",
+    "concept": "shelf/structure"
+  },
+  "21525": {
+    "form": "gard",
+    "concept": "farm/a place where agricultural activities take place"
+  },
+  "21594": {
+    "form": "potet",
+    "concept": "potato/plant tuber eaten as starchy vegetable"
+  },
+  "21907": {
+    "form": "ananas",
+    "concept": "pineapple/fruit"
+  },
+  "21912": {
+    "form": "mais",
+    "concept": "maize/corn; a type of grain of the species ''Zea mays''"
+  },
+  "22112": {
+    "form": "blekk",
+    "concept": "ink/coloured fluid used for writing"
+  },
+  "22457": {
+    "form": "blad",
+    "concept": "leaf/part of a plant"
+  },
+  "22486": {
+    "form": "tjuv",
+    "concept": "thief/one who carries out theft"
+  },
+  "22626": {
+    "form": "mango",
+    "concept": "mango/fruit"
+  },
+  "22657": {
+    "form": "tau",
+    "concept": "rope/thick, strong string"
+  },
+  "22678": {
+    "form": "orkan",
+    "concept": "hurricane/weather phenomenon"
+  },
+  "22878": {
+    "form": "lukke",
+    "concept": "happiness/id=Q8|emotion of being happy"
+  },
+  "22902": {
+    "form": "diamant",
+    "concept": "diamond/uncountable: mineral"
+  },
+  "23313": {
+    "form": "same",
+    "concept": "same/not different as regards self; identical"
+  },
+  "23422": {
+    "form": "bil",
+    "concept": "automobile/passenger vehicle"
+  },
+  "23428": {
+    "form": "drake",
+    "concept": "dragon/mythical creature"
+  },
+  "23497": {
+    "form": "veps",
+    "concept": "wasp/insect"
+  },
+  "23508": {
+    "form": "kvalp",
+    "concept": "puppy/young dog"
+  },
+  "23630": {
+    "form": "korgball",
+    "concept": "basketball/the sport"
+  },
+  "23774": {
+    "form": "frø",
+    "concept": "seed/fertilized grain"
+  },
+  "23785": {
+    "form": "rot",
+    "concept": "root/part of a plant"
+  },
+  "23809": {
+    "form": "kreft",
+    "concept": "cancer/disease of uncontrolled cellular proliferation"
+  },
+  "23811": {
+    "form": "padde",
+    "concept": "toad/amphibian similar to a frog"
+  },
+  "23828": {
+    "form": "bork",
+    "concept": "bark/exterior covering of a tree"
+  },
+  "24402": {
+    "form": "saus",
+    "concept": "sauce/liquid condiment"
+  },
+  "24423": {
+    "form": "tarm",
+    "concept": "intestine/alimentary canal"
+  },
+  "24425": {
+    "form": "geografi",
+    "concept": "geography/study of physical structure and inhabitants of the Earth"
+  },
+  "24521": {
+    "form": "erm",
+    "concept": "sleeve/part of a garment that covers the arm"
+  },
+  "24638": {
+    "form": "verdshav",
+    "concept": "ocean/one of the large bodies of water"
+  },
+  "24685": {
+    "form": "lunge",
+    "concept": "lung/organ that extracts oxygen from the air"
+  },
+  "25228": {
+    "form": "bart",
+    "concept": "moustache/hair on upper lip"
+  },
+  "25320": {
+    "form": "brud",
+    "concept": "bride/woman in the context of her own wedding"
+  },
+  "25332": {
+    "form": "spyd",
+    "concept": "spear/long stick with a sharp tip"
+  },
+  "25808": {
+    "form": "hai",
+    "concept": "shark/fish"
+  },
+  "25813": {
+    "form": "kval",
+    "concept": "whale/large sea mammal"
+  },
+  "26042": {
+    "form": "mirakel",
+    "concept": "miracle/wonderful event attributed to supernatural powers"
+  },
+  "26184": {
+    "form": "demon",
+    "concept": "demon/evil spirit"
+  },
+  "26314": {
+    "form": "ankel",
+    "concept": "ankle/joint between foot and leg"
+  },
+  "26474": {
+    "form": "husvære",
+    "concept": "apartment/domicile occupying part of a building"
+  },
+  "26700": {
+    "form": "omn",
+    "concept": "oven/chamber used for baking or heating"
+  },
+  "26808": {
+    "form": "drope",
+    "concept": "drop/small mass of liquid"
+  },
+  "26852": {
+    "form": "agurk",
+    "concept": "cucumber/edible fruit"
+  },
+  "26955": {
+    "form": "urin",
+    "concept": "urine/liquid excrement"
+  },
+  "27040": {
+    "form": "hotell",
+    "concept": "hotel/establishment providing accommodation"
+  },
+  "27061": {
+    "form": "homofili",
+    "concept": "homosexuality/sexual orientation"
+  },
+  "27402": {
+    "form": "klippe",
+    "concept": "cliff/a (near) vertical rock face"
+  },
+  "27486": {
+    "form": "farefull",
+    "concept": "dangerous/full of danger"
+  },
+  "27535": {
+    "form": "suppe",
+    "concept": "soup/dish"
+  },
+  "27583": {
+    "form": "ubåt",
+    "concept": "submarine/undersea boat"
+  },
+  "27911": {
+    "form": "helse",
+    "concept": "health/state of being free of physical or psychological disease, illness, or malfunction"
+  },
+  "28113": {
+    "form": "skei",
+    "concept": "spoon/scooped utensil for eating (or serving)"
+  },
+  "28607": {
+    "form": "eik",
+    "concept": "oak/tree or shrub of the genus ''Quercus''"
+  },
+  "29254": {
+    "form": "bølgje",
+    "concept": "wave/moving disturbance, undulation"
+  },
+  "29482": {
+    "form": "venta",
+    "concept": "wait/delay until some event"
+  },
+  "29637": {
+    "form": "slektning",
+    "concept": "relative/someone in the same family; someone connected by blood, marriage, or adoption"
+  },
+  "29729": {
+    "form": "klede",
+    "concept": "clothing/clothes"
+  },
+  "29814": {
+    "form": "soldat",
+    "concept": "soldier/member of an army"
+  },
+  "29836": {
+    "form": "bryllaup",
+    "concept": "wedding/marriage ceremony"
+  },
+  "29991": {
+    "form": "songar",
+    "concept": "singer/person who sings"
+  },
+  "30144": {
+    "form": "bolle",
+    "concept": "bowl/container"
+  },
+  "30152": {
+    "form": "lærar",
+    "concept": "teacher/person who teaches"
+  },
+  "30407": {
+    "form": "regel",
+    "concept": "rule/regulation"
+  },
+  "30559": {
+    "form": "virus",
+    "concept": "virus/infectious organism"
+  },
+  "31655": {
+    "form": "side",
+    "concept": "page/one side of a leaf of a book"
+  },
+  "31697": {
+    "form": "park",
+    "concept": "park/ground for recreation"
+  },
+  "31824": {
+    "form": "taksi",
+    "concept": "taxi/vehicle"
+  },
+  "31862": {
+    "form": "kjøken",
+    "concept": "kitchen/room"
+  },
+  "32424": {
+    "form": "matematikk",
+    "concept": "mathematics/field of study"
+  },
+  "32431": {
+    "form": "spegel",
+    "concept": "mirror/smooth reflecting surface"
+  },
+  "32450": {
+    "form": "skjelett",
+    "concept": "skeleton/system that provides support to an organism"
+  },
+  "32583": {
+    "form": "armhole",
+    "concept": "armpit/cavity beneath the junction of the arm and shoulder"
+  },
+  "32585": {
+    "form": "hòle",
+    "concept": "cave/large, naturally occurring cavity formed underground"
+  },
+  "32599": {
+    "form": "fuglereir",
+    "concept": "nest/bird-built structure"
+  },
+  "32853": {
+    "form": "krabbe",
+    "concept": "crab/crustacean"
+  },
+  "33132": {
+    "form": "grav",
+    "concept": "grave/excavation for burial"
+  },
+  "33508": {
+    "form": "håp",
+    "concept": "hope/belief that something wished for can happen"
+  },
+  "33624": {
+    "form": "furu",
+    "concept": "pine/tree of the genus ''Pinus''"
+  },
+  "33660": {
+    "form": "dokke",
+    "concept": "doll/a toy in the form of a human"
+  },
+  "33670": {
+    "form": "delfin",
+    "concept": "dolphin/aquatic mammal"
+  },
+  "33796": {
+    "form": "lomme",
+    "concept": "pocket/bag stitched to an item of clothing"
+  },
+  "34064": {
+    "form": "silke",
+    "concept": "silk/fiber"
+  },
+  "34440": {
+    "form": "såpe",
+    "concept": "soap/substance"
+  },
+  "34506": {
+    "form": "vassmelon",
+    "concept": "watermelon/fruit"
+  },
+  "34585": {
+    "form": "augebryn",
+    "concept": "eyebrow/hair that grows over the bone ridge above the eye socket"
+  },
+  "35109": {
+    "form": "klima",
+    "concept": "climate/long-term atmospheric conditions"
+  },
+  "35169": {
+    "form": "foss",
+    "concept": "waterfall/flow of water over the edge of a cliff"
+  },
+  "35586": {
+    "form": "rik",
+    "concept": "rich/having wealth"
+  },
+  "35688": {
+    "form": "nyheit",
+    "concept": "news/new information of interest"
+  },
+  "35880": {
+    "form": "statue",
+    "concept": "statue/three-dimensional work of art"
+  },
+  "36003": {
+    "form": "etasje",
+    "concept": "storey/floor, level"
+  },
+  "36190": {
+    "form": "leire",
+    "concept": "clay/mineral substance"
+  },
+  "36375": {
+    "form": "flyplass",
+    "concept": "airport/place designated for airplanes"
+  },
+  "36935": {
+    "form": "yoghurt",
+    "concept": "yogurt/a milk-based product thickened by a bacterium-aided curdling process"
+  },
+  "36960": {
+    "form": "idrett",
+    "concept": "sport/any athletic activity that uses physical skills"
+  },
+  "37372": {
+    "form": "blind",
+    "concept": "blind/unable to see"
+  },
+  "37389": {
+    "form": "lat",
+    "concept": "lazy/unwilling to work"
+  },
+  "37671": {
+    "form": "mørker",
+    "concept": "darkness/state of being dark"
+  },
+  "37836": {
+    "form": "venskap",
+    "concept": "friendship/(''uncountable'') condition of being friends"
+  },
+  "39325": {
+    "form": "siger",
+    "concept": "victory/an instance of having won a competition or battle"
+  },
+  "41443": {
+    "form": "sjølvstende",
+    "concept": "independence/state or quality of being independent"
+  },
+  "43581": {
+    "form": "handkle",
+    "concept": "towel/cloth used for wiping"
+  },
+  "44005": {
+    "form": "poesi",
+    "concept": "poetry/class of literature"
+  },
+  "44554": {
+    "form": "god morgon",
+    "concept": "good morning/when seeing someone for the first time in the morning"
+  },
+  "45478": {
+    "form": "politi",
+    "concept": "police/an organisation that enforces the law"
+  },
+  "45783": {
+    "form": "aftan",
+    "concept": "evening/time of day between the approximate time of midwinter dusk and midnight"
+  },
+  "45958": {
+    "form": "be",
+    "concept": "pray/to petition a higher being"
+  },
+  "45975": {
+    "form": "sump",
+    "concept": "swamp/type of wetland"
+  },
+  "46625": {
+    "form": "soverom",
+    "concept": "bedroom/room in a house where a bed is kept for sleeping"
+  },
+  "47096": {
+    "form": "gravid",
+    "concept": "pregnant/carrying developing offspring within the body"
+  },
+  "47384": {
+    "form": "skulder",
+    "concept": "shoulder/joint between arm and torso"
+  },
+  "47935": {
+    "form": "molekyl",
+    "concept": "molecule/group of atoms held together by chemical bonds"
+  },
+  "48133": {
+    "form": "mose",
+    "concept": "moss/plants of the division Bryophyta"
+  },
+  "48240": {
+    "form": "gjerde",
+    "concept": "fence/barrier"
+  },
+  "48452": {
+    "form": "grense",
+    "concept": "border/the line or frontier area separating regions"
+  },
+  "48984": {
+    "form": "tromme",
+    "concept": "drum/musical instrument"
+  },
+  "49614": {
+    "form": "bønn",
+    "concept": "prayer/practice of communicating with one's God"
+  },
+  "49967": {
+    "form": "kiste",
+    "concept": "coffin/box in which a dead person is buried"
+  },
+  "50247": {
+    "form": "svolt",
+    "concept": "hunger/need for food"
+  },
+  "50406": {
+    "form": "tvilling",
+    "concept": "twin/either of two people who shared the same uterus, or of two similar or closely related objects"
+  },
+  "50912": {
+    "form": "halskjede",
+    "concept": "necklace/jewelry"
+  },
+  "51942": {
+    "form": "kino",
+    "concept": "cinema/a film/movie theatre"
+  },
+  "54455": {
+    "form": "tannkrem",
+    "concept": "toothpaste/paste for cleaning the teeth"
+  },
+  "56144": {
+    "form": "lekse",
+    "concept": "lesson/section of learning or teaching"
+  },
+  "56584": {
+    "form": "lommebok",
+    "concept": "wallet/case for keeping money"
+  },
+  "57672": {
+    "form": "trillebår",
+    "concept": "wheelbarrow/small cart"
+  },
+  "57937": {
+    "form": "øyredobb",
+    "concept": "earring/piece of jewelry"
+  },
+  "57950": {
+    "form": "enkje",
+    "concept": "widow/woman whose spouse has died"
+  },
+  "62223": {
+    "form": "morsmål",
+    "concept": "mother tongue/one's native tongue"
+  },
+  "62677": {
+    "form": "ribbein",
+    "concept": "rib/curved bone"
+  },
+  "62701": {
+    "form": "steikepanne",
+    "concept": "frying pan/long-handled, shallow pan used for frying food"
+  },
+  "64442": {
+    "form": "terrorisme",
+    "concept": "terrorism/use of terror as a means of coercion"
+  },
+  "70224": {
+    "form": "sal",
+    "concept": "saddle/seat on an animal"
+  },
+  "70800": {
+    "form": "symjebasseng",
+    "concept": "swimming pool/pool for swimming"
+  },
+  "73886": {
+    "form": "bandasje",
+    "concept": "bandage/medical binding"
+  },
+  "75875": {
+    "form": "kyrkjegard",
+    "concept": "graveyard/tract of land in which the dead are buried"
+  },
+  "83183": {
+    "form": "slips",
+    "concept": "necktie/strip of cloth worn around the neck and tied in the front"
+  },
+  "84601": {
+    "form": "leite",
+    "concept": "look for/search; seek"
+  },
+  "86275": {
+    "form": "nasjonalsong",
+    "concept": "national anthem/official song of a nation or country"
+  },
+  "103753": {
+    "form": "spindelvev",
+    "concept": "spiderweb/net-like construct of a spider"
+  },
+  "110307": {
+    "form": "hovudstad",
+    "concept": "capital city/city designated as seat of government"
+  },
+  "116425": {
+    "form": "feitt",
+    "concept": "fat/specialized animal tissue"
+  },
+  "119862": {
+    "form": "slikke",
+    "concept": "lick/to stroke with the tongue"
+  },
+  "149009": {
+    "form": "eld",
+    "concept": "fire/translations/oxidation reaction"
+  },
+  "149132": {
+    "form": "gud",
+    "concept": "god/translations/deity"
+  },
+  "149221": {
+    "form": "egg",
+    "concept": "egg/translations/body housing an embryo"
+  },
+  "149222": {
+    "form": "egg",
+    "concept": "egg/translations/egg of domestic fowl as food item"
+  }
 };

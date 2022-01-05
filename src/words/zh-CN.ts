@@ -1,3656 +1,5092 @@
 export default {
-  "铁": [
-    "iron",
-    [
-      "charades"
-    ]
-  ],
-  "图书馆": [
-    "library",
-    [
-      "catchphrase"
-    ]
-  ],
-  "妹妹": [
-    "sister",
-    [
-      "catchphrase"
-    ]
-  ],
-  "笔记本": [
-    "notebook",
-    [
-      "catchphrase"
-    ]
-  ],
-  "外层空间": [
-    "outer space",
-    [
-      "catchphrase"
-    ]
-  ],
-  "刹车": [
-    "brake",
-    [
-      "catchphrase"
-    ]
-  ],
-  "鲨鱼": [
-    "shark",
-    [
-      "charades"
-    ]
-  ],
-  "钱": [
-    "money",
-    [
-      "objects"
-    ]
-  ],
-  "隧道": [
-    "tunnel",
-    [
-      "objects"
-    ]
-  ],
-  "电话": [
-    "telephone",
-    [
-      "objects"
-    ]
-  ],
-  "拖把": [
-    "mop",
-    [
-      "charades"
-    ]
-  ],
-  "挥手": [
-    "wave",
-    [
-      "charades"
-    ]
-  ],
-  "海滩": [
-    "beach",
-    [
-      "objects"
-    ]
-  ],
-  "银行": [
-    "bank",
-    [
-      "catchphrase"
-    ]
-  ],
-  "膝盖": [
-    "knee",
-    [
-      "swadesh"
-    ]
-  ],
-  "咳嗽": [
-    "cough",
-    [
-      "catchphrase"
-    ]
-  ],
-  "铅笔": [
-    "pencil",
-    [
-      "household"
-    ]
-  ],
-  "黑色": [
-    "black",
-    [
-      "swadesh"
-    ]
-  ],
-  "婚礼": [
-    "wedding",
-    [
-      "catchphrase"
-    ]
-  ],
-  "广播": [
-    "radio",
-    [
-      "objects"
-    ]
-  ],
-  "牙刷": [
-    "toothbrush",
-    [
-      "household"
-    ]
-  ],
-  "猪": [
-    "pig",
-    [
-      "charades"
-    ]
-  ],
-  "睡眠": [
-    "sleep",
-    [
-      "swadesh"
-    ]
-  ],
-  "录像机": [
-    "video camera",
-    [
-      "household"
-    ]
-  ],
-  "踝关节": [
-    "ankle",
-    [
-      "catchphrase"
-    ]
-  ],
-  "青花菜": [
-    "broccoli",
-    [
-      "catchphrase"
-    ]
-  ],
-  "睡衣": [
-    "pajamas",
-    [
-      "household"
-    ]
-  ],
-  "果汁": [
-    "juice",
-    [
-      "objects"
-    ]
-  ],
-  "月球": [
-    "moon",
-    [
-      "swadesh"
-    ]
-  ],
-  "暴风雨": [
-    "storm",
-    [
-      "objects"
-    ]
-  ],
-  "吉他": [
-    "guitar",
-    [
-      "catchphrase"
-    ]
-  ],
-  "动物": [
-    "animal",
-    [
-      "swadesh"
-    ]
-  ],
-  "运动员": [
-    "athlete",
-    [
-      "people"
-    ]
-  ],
-  "额头": [
-    "forehead",
-    [
-      "charades"
-    ]
-  ],
-  "电脑": [
-    "computer",
-    [
-      "objects"
-    ]
-  ],
-  "爪子": [
-    "paw",
-    [
-      "objects"
-    ]
-  ],
-  "购物": [
-    "shopping",
-    [
-      "catchphrase"
-    ]
-  ],
-  "韵律": [
-    "rhyme",
-    [
-      "catchphrase"
-    ]
-  ],
-  "喷泉": [
-    "fountain",
-    [
-      "objects"
-    ]
-  ],
-  "王子": [
-    "prince",
-    [
-      "catchphrase"
-    ]
-  ],
-  "笔": [
-    "pen",
-    [
-      "objects"
-    ]
-  ],
-  "大衣": [
-    "coat",
-    [
-      "objects"
-    ]
-  ],
-  "小提琴": [
-    "violin",
-    [
-      "charades"
-    ]
-  ],
-  "出租车": [
-    "taxi",
-    [
-      "charades"
-    ]
-  ],
-  "红色": [
-    "red",
-    [
-      "swadesh"
-    ]
-  ],
-  "袋子": [
-    "bag",
-    [
-      "objects"
-    ]
-  ],
-  "玻璃": [
-    "glasses",
-    [
-      "objects"
-    ]
-  ],
-  "汽车": [
-    "car",
-    [
-      "objects"
-    ]
-  ],
-  "游泳馆": [
-    "swimming pool",
-    [
-      "household"
-    ]
-  ],
-  "礼物": [
-    "gift",
-    [
-      "catchphrase"
-    ]
-  ],
-  "拖拉机": [
-    "tractor",
-    [
-      "catchphrase"
-    ]
-  ],
-  "衣服": [
-    "dress",
-    [
-      "household"
-    ]
-  ],
-  "国家": [
-    "country",
-    [
-      "catchphrase"
-    ]
-  ],
-  "雹子": [
-    "hail",
-    [
-      "catchphrase"
-    ]
-  ],
-  "口": [
-    "mouth",
-    [
-      "swadesh"
-    ]
-  ],
-  "兄弟": [
-    "brother",
-    [
-      "household"
-    ]
-  ],
-  "房屋": [
-    "house",
-    [
-      "objects"
-    ]
-  ],
-  "催眠曲": [
-    "lullaby",
-    [
-      "catchphrase"
-    ]
-  ],
-  "消火栓": [
-    "fire hydrant",
-    [
-      "catchphrase"
-    ]
-  ],
-  "犬": [
-    "dog",
-    [
-      "swadesh"
-    ]
-  ],
-  "鸡肉": [
-    "chicken",
-    [
-      "objects"
-    ]
-  ],
-  "耳朵": [
-    "ear",
-    [
-      "swadesh"
-    ]
-  ],
-  "男人": [
-    "man",
-    [
-      "swadesh"
-    ]
-  ],
-  "晚上": [
-    "night",
-    [
-      "swadesh"
-    ]
-  ],
-  "猫": [
-    "cat",
-    [
-      "charades"
-    ]
-  ],
-  "鱼": [
-    "fish",
-    [
-      "swadesh"
-    ]
-  ],
-  "山区": [
-    "mountain",
-    [
-      "swadesh"
-    ]
-  ],
-  "过山车": [
-    "roller coaster",
-    [
-      "catchphrase"
-    ]
-  ],
-  "食堂": [
-    "cafeteria",
-    [
-      "catchphrase"
-    ]
-  ],
-  "表妹": [
-    "cousin",
-    [
-      "catchphrase"
-    ]
-  ],
-  "涂料": [
-    "paint",
-    [
-      "objects"
-    ]
-  ],
-  "鼻子": [
-    "nose",
-    [
-      "swadesh"
-    ]
-  ],
-  "类型": [
-    "type",
-    [
-      "catchphrase"
-    ]
-  ],
-  "动物园": [
-    "zoo",
-    [
-      "catchphrase"
-    ]
-  ],
-  "怪物": [
-    "monster",
-    [
-      "objects"
-    ]
-  ],
-  "捉迷藏": [
-    "hide-and-seek",
-    [
-      "catchphrase"
-    ]
-  ],
-  "艺术家": [
-    "artist",
-    [
-      "people"
-    ]
-  ],
-  "钻石": [
-    "diamond",
-    [
-      "catchphrase"
-    ]
-  ],
-  "洗碗机": [
-    "dishwasher",
-    [
-      "catchphrase"
-    ]
-  ],
-  "胃": [
-    "stomach",
-    [
-      "charades"
-    ]
-  ],
-  "黄色": [
-    "yellow",
-    [
-      "swadesh"
-    ]
-  ],
-  "勺子": [
-    "spoon",
-    [
-      "household"
-    ]
-  ],
-  "狐狸": [
-    "fox",
-    [
-      "catchphrase"
-    ]
-  ],
-  "头发": [
-    "hair",
-    [
-      "swadesh"
-    ]
-  ],
-  "鸟儿": [
-    "bird",
-    [
-      "swadesh"
-    ]
-  ],
-  "生日": [
-    "birthday",
-    [
-      "catchphrase"
-    ]
-  ],
-  "水": [
-    "water",
-    [
-      "swadesh"
-    ]
-  ],
-  "梦想": [
-    "dream",
-    [
-      "objects"
-    ]
-  ],
-  "订书机": [
-    "stapler",
-    [
-      "household"
-    ]
-  ],
-  "云": [
-    "cloud",
-    [
-      "swadesh"
-    ]
-  ],
-  "大象": [
-    "elephant",
-    [
-      "objects"
-    ]
-  ],
-  "缠绕": [
-    "wind",
-    [
-      "swadesh"
-    ]
-  ],
-  "学校": [
-    "school",
-    [
-      "objects"
-    ]
-  ],
-  "墙": [
-    "wall",
-    [
-      "objects"
-    ]
-  ],
-  "计算器": [
-    "calculator",
-    [
-      "catchphrase"
-    ]
-  ],
-  "芭蕾舞": [
-    "ballet",
-    [
-      "catchphrase"
-    ]
-  ],
-  "指": [
-    "finger",
-    [
-      "objects"
-    ]
-  ],
-  "圣诞节": [
-    "Christmas",
-    [
-      "catchphrase"
-    ]
-  ],
-  "贝壳": [
-    "seashell",
-    [
-      "charades"
-    ]
-  ],
-  "糖果": [
-    "candy",
-    [
-      "objects"
-    ]
-  ],
-  "科学家": [
-    "scientist",
-    [
-      "people"
-    ]
-  ],
-  "衬衫": [
-    "shirt",
-    [
-      "objects"
-    ]
-  ],
-  "冷": [
-    "cold",
-    [
-      "swadesh"
-    ]
-  ],
-  "风筝": [
-    "kite",
-    [
-      "objects"
-    ]
-  ],
-  "船": [
-    "boat",
-    [
-      "objects"
-    ]
-  ],
-  "箱子": [
-    "box",
-    [
-      "objects"
-    ]
-  ],
-  "脚趾": [
-    "toe",
-    [
-      "charades"
-    ]
-  ],
-  "护士": [
-    "nurse",
-    [
-      "people"
-    ]
-  ],
-  "自动扶梯": [
-    "escalator",
-    [
-      "catchphrase"
-    ]
-  ],
-  "训练": [
-    "drill",
-    [
-      "household"
-    ]
-  ],
-  "鞋子": [
-    "shoe",
-    [
-      "household"
-    ]
-  ],
-  "盐": [
-    "salt",
-    [
-      "swadesh"
-    ]
-  ],
-  "彩虹": [
-    "rainbow",
-    [
-      "charades"
-    ]
-  ],
-  "演员": [
-    "actor",
-    [
-      "people"
-    ]
-  ],
-  "蛋糕": [
-    "cake",
-    [
-      "catchphrase"
-    ]
-  ],
-  "冰淇淋甜筒": [
-    "ice cream cone",
-    [
-      "catchphrase"
-    ]
-  ],
-  "三角形": [
-    "triangle",
-    [
-      "catchphrase"
-    ]
-  ],
-  "鸭子": [
-    "duck",
-    [
-      "catchphrase"
-    ]
-  ],
-  "肺部": [
-    "lung",
-    [
-      "charades"
-    ]
-  ],
-  "很好": [
-    "good",
-    [
-      "swadesh"
-    ]
-  ],
-  "头": [
-    "head",
-    [
-      "swadesh"
-    ]
-  ],
-  "狼": [
-    "wolf",
-    [
-      "charades"
-    ]
-  ],
-  "树": [
-    "tree",
-    [
-      "swadesh"
-    ]
-  ],
-  "太阳": [
-    "sun",
-    [
-      "swadesh"
-    ]
-  ],
-  "蜡烛": [
-    "candle",
-    [
-      "objects"
-    ]
-  ],
-  "淋浴": [
-    "shower",
-    [
-      "objects"
-    ]
-  ],
-  "房间": [
-    "room",
-    [
-      "catchphrase"
-    ]
-  ],
-  "女孩": [
-    "girl",
-    [
-      "catchphrase"
-    ]
-  ],
-  "雷霆": [
-    "thunder",
-    [
-      "catchphrase"
-    ]
-  ],
-  "床位": [
-    "bed",
-    [
-      "objects"
-    ]
-  ],
-  "词典": [
-    "dictionary",
-    [
-      "catchphrase"
-    ]
-  ],
-  "闹钟": [
-    "alarm clock",
-    [
-      "charades"
-    ]
-  ],
-  "大王": [
-    "king",
-    [
-      "people"
-    ]
-  ],
-  "拥抱": [
-    "hug",
-    [
-      "objects"
-    ]
-  ],
-  "娃娃": [
-    "doll",
-    [
-      "objects"
-    ]
-  ],
-  "榻榻米": [
-    "couch",
-    [
-      "objects"
-    ]
-  ],
-  "桥梁": [
-    "bridge",
-    [
-      "objects"
-    ]
-  ],
-  "孙子": [
-    "grandchild",
-    [
-      "catchphrase"
-    ]
-  ],
-  "武装": [
-    "arm",
-    [
-      "charades"
-    ]
-  ],
-  "雪": [
-    "snow",
-    [
-      "swadesh"
-    ]
-  ],
-  "树屋": [
-    "tree house",
-    [
-      "catchphrase"
-    ]
-  ],
-  "消防车": [
-    "fire engine",
-    [
-      "catchphrase"
-    ]
-  ],
-  "毛巾": [
-    "towel",
-    [
-      "objects"
-    ]
-  ],
-  "镜子": [
-    "mirror",
-    [
-      "objects"
-    ]
-  ],
-  "电视": [
-    "television",
-    [
-      "objects"
-    ]
-  ],
-  "篮球": [
-    "basketball",
-    [
-      "charades"
-    ]
-  ],
-  "噩梦": [
-    "nightmare",
-    [
-      "objects"
-    ]
-  ],
-  "消防站": [
-    "fire station",
-    [
-      "catchphrase"
-    ]
-  ],
-  "帐篷": [
-    "tent",
-    [
-      "objects"
-    ]
-  ],
-  "棒球": [
-    "baseball",
-    [
-      "charades"
-    ]
-  ],
-  "绿色": [
-    "green",
-    [
-      "swadesh"
-    ]
-  ],
-  "屋顶": [
-    "roof",
-    [
-      "household"
-    ]
-  ],
-  "火": [
-    "fire",
-    [
-      "swadesh"
-    ]
-  ],
-  "摩托车": [
-    "motorcycle",
-    [
-      "catchphrase"
-    ]
-  ],
-  "闪电": [
-    "lightning",
-    [
-      "objects"
-    ]
-  ],
-  "男孩": [
-    "boy",
-    [
-      "objects"
-    ]
-  ],
-  "喙": [
-    "beak",
-    [
-      "catchphrase"
-    ]
-  ],
-  "钟表": [
-    "clock",
-    [
-      "objects"
-    ]
-  ],
-  "煎锅": [
-    "frying pan",
-    [
-      "catchphrase"
-    ]
-  ],
-  "脸颊": [
-    "cheek",
-    [
-      "charades"
-    ]
-  ],
-  "蜘蛛": [
-    "spider",
-    [
-      "objects"
-    ]
-  ],
-  "音乐": [
-    "music",
-    [
-      "objects"
-    ]
-  ],
-  "舞蹈": [
-    "dance",
-    [
-      "objects"
-    ]
-  ],
-  "纸": [
-    "paper",
-    [
-      "objects"
-    ]
-  ],
-  "仙子": [
-    "fairy",
-    [
-      "objects"
-    ]
-  ],
-  "轮椅": [
-    "wheelchair",
-    [
-      "catchphrase"
-    ]
-  ],
-  "腿部": [
-    "leg",
-    [
-      "swadesh"
-    ]
-  ],
-  "泥巴": [
-    "mud",
-    [
-      "objects"
-    ]
-  ],
-  "冬季": [
-    "winter",
-    [
-      "catchphrase"
-    ]
-  ],
-  "博物馆": [
-    "museum",
-    [
-      "catchphrase"
-    ]
-  ],
-  "歌手": [
-    "singer",
-    [
-      "people"
-    ]
-  ],
-  "瓶子": [
-    "bottle",
-    [
-      "objects"
-    ]
-  ],
-  "花": [
-    "flower",
-    [
-      "swadesh"
-    ]
-  ],
-  "新娘": [
-    "bride",
-    [
-      "catchphrase"
-    ]
-  ],
-  "手电筒": [
-    "flashlight",
-    [
-      "household"
-    ]
-  ],
-  "天": [
-    "day",
-    [
-      "swadesh"
-    ]
-  ],
-  "教室": [
-    "classroom",
-    [
-      "catchphrase"
-    ]
-  ],
-  "阴影": [
-    "shadow",
-    [
-      "objects"
-    ]
-  ],
-  "白色": [
-    "white",
-    [
-      "swadesh"
-    ]
-  ],
-  "伞": [
-    "umbrella",
-    [
-      "objects"
-    ]
-  ],
-  "虫子": [
-    "worm",
-    [
-      "swadesh"
-    ]
-  ],
-  "裘皮": [
-    "fur",
-    [
-      "objects"
-    ]
-  ],
-  "白垩": [
-    "chalk",
-    [
-      "objects"
-    ]
-  ],
-  "围巾": [
-    "scarf",
-    [
-      "objects"
-    ]
-  ],
-  "帽子": [
-    "hat",
-    [
-      "objects"
-    ]
-  ],
-  "游乐场": [
-    "playground",
-    [
-      "catchphrase"
-    ]
-  ],
-  "狮子": [
-    "lion",
-    [
-      "charades"
-    ]
-  ],
-  "枕头": [
-    "pillow",
-    [
-      "objects"
-    ]
-  ],
-  "旗帜": [
-    "flag",
-    [
-      "objects"
-    ]
-  ],
-  "厕纸": [
-    "toilet paper",
-    [
-      "household"
-    ]
-  ],
-  "胡萝卜": [
-    "carrot",
-    [
-      "objects"
-    ]
-  ],
-  "家庭": [
-    "family",
-    [
-      "objects"
-    ]
-  ],
-  "球": [
-    "ball",
-    [
-      "objects"
-    ]
-  ],
-  "蝴蝶": [
-    "butterfly",
-    [
-      "objects"
-    ]
-  ],
-  "剪刀": [
-    "scissors",
-    [
-      "household"
-    ]
-  ],
-  "道路": [
-    "road",
-    [
-      "swadesh"
-    ]
-  ],
-  "行李箱": [
-    "suitcase",
-    [
-      "household"
-    ]
-  ],
-  "栅栏": [
-    "fence",
-    [
-      "objects"
-    ]
-  ],
-  "地球": [
-    "earth",
-    [
-      "swadesh"
-    ]
-  ],
-  "正方形": [
-    "square",
-    [
-      "catchphrase"
-    ]
-  ],
-  "打喷嚏": [
-    "sneeze",
-    [
-      "charades"
-    ]
-  ],
-  "窗口": [
-    "window",
-    [
-      "objects"
-    ]
-  ],
-  "柠檬": [
-    "lemon",
-    [
-      "catchphrase"
-    ]
-  ],
-  "机器人": [
-    "robot",
-    [
-      "people"
-    ]
-  ],
-  "苹果": [
-    "apple",
-    [
-      "catchphrase"
-    ]
-  ],
-  "洗衣店": [
-    "laundry",
-    [
-      "catchphrase"
-    ]
-  ],
-  "公园": [
-    "park",
-    [
-      "catchphrase"
-    ]
-  ],
-  "马匹": [
-    "horse",
-    [
-      "objects"
-    ]
-  ],
-  "铲子": [
-    "shovel",
-    [
-      "objects"
-    ]
-  ],
-  "球囊": [
-    "balloon",
-    [
-      "objects"
-    ]
-  ],
-  "灯泡": [
-    "light bulb",
-    [
-      "catchphrase"
-    ]
-  ],
-  "颈部": [
-    "neck",
-    [
-      "swadesh"
-    ]
-  ],
-  "火山": [
-    "volcano",
-    [
-      "objects"
-    ]
-  ],
-  "巢穴": [
-    "nest",
-    [
-      "objects"
-    ]
-  ],
-  "叶子": [
-    "leaf",
-    [
-      "swadesh"
-    ]
-  ],
-  "葡萄": [
-    "grape",
-    [
-      "catchphrase"
-    ]
-  ],
-  "割草机": [
-    "lawn mower",
-    [
-      "household"
-    ]
-  ],
-  "门": [
-    "door",
-    [
-      "objects"
-    ]
-  ],
-  "带子": [
-    "belt",
-    [
-      "objects"
-    ]
-  ],
-  "虎子": [
-    "tiger",
-    [
-      "objects"
-    ]
-  ],
-  "褶皱": [
-    "wrinkle",
-    [
-      "catchphrase"
-    ]
-  ],
-  "早餐": [
-    "breakfast",
-    [
-      "charades"
-    ]
-  ],
-  "背包": [
-    "backpack",
-    [
-      "charades"
-    ]
-  ],
-  "冰": [
-    "ice",
-    [
-      "swadesh"
-    ]
-  ],
-  "蝙蝠": [
-    "bat",
-    [
-      "catchphrase"
-    ]
-  ],
-  "目前": [
-    "present",
-    [
-      "catchphrase"
-    ]
-  ],
-  "雾": [
-    "fog",
-    [
-      "swadesh"
-    ]
-  ],
-  "光": [
-    "light",
-    [
-      "objects"
-    ]
-  ],
-  "农场": [
-    "farm",
-    [
-      "objects"
-    ]
-  ],
-  "扫帚": [
-    "broom",
-    [
-      "objects"
-    ]
-  ],
-  "眼睛": [
-    "eye",
-    [
-      "swadesh"
-    ]
-  ],
-  "航天员": [
-    "astronaut",
-    [
-      "people"
-    ]
-  ],
-  "牙医": [
-    "dentist",
-    [
-      "charades"
-    ]
-  ],
-  "明星": [
-    "star",
-    [
-      "swadesh"
-    ]
-  ],
-  "直升机": [
-    "helicopter",
-    [
-      "catchphrase"
-    ]
-  ],
-  "肥皂": [
-    "soap",
-    [
-      "objects"
-    ]
-  ],
-  "城市": [
-    "city",
-    [
-      "catchphrase"
-    ]
-  ],
-  "雨": [
-    "rain",
-    [
-      "swadesh"
-    ]
-  ],
-  "叉子": [
-    "fork",
-    [
-      "objects"
-    ]
-  ],
-  "校车": [
-    "school bus",
-    [
-      "catchphrase"
-    ]
-  ],
-  "学生": [
-    "student",
-    [
-      "people"
-    ]
-  ],
-  "蓝色的": [
-    "blue",
-    [
-      "catchphrase"
-    ]
-  ],
-  "椅子": [
-    "chair",
-    [
-      "objects"
-    ]
-  ],
-  "裙子": [
-    "skirt",
-    [
-      "objects"
-    ]
-  ],
-  "卡车": [
-    "truck",
-    [
-      "catchphrase"
-    ]
-  ],
-  "小丑": [
-    "clown",
-    [
-      "people"
-    ]
-  ],
-  "循环": [
-    "circle",
-    [
-      "charades"
-    ]
-  ],
-  "河流": [
-    "river",
-    [
-      "swadesh"
-    ]
-  ],
-  "山洞": [
-    "cave",
-    [
-      "objects"
-    ]
-  ],
-  "党": [
-    "party",
-    [
-      "objects"
-    ]
-  ],
-  "碗": [
-    "bowl",
-    [
-      "catchphrase"
-    ]
-  ],
-  "冰箱": [
-    "refrigerator",
-    [
-      "household"
-    ]
-  ],
-  "烟雾": [
-    "smoke",
-    [
-      "swadesh"
-    ]
-  ],
-  "蜥蜴": [
-    "lizard",
-    [
-      "catchphrase"
-    ]
-  ],
-  "健身房": [
-    "gym",
-    [
-      "charades"
-    ]
-  ],
-  "阶梯": [
-    "stairs",
-    [
-      "household"
-    ]
-  ],
-  "笑容": [
-    "smile",
-    [
-      "objects"
-    ]
-  ],
-  "水槽": [
-    "sink",
-    [
-      "catchphrase"
-    ]
-  ],
-  "眉毛": [
-    "eyebrow",
-    [
-      "catchphrase"
-    ]
-  ],
-  "飞机": [
-    "airplane",
-    [
-      "charades"
-    ]
-  ],
-  "老师": [
-    "teacher",
-    [
-      "people"
-    ]
-  ],
-  "卧室": [
-    "bedroom",
-    [
-      "household"
-    ]
-  ],
-  "钱包": [
-    "wallet",
-    [
-      "household"
-    ]
-  ],
-  "餐馆": [
-    "restaurant",
-    [
-      "catchphrase"
-    ]
-  ],
-  "梨子": [
-    "pear",
-    [
-      "catchphrase"
-    ]
-  ],
-  "祈祷者": [
-    "prayer",
-    [
-      "objects"
-    ]
-  ],
-  "街道": [
-    "street",
-    [
-      "objects"
-    ]
-  ],
-  "野餐": [
-    "picnic",
-    [
-      "catchphrase"
-    ]
-  ],
-  "三明治": [
-    "sandwich",
-    [
-      "catchphrase"
-    ]
-  ],
-  "长牙": [
-    "tusk",
-    [
-      "charades"
-    ]
-  ],
-  "尾巴": [
-    "tail",
-    [
-      "swadesh"
-    ]
-  ],
-  "心": [
-    "heart",
-    [
-      "swadesh"
-    ]
-  ],
-  "中午": [
-    "noon",
-    [
-      "catchphrase"
-    ]
-  ],
-  "杯子": [
-    "cup",
-    [
-      "objects"
-    ]
-  ],
-  "雪人": [
-    "snowman",
-    [
-      "people"
-    ]
-  ],
-  "山丘": [
-    "hill",
-    [
-      "charades"
-    ]
-  ],
-  "假期": [
-    "holiday",
-    [
-      "catchphrase"
-    ]
-  ],
-  "雀斑": [
-    "freckle",
-    [
-      "catchphrase"
-    ]
-  ],
-  "家庭作业": [
-    "homework",
-    [
-      "household"
-    ]
-  ],
-  "棒棒糖": [
-    "lollipop",
-    [
-      "charades"
-    ]
-  ],
-  "蹄子": [
-    "hoof",
-    [
-      "catchphrase"
-    ]
-  ],
-  "星期一": [
-    "Monday",
-    [
-      "catchphrase"
-    ]
-  ],
-  "电梯": [
-    "elevator",
-    [
-      "catchphrase"
-    ]
-  ],
-  "紫色": [
-    "purple",
-    [
-      "catchphrase"
-    ]
-  ],
-  "西瓜": [
-    "watermelon",
-    [
-      "catchphrase"
-    ]
-  ],
-  "摄像机": [
-    "camera",
-    [
-      "objects"
-    ]
-  ],
-  "指甲油": [
-    "nail polish",
-    [
-      "catchphrase"
-    ]
-  ],
-  "饭盒": [
-    "lunchbox",
-    [
-      "household"
-    ]
-  ],
-  "袜子": [
-    "sock",
-    [
-      "charades"
-    ]
-  ],
-  "口袋": [
-    "pocket",
-    [
-      "objects"
-    ]
-  ],
-  "书": [
-    "book",
-    [
-      "objects"
-    ]
-  ],
-  "游戏": [
-    "game",
-    [
-      "objects"
-    ]
-  ],
-  "午餐": [
-    "lunch",
-    [
-      "catchphrase"
-    ]
-  ],
-  "下巴": [
-    "chin",
-    [
-      "charades"
-    ]
-  ],
-  "笑靥如花": [
-    "dimple",
-    [
-      "charades"
-    ]
-  ],
-  "头骨": [
-    "skull",
-    [
-      "objects"
-    ]
-  ],
-  "按钮": [
-    "button",
-    [
-      "household"
-    ]
-  ],
-  "黄金": [
-    "gold",
-    [
-      "catchphrase"
-    ]
-  ],
-  "钱币": [
-    "coin",
-    [
-      "objects"
-    ]
-  ],
-  "结婚戒指": [
-    "wedding ring",
-    [
-      "catchphrase"
-    ]
-  ],
-  "灯塔": [
-    "lighthouse",
-    [
-      "catchphrase"
-    ]
-  ],
-  "机场": [
-    "airport",
-    [
-      "catchphrase"
-    ]
-  ],
-  "鞍座": [
-    "saddle",
-    [
-      "charades"
-    ]
-  ],
-  "消防员": [
-    "firefighter",
-    [
-      "catchphrase"
-    ]
-  ],
-  "时间机器": [
-    "time machine",
-    [
-      "catchphrase"
-    ]
-  ],
-  "王位": [
-    "throne",
-    [
-      "objects"
-    ]
-  ],
-  "花瓶": [
-    "vase",
-    [
-      "household"
-    ]
-  ],
-  "自行车": [
-    "bicycle",
-    [
-      "objects"
-    ]
-  ],
-  "海报": [
-    "poster",
-    [
-      "objects"
-    ]
-  ],
-  "目标": [
-    "goal",
-    [
-      "catchphrase"
-    ]
-  ],
-  "汁液": [
-    "sap",
-    [
-      "catchphrase"
-    ]
-  ],
-  "警察": [
-    "police",
-    [
-      "people"
-    ]
-  ],
-  "嘴唇": [
-    "lip",
-    [
-      "objects"
-    ]
-  ],
-  "晒伤": [
-    "sunburn",
-    [
-      "catchphrase"
-    ]
-  ],
-  "沉船": [
-    "shipwreck",
-    [
-      "catchphrase"
-    ]
-  ],
-  "软管": [
-    "hose",
-    [
-      "charades"
-    ]
-  ],
-  "看到了": [
-    "saw",
-    [
-      "objects"
-    ]
-  ],
-  "池塘": [
-    "pond",
-    [
-      "catchphrase"
-    ]
-  ],
-  "牙齿": [
-    "tooth",
-    [
-      "swadesh"
-    ]
-  ],
-  "水管工": [
-    "plumber",
-    [
-      "catchphrase"
-    ]
-  ],
-  "雪球": [
-    "snowball",
-    [
-      "charades"
-    ]
-  ],
-  "匹配": [
-    "match",
-    [
-      "charades"
-    ]
-  ],
-  "吻": [
-    "kiss",
-    [
-      "objects"
-    ]
-  ],
-  "皮肤": [
-    "skin",
-    [
-      "swadesh"
-    ]
-  ],
-  "滑板": [
-    "skateboard",
-    [
-      "household"
-    ]
-  ],
-  "湖": [
-    "lake",
-    [
-      "swadesh"
-    ]
-  ],
-  "T恤衫": [
-    "t-shirt",
-    [
-      "household"
-    ]
-  ],
-  "工具": [
-    "tool",
-    [
-      "catchphrase"
-    ]
-  ],
-  "双层床": [
-    "bunk bed",
-    [
-      "household"
-    ]
-  ],
-  "风车": [
-    "windmill",
-    [
-      "charades"
-    ]
-  ],
-  "海棉": [
-    "sponge",
-    [
-      "household"
-    ]
-  ],
-  "汽油": [
-    "gasoline",
-    [
-      "catchphrase"
-    ]
-  ],
-  "铁路": [
-    "railroad",
-    [
-      "catchphrase"
-    ]
-  ],
-  "沼泽地": [
-    "swamp",
-    [
-      "catchphrase"
-    ]
-  ],
-  "脚跟": [
-    "heel",
-    [
-      "charades"
-    ]
-  ],
-  "森林": [
-    "forest",
-    [
-      "swadesh"
-    ]
-  ],
-  "腰部": [
-    "waist",
-    [
-      "charades"
-    ]
-  ],
-  "地图": [
-    "map",
-    [
-      "objects"
-    ]
-  ],
-  "打呵欠": [
-    "yawn",
-    [
-      "objects"
-    ]
-  ],
-  "杂草丛生": [
-    "weed",
-    [
-      "household"
-    ]
-  ],
-  "砖头": [
-    "brick",
-    [
-      "objects"
-    ]
-  ],
-  "肋骨": [
-    "rib",
-    [
-      "charades"
-    ]
-  ],
-  "链条": [
-    "chain",
-    [
-      "objects"
-    ]
-  ],
-  "黑板": [
-    "blackboard",
-    [
-      "catchphrase"
-    ]
-  ],
-  "洗衣机": [
-    "washing machine",
-    [
-      "household"
-    ]
-  ],
-  "油墨": [
-    "ink",
-    [
-      "objects"
-    ]
-  ],
-  "工厂": [
-    "factory",
-    [
-      "objects"
-    ]
-  ],
-  "皮革类": [
-    "leather",
-    [
-      "catchphrase"
-    ]
-  ],
-  "购物篮": [
-    "shopping cart",
-    [
-      "charades"
-    ]
-  ],
-  "石油": [
-    "oil",
-    [
-      "objects"
-    ]
-  ],
-  "报纸": [
-    "newspaper",
-    [
-      "household"
-    ]
-  ],
-  "篮子": [
-    "basket",
-    [
-      "household"
-    ]
-  ],
-  "塑胶": [
-    "plastic",
-    [
-      "household"
-    ]
-  ],
-  "人行道": [
-    "sidewalk",
-    [
-      "catchphrase"
-    ]
-  ],
-  "头疼的问题": [
-    "headache",
-    [
-      "charades"
-    ]
-  ],
-  "烛台": [
-    "candlestick",
-    [
-      "catchphrase"
-    ]
-  ],
-  "摄影师": [
-    "photographer",
-    [
-      "catchphrase"
-    ]
-  ],
-  "船舶": [
-    "ship",
-    [
-      "catchphrase"
-    ]
-  ],
-  "肩部": [
-    "shoulder",
-    [
-      "charades"
-    ]
-  ],
-  "闸门": [
-    "gate",
-    [
-      "catchphrase"
-    ]
-  ],
-  "国际象棋": [
-    "chess",
-    [
-      "charades"
-    ]
-  ],
-  "手": [
-    "hand",
-    [
-      "swadesh"
-    ]
-  ],
-  "笛子": [
-    "flute",
-    [
-      "objects"
-    ]
-  ],
-  "火箭": [
-    "rocket",
-    [
-      "objects"
-    ]
-  ],
-  "团队": [
-    "team",
-    [
-      "objects"
-    ]
-  ],
-  "门票": [
-    "ticket",
-    [
-      "objects"
-    ]
-  ],
-  "谜题": [
-    "puzzle",
-    [
-      "objects"
-    ]
-  ],
-  "轮胎": [
-    "tire",
-    [
-      "catchphrase"
-    ]
-  ],
-  "地震": [
-    "earthquake",
-    [
-      "charades"
-    ]
-  ],
-  "昆虫": [
-    "insect",
-    [
-      "objects"
-    ]
-  ],
-  "邮件": [
-    "mail",
-    [
-      "household"
-    ]
-  ],
-  "蜘蛛网": [
-    "spider web",
-    [
-      "charades"
-    ]
-  ],
-  "笼子": [
-    "cage",
-    [
-      "objects"
-    ]
-  ],
-  "木头": [
-    "wood",
-    [
-      "catchphrase"
-    ]
-  ],
-  "露水": [
-    "dew",
-    [
-      "catchphrase"
-    ]
-  ],
-  "拉链": [
-    "zipper",
-    [
-      "household"
-    ]
-  ],
-  "星期五": [
-    "Friday",
-    [
-      "catchphrase"
-    ]
-  ],
-  "空气": [
-    "air",
-    [
-      "objects"
-    ]
-  ],
-  "大脑": [
-    "brain",
-    [
-      "objects"
-    ]
-  ],
-  "罪": [
-    "sin",
-    [
-      "catchphrase"
-    ]
-  ],
-  "饮料": [
-    "drink",
-    [
-      "swadesh"
-    ]
-  ],
-  "袋鼠": [
-    "kangaroo",
-    [
-      "charades"
-    ]
-  ],
-  "梯子": [
-    "ladder",
-    [
-      "household"
-    ]
-  ],
-  "猴子": [
-    "monkey",
-    [
-      "people"
-    ]
-  ],
-  "蚊子": [
-    "mosquito",
-    [
-      "charades"
-    ]
-  ],
-  "肘部": [
-    "elbow",
-    [
-      "charades"
-    ]
-  ],
-  "舌头": [
-    "tongue",
-    [
-      "swadesh"
-    ]
-  ],
-  "观察": [
-    "watch",
-    [
-      "charades"
-    ]
-  ],
-  "歌曲": [
-    "song",
-    [
-      "objects"
-    ]
-  ],
-  "独角兽": [
-    "unicorn",
-    [
-      "charades"
-    ]
-  ],
-  "唇膏": [
-    "lipstick",
-    [
-      "household"
-    ]
-  ],
-  "翅膀": [
-    "wing",
-    [
-      "swadesh"
-    ]
-  ],
-  "玩具": [
-    "toy",
-    [
-      "objects"
-    ]
-  ],
-  "香波": [
-    "shampoo",
-    [
-      "objects"
-    ]
-  ],
-  "企鹅": [
-    "penguin",
-    [
-      "charades"
-    ]
-  ],
-  "长颈鹿": [
-    "giraffe",
-    [
-      "charades"
-    ]
-  ],
-  "蛇": [
-    "snake",
-    [
-      "swadesh"
-    ]
-  ],
-  "轮子": [
-    "wheel",
-    [
-      "objects"
-    ]
-  ],
-  "腕部": [
-    "wrist",
-    [
-      "charades"
-    ]
-  ],
-  "领带": [
-    "necktie",
-    [
-      "household"
-    ]
-  ],
-  "哨子": [
-    "whistle",
-    [
-      "charades"
-    ]
-  ],
-  "沙子": [
-    "sand",
-    [
-      "swadesh"
-    ]
-  ],
-  "打结": [
-    "knot",
-    [
-      "charades"
-    ]
-  ],
-  "假发": [
-    "wig",
-    [
-      "objects"
-    ]
-  ],
-  "吹风机": [
-    "hair dryer",
-    [
-      "household"
-    ]
-  ],
-  "地板": [
-    "floor",
-    [
-      "household"
-    ]
-  ],
-  "罐子": [
-    "jar",
-    [
-      "household"
-    ]
-  ],
-  "网球": [
-    "tennis",
-    [
-      "charades"
-    ]
-  ],
-  "绳索": [
-    "rope",
-    [
-      "swadesh"
-    ]
-  ],
-  "拳头": [
-    "fist",
-    [
-      "charades"
-    ]
-  ],
-  "色带": [
-    "ribbon",
-    [
-      "household"
-    ]
-  ],
-  "纸板": [
-    "cardboard",
-    [
-      "household"
-    ]
-  ],
-  "处理": [
-    "handle",
-    [
-      "household"
-    ]
-  ],
-  "牙膏": [
-    "toothpaste",
-    [
-      "household"
-    ]
-  ],
-  "水壶": [
-    "watering can",
-    [
-      "household"
-    ]
-  ],
-  "烟囱": [
-    "chimney",
-    [
-      "household"
-    ]
-  ],
-  "杂志": [
-    "magazine",
-    [
-      "household"
-    ]
-  ],
-  "膳食": [
-    "meal",
-    [
-      "household"
-    ]
-  ],
-  "橡皮擦": [
-    "eraser",
-    [
-      "objects"
-    ]
-  ],
-  "厨房": [
-    "kitchen",
-    [
-      "household"
-    ]
-  ],
-  "纱线": [
-    "yarn",
-    [
-      "household"
-    ]
-  ],
-  "起居室": [
-    "living room",
-    [
-      "household"
-    ]
-  ],
-  "全球": [
-    "globe",
-    [
-      "household"
-    ]
-  ],
-  "簸箕": [
-    "dustpan",
-    [
-      "household"
-    ]
-  ],
-  "太阳镜": [
-    "sunglasses",
-    [
-      "household"
-    ]
-  ],
-  "相框": [
-    "picture frame",
-    [
-      "household"
-    ]
-  ],
-  "毛衣": [
-    "sweater",
-    [
-      "household"
-    ]
-  ],
-  "呼拉圈": [
-    "hula hoop",
-    [
-      "household"
-    ]
-  ],
-  "水桶": [
-    "bucket",
-    [
-      "objects"
-    ]
-  ],
-  "现金": [
-    "cash",
-    [
-      "household"
-    ]
-  ],
-  "花环": [
-    "wreath",
-    [
-      "household"
-    ]
-  ],
-  "浴室": [
-    "bathroom",
-    [
-      "household"
-    ]
-  ],
-  "浴缸": [
-    "bathtub",
-    [
-      "household"
-    ]
-  ],
-  "天花板": [
-    "ceiling",
-    [
-      "household"
-    ]
-  ],
-  "门铃": [
-    "doorbell",
-    [
-      "household"
-    ]
-  ],
-  "开机": [
-    "boot",
-    [
-      "household"
-    ]
-  ],
-  "办公桌": [
-    "desk",
-    [
-      "household"
-    ]
-  ],
-  "园林": [
-    "garden",
-    [
-      "objects"
-    ]
-  ],
-  "酒精": [
-    "alcohol",
-    [
-      "objects"
-    ]
-  ],
-  "天使": [
-    "angel",
-    [
-      "objects"
-    ]
-  ],
-  "艺术": [
-    "art",
-    [
-      "objects"
-    ]
-  ],
-  "奖励": [
-    "award",
-    [
-      "objects"
-    ]
-  ],
-  "战役": [
-    "battle",
-    [
-      "objects"
-    ]
-  ],
-  "胡子": [
-    "beard",
-    [
-      "objects"
-    ]
-  ],
-  "比基尼": [
-    "bikini",
-    [
-      "objects"
-    ]
-  ],
-  "血液": [
-    "blood",
-    [
-      "swadesh"
-    ]
-  ],
-  "炸弹": [
-    "bomb",
-    [
-      "objects"
-    ]
-  ],
-  "骨骼": [
-    "bone",
-    [
-      "swadesh"
-    ]
-  ],
-  "刷子": [
-    "brush",
-    [
-      "objects"
-    ]
-  ],
-  "子弹": [
-    "bullet",
-    [
-      "objects"
-    ]
-  ],
-  "巴士": [
-    "bus",
-    [
-      "objects"
-    ]
-  ],
-  "黄油": [
-    "butter",
-    [
-      "objects"
-    ]
-  ],
-  "仙人掌": [
-    "cactus",
-    [
-      "objects"
-    ]
-  ],
-  "大炮": [
-    "cannon",
-    [
-      "objects"
-    ]
-  ],
-  "地毯": [
-    "carpet",
-    [
-      "objects"
-    ]
-  ],
-  "芝士": [
-    "cheese",
-    [
-      "objects"
-    ]
-  ],
-  "马戏团": [
-    "circus",
-    [
-      "objects"
-    ]
-  ],
-  "棺材": [
-    "coffin",
-    [
-      "objects"
-    ]
-  ],
-  "音乐会": [
-    "concert",
-    [
-      "objects"
-    ]
-  ],
-  "勇气": [
-    "courage",
-    [
-      "objects"
-    ]
-  ],
-  "奶油": [
-    "cream",
-    [
-      "objects"
-    ]
-  ],
-  "人群": [
-    "crowd",
-    [
-      "objects"
-    ]
-  ],
-  "皇冠": [
-    "crown",
-    [
-      "objects"
-    ]
-  ],
-  "死亡": [
-    "death",
-    [
-      "objects"
-    ]
-  ],
-  "债务": [
-    "debt",
-    [
-      "objects"
-    ]
-  ],
-  "愿望": [
-    "desire",
-    [
-      "objects"
-    ]
-  ],
-  "尿布": [
-    "diaper",
-    [
-      "objects"
-    ]
-  ],
-  "恐龙": [
-    "dinosaur",
-    [
-      "objects"
-    ]
-  ],
-  "污垢": [
-    "dirt",
-    [
-      "objects"
-    ]
-  ],
-  "海豚": [
-    "dolphin",
-    [
-      "objects"
-    ]
-  ],
-  "驴子": [
-    "donkey",
-    [
-      "objects"
-    ]
-  ],
-  "龙": [
-    "dragon",
-    [
-      "objects"
-    ]
-  ],
-  "鼓": [
-    "drum",
-    [
-      "objects"
-    ]
-  ],
-  "尘埃": [
-    "dust",
-    [
-      "swadesh"
-    ]
-  ],
-  "鸡蛋": [
-    "egg",
-    [
-      "swadesh"
-    ]
-  ],
-  "紧急事件": [
-    "emergency",
-    [
-      "objects"
-    ]
-  ],
-  "能源": [
-    "energy",
-    [
-      "objects"
-    ]
-  ],
-  "羡慕": [
-    "envy",
-    [
-      "objects"
-    ]
-  ],
-  "实事求是": [
-    "fact",
-    [
-      "objects"
-    ]
-  ],
-  "信念": [
-    "faith",
-    [
-      "objects"
-    ]
-  ],
-  "恐惧": [
-    "fear",
-    [
-      "swadesh"
-    ]
-  ],
-  "羽毛": [
-    "feather",
-    [
-      "swadesh"
-    ]
-  ],
-  "高热": [
-    "fever",
-    [
-      "objects"
-    ]
-  ],
-  "食物": [
-    "food",
-    [
-      "objects"
-    ]
-  ],
-  "脚": [
-    "foot",
-    [
-      "swadesh"
-    ]
-  ],
-  "水果": [
-    "fruit",
-    [
-      "swadesh"
-    ]
-  ],
-  "未来": [
-    "future",
-    [
-      "objects"
-    ]
-  ],
-  "银河系": [
-    "galaxy",
-    [
-      "objects"
-    ]
-  ],
-  "幽灵": [
-    "ghost",
-    [
-      "people"
-    ]
-  ],
-  "手套": [
-    "glove",
-    [
-      "objects"
-    ]
-  ],
-  "大猩猩": [
-    "gorilla",
-    [
-      "objects"
-    ]
-  ],
-  "流言蜚语": [
-    "gossip",
-    [
-      "objects"
-    ]
-  ],
-  "重力": [
-    "gravity",
-    [
-      "objects"
-    ]
-  ],
-  "悲痛": [
-    "grief",
-    [
-      "objects"
-    ]
-  ],
-  "榔头": [
-    "hammer",
-    [
-      "objects"
-    ]
-  ],
-  "天堂": [
-    "heaven",
-    [
-      "objects"
-    ]
-  ],
-  "地狱": [
-    "hell",
-    [
-      "objects"
-    ]
-  ],
-  "头盔": [
-    "helmet",
-    [
-      "objects"
-    ]
-  ],
-  "蜂蜜": [
-    "honey",
-    [
-      "objects"
-    ]
-  ],
-  "希望": [
-    "hope",
-    [
-      "objects"
-    ]
-  ],
-  "白痴": [
-    "idiot",
-    [
-      "objects"
-    ]
-  ],
-  "小岛": [
-    "island",
-    [
-      "objects"
-    ]
-  ],
-  "笑话": [
-    "joke",
-    [
-      "objects"
-    ]
-  ],
-  "丛林": [
-    "jungle",
-    [
-      "objects"
-    ]
-  ],
-  "小刀": [
-    "knife",
-    [
-      "objects"
-    ]
-  ],
-  "爱": [
-    "love",
-    [
-      "objects"
-    ]
-  ],
-  "机器": [
-    "machine",
-    [
-      "objects"
-    ]
-  ],
-  "磁铁": [
-    "magnet",
-    [
-      "objects"
-    ]
-  ],
-  "婚姻": [
-    "marriage",
-    [
-      "objects"
-    ]
-  ],
-  "按摩": [
-    "massage",
-    [
-      "objects"
-    ]
-  ],
-  "迷宫": [
-    "maze",
-    [
-      "objects"
-    ]
-  ],
-  "肉类": [
-    "meat",
-    [
-      "swadesh"
-    ]
-  ],
-  "医学": [
-    "medicine",
-    [
-      "objects"
-    ]
-  ],
-  "记忆": [
-    "memory",
-    [
-      "objects"
-    ]
-  ],
-  "信息": [
-    "message",
-    [
-      "objects"
-    ]
-  ],
-  "牛奶": [
-    "milk",
-    [
-      "objects"
-    ]
-  ],
-  "神迹": [
-    "miracle",
-    [
-      "objects"
-    ]
-  ],
-  "谋杀": [
-    "murder",
-    [
-      "objects"
-    ]
-  ],
-  "肌肉": [
-    "muscle",
-    [
-      "objects"
-    ]
-  ],
-  "新闻": [
-    "news",
-    [
-      "objects"
-    ]
-  ],
-  "噪声": [
-    "noise",
-    [
-      "objects"
-    ]
-  ],
-  "海洋": [
-    "ocean",
-    [
-      "objects"
-    ]
-  ],
-  "烤箱": [
-    "oven",
-    [
-      "objects"
-    ]
-  ],
-  "氧气": [
-    "oxygen",
-    [
-      "objects"
-    ]
-  ],
-  "疼痛": [
-    "pain",
-    [
-      "objects"
-    ]
-  ],
-  "降落伞": [
-    "parachute",
-    [
-      "objects"
-    ]
-  ],
-  "巡游": [
-    "parade",
-    [
-      "objects"
-    ]
-  ],
-  "和平": [
-    "peace",
-    [
-      "objects"
-    ]
-  ],
-  "乐趣": [
-    "pleasure",
-    [
-      "objects"
-    ]
-  ],
-  "毒药": [
-    "poison",
-    [
-      "objects"
-    ]
-  ],
-  "爆米花": [
-    "popcorn",
-    [
-      "objects"
-    ]
-  ],
-  "怀孕": [
-    "pregnancy",
-    [
-      "objects"
-    ]
-  ],
-  "蛋白质": [
-    "protein",
-    [
-      "objects"
-    ]
-  ],
-  "南瓜": [
-    "pumpkin",
-    [
-      "objects"
-    ]
-  ],
-  "傀儡": [
-    "puppet",
-    [
-      "objects"
-    ]
-  ],
-  "剃刀": [
-    "razor",
-    [
-      "objects"
-    ]
-  ],
-  "现实": [
-    "reality",
-    [
-      "objects"
-    ]
-  ],
-  "菜谱": [
-    "recipe",
-    [
-      "objects"
-    ]
-  ],
-  "遗憾": [
-    "regret",
-    [
-      "objects"
-    ]
-  ],
-  "复仇": [
-    "revenge",
-    [
-      "objects"
-    ]
-  ],
-  "谣言": [
-    "rumor",
-    [
-      "objects"
-    ]
-  ],
-  "安全": [
-    "security",
-    [
-      "objects"
-    ]
-  ],
-  "酱": [
-    "sauce",
-    [
-      "objects"
-    ]
-  ],
-  "腊肠": [
-    "sausage",
-    [
-      "objects"
-    ]
-  ],
-  "种子": [
-    "seed",
-    [
-      "swadesh"
-    ]
-  ],
-  "耻辱": [
-    "shame",
-    [
-      "objects"
-    ]
-  ],
-  "盾牌": [
-    "shield",
-    [
-      "objects"
-    ]
-  ],
-  "沉默": [
-    "silence",
-    [
-      "objects"
-    ]
-  ],
-  "骨架": [
-    "skeleton",
-    [
-      "objects"
-    ]
-  ],
-  "天空": [
-    "sky",
-    [
-      "swadesh"
-    ]
-  ],
-  "汤": [
-    "soup",
-    [
-      "objects"
-    ]
-  ],
-  "空间": [
-    "space",
-    [
-      "objects"
-    ]
-  ],
-  "雕像": [
-    "statue",
-    [
-      "objects"
-    ]
-  ],
-  "糖": [
-    "sugar",
-    [
-      "objects"
-    ]
-  ],
-  "手术": [
-    "surgery",
-    [
-      "objects"
-    ]
-  ],
-  "剑": [
-    "sword",
-    [
-      "objects"
-    ]
-  ],
-  "纹身": [
-    "tattoo",
-    [
-      "objects"
-    ]
-  ],
-  "税收": [
-    "tax",
-    [
-      "objects"
-    ]
-  ],
-  "望远镜": [
-    "telescope",
-    [
-      "objects"
-    ]
-  ],
-  "喉咙": [
-    "throat",
-    [
-      "objects"
-    ]
-  ],
-  "时间": [
-    "time",
-    [
-      "objects"
-    ]
-  ],
-  "厕所": [
-    "toilet",
-    [
-      "objects"
-    ]
-  ],
-  "塔楼": [
-    "tower",
-    [
-      "objects"
-    ]
-  ],
-  "交通": [
-    "traffic",
-    [
-      "objects"
-    ]
-  ],
-  "真理": [
-    "truth",
-    [
-      "objects"
-    ]
-  ],
-  "统一": [
-    "uniform",
-    [
-      "objects"
-    ]
-  ],
-  "视频": [
-    "video",
-    [
-      "objects"
-    ]
-  ],
-  "病毒": [
-    "virus",
-    [
-      "objects"
-    ]
-  ],
-  "维生素": [
-    "vitamin",
-    [
-      "objects"
-    ]
-  ],
-  "争夺战": [
-    "war",
-    [
-      "objects"
-    ]
-  ],
-  "智慧": [
-    "wisdom",
-    [
-      "objects"
-    ]
-  ],
-  "调酒师": [
-    "bartender",
-    [
-      "people"
-    ]
-  ],
-  "乞丐": [
-    "beggar",
-    [
-      "people"
-    ]
-  ],
-  "喜剧演员": [
-    "comedian",
-    [
-      "people"
-    ]
-  ],
-  "父亲": [
-    "father",
-    [
-      "swadesh"
-    ]
-  ],
-  "独裁者": [
-    "dictator",
-    [
-      "people"
-    ]
-  ],
-  "渔夫": [
-    "fisherman",
-    [
-      "people"
-    ]
-  ],
-  "律师": [
-    "lawyer",
-    [
-      "people"
-    ]
-  ],
-  "传教士": [
-    "missionary",
-    [
-      "people"
-    ]
-  ],
-  "丈夫": [
-    "husband",
-    [
-      "swadesh"
-    ]
-  ],
-  "妻子": [
-    "wife",
-    [
-      "swadesh"
-    ]
-  ],
-  "政治家": [
-    "politician",
-    [
-      "people"
-    ]
-  ],
-  "牧师": [
-    "priest",
-    [
-      "people"
-    ]
-  ],
-  "室友": [
-    "roommate",
-    [
-      "people"
-    ]
-  ],
-  "士兵": [
-    "soldier",
-    [
-      "people"
-    ]
-  ],
-  "小人": [
-    "villain",
-    [
-      "people"
-    ]
-  ],
-  "孩子": [
-    "child",
-    [
-      "swadesh"
-    ]
-  ],
-  "囚犯": [
-    "prisoner",
-    [
-      "people"
-    ]
-  ],
-  "法官": [
-    "judge",
-    [
-      "people"
-    ]
-  ],
-  "编程员": [
-    "programmer",
-    [
-      "people"
-    ]
-  ],
-  "秘书": [
-    "secretary",
-    [
-      "people"
-    ]
-  ],
-  "工程师": [
-    "engineer",
-    [
-      "people"
-    ]
-  ],
-  "音乐家": [
-    "musician",
-    [
-      "people"
-    ]
-  ],
-  "机械师": [
-    "mechanic",
-    [
-      "people"
-    ]
-  ],
-  "业务员": [
-    "salesman",
-    [
-      "people"
-    ]
-  ],
-  "水手": [
-    "sailor",
-    [
-      "people"
-    ]
-  ],
-  "外科医生": [
-    "surgeon",
-    [
-      "people"
-    ]
-  ],
-  "图书馆员": [
-    "librarian",
-    [
-      "people"
-    ]
-  ],
-  "女人": [
-    "woman",
-    [
-      "swadesh"
-    ]
-  ],
-  "人": [
-    "person",
-    [
-      "swadesh"
-    ]
-  ],
-  "母亲": [
-    "mother",
-    [
-      "swadesh"
-    ]
-  ],
-  "根": [
-    "root",
-    [
-      "swadesh"
-    ]
-  ],
-  "脂肪": [
-    "fat",
-    [
-      "swadesh"
-    ]
-  ],
-  "乳房": [
-    "breast",
-    [
-      "swadesh"
-    ]
-  ],
-  "肝脏": [
-    "liver",
-    [
-      "swadesh"
-    ]
-  ],
-  "谎言": [
-    "lie",
-    [
-      "swadesh"
-    ]
-  ],
-  "海": [
-    "sea",
-    [
-      "swadesh"
-    ]
-  ],
-  "灰烬": [
-    "ash",
-    [
-      "swadesh"
-    ]
-  ],
-  "年": [
-    "year",
-    [
-      "swadesh"
-    ]
-  ]
+  "1": {
+    "form": "字典",
+    "transliteration": "zì​diǎn",
+    "concept": "dictionary/publication that explains the meanings of an ordered list of words"
+  },
+  "3": {
+    "form": "自由",
+    "transliteration": "zì​yóu",
+    "concept": "free/not imprisoned"
+  },
+  "24": {
+    "form": "词",
+    "transliteration": "cí",
+    "concept": "word/id=Q8171|unit of language"
+  },
+  "37": {
+    "form": "书",
+    "concept": "book/collection of sheets of paper bound together containing printed or written material",
+    "transliteration": "shū"
+  },
+  "68": {
+    "form": "池塘",
+    "transliteration": "chí​táng",
+    "concept": "pond/small lake"
+  },
+  "95": {
+    "form": "象",
+    "transliteration": "xiàng",
+    "concept": "elephant/mammal"
+  },
+  "97": {
+    "form": "棕色",
+    "transliteration": "zōng​sè",
+    "concept": "brown/colour"
+  },
+  "104": {
+    "form": "月",
+    "transliteration": "yuè",
+    "concept": "month/period into which a year is divided"
+  },
+  "131": {
+    "form": "天",
+    "transliteration": "tiān",
+    "concept": "day/period of 24 hours"
+  },
+  "161": {
+    "form": "方言",
+    "transliteration": "Fāng​yán",
+    "concept": "dialect/variety of a language"
+  },
+  "167": {
+    "form": "名词",
+    "concept": "noun/grammatical category (narrow sense)",
+    "transliteration": "míng​cí"
+  },
+  "169": {
+    "form": "小时",
+    "concept": "hour/time period of sixty minutes",
+    "transliteration": "xiǎo​shí"
+  },
+  "173": {
+    "form": "分钟",
+    "concept": "minute/unit of time",
+    "transliteration": "fēn​zhōng"
+  },
+  "204": {
+    "form": "动词",
+    "concept": "verb/(grammar) a word that indicates an action, event, or a state",
+    "transliteration": "dòng​cí"
+  },
+  "208": {
+    "form": "形容词",
+    "concept": "adjective/(grammar) a word that modifies a noun or describes a noun’s referent",
+    "transliteration": "xíng​róng​cí"
+  },
+  "267": {
+    "form": "老鹰",
+    "concept": "eagle/any of several large carnivorous birds in the family Accipitridae",
+    "transliteration": "lǎo​yīng"
+  },
+  "272": {
+    "form": "头",
+    "concept": "head/part of the body",
+    "transliteration": "tóu"
+  },
+  "301": {
+    "form": "南瓜",
+    "transliteration": "nán​guā",
+    "concept": "pumpkin/plant"
+  },
+  "305": {
+    "form": "名",
+    "transliteration": "míng",
+    "concept": "name/word or phrase indicating a particular person, place, class or thing"
+  },
+  "803": {
+    "form": "日历",
+    "concept": "calendar/system by which time is divided",
+    "transliteration": "rì​lì"
+  },
+  "812": {
+    "form": "星期",
+    "transliteration": "xīng​qī",
+    "concept": "week/period of seven days"
+  },
+  "822": {
+    "form": "冬天",
+    "transliteration": "dōng​tiān",
+    "concept": "winter/fourth season, marked by short days and lowest temperatures"
+  },
+  "827": {
+    "form": "骨头",
+    "concept": "bone/component of a skeleton",
+    "transliteration": "gǔ​tou"
+  },
+  "851": {
+    "form": "今天",
+    "transliteration": "jīn​tiān",
+    "concept": "today/on the current day"
+  },
+  "1093": {
+    "form": "季",
+    "transliteration": "jì",
+    "concept": "season/quarter of a year"
+  },
+  "1103": {
+    "form": "秋天",
+    "transliteration": "qiū​tiān",
+    "concept": "autumn/season"
+  },
+  "1104": {
+    "form": "夏天",
+    "transliteration": "xià​tiān",
+    "concept": "summer/hottest season"
+  },
+  "1111": {
+    "form": "春天",
+    "transliteration": "chūn​tiān",
+    "concept": "spring/first season"
+  },
+  "1114": {
+    "form": "泉",
+    "transliteration": "quán",
+    "concept": "spring/water source"
+  },
+  "1126": {
+    "form": "色",
+    "transliteration": "sè",
+    "concept": "color/spectral composition of visible light"
+  },
+  "1143": {
+    "form": "死",
+    "transliteration": "sǐ",
+    "concept": "die/to stop living"
+  },
+  "1196": {
+    "form": "橙",
+    "transliteration": "chéng",
+    "concept": "orange/fruit"
+  },
+  "1197": {
+    "form": "橙色",
+    "transliteration": "chéng​sè",
+    "concept": "orange/colour"
+  },
+  "1220": {
+    "form": "狼",
+    "transliteration": "láng",
+    "concept": "wolf/animal"
+  },
+  "1225": {
+    "form": "行星",
+    "transliteration": "xíng​xīng",
+    "concept": "planet/each of the seven major bodies which move relative to the fixed stars in the night sky"
+  },
+  "1228": {
+    "form": "恒星",
+    "concept": "star/id=Q523|luminous celestial body",
+    "transliteration": "héng​xīng"
+  },
+  "1237": {
+    "form": "天空",
+    "transliteration": "tiān​kōng",
+    "concept": "sky/atmosphere above a point"
+  },
+  "1255": {
+    "form": "零",
+    "transliteration": "líng",
+    "concept": "zero/cardinal number before 1, denoting nothing"
+  },
+  "1271": {
+    "form": "数",
+    "concept": "number/abstract entity",
+    "transliteration": "shù"
+  },
+  "1293": {
+    "form": "字母",
+    "transliteration": "zì​mǔ",
+    "concept": "alphabet/an ordered set of letters used in a language"
+  },
+  "1357": {
+    "form": "草",
+    "transliteration": "cǎo",
+    "concept": "grass/ground cover plant"
+  },
+  "1413": {
+    "form": "字母",
+    "transliteration": "zì​mǔ",
+    "concept": "letter/letter of the alphabet"
+  },
+  "1414": {
+    "form": "信",
+    "transliteration": "xìn",
+    "concept": "letter/written message"
+  },
+  "1415": {
+    "form": "药",
+    "concept": "medicine/substance which promotes healing",
+    "transliteration": "yào"
+  },
+  "1420": {
+    "form": "年",
+    "transliteration": "nián",
+    "concept": "year/time it takes for the Earth to complete one revolution around the Sun"
+  },
+  "1433": {
+    "form": "第二",
+    "transliteration": "dì​'èr",
+    "concept": "second/second (numeral)"
+  },
+  "1447": {
+    "form": "秒钟",
+    "concept": "second/one-sixtieth of a minute; SI unit of time",
+    "transliteration": "miǎo​zhōng"
+  },
+  "1455": {
+    "form": "世纪",
+    "concept": "century/100 years",
+    "transliteration": "shì​jì"
+  },
+  "1460": {
+    "form": "钟",
+    "concept": "clock/instrument to measure or keep track of time",
+    "transliteration": "zhōng"
+  },
+  "1477": {
+    "form": "肉",
+    "transliteration": "ròu",
+    "concept": "meat/animal flesh used as food"
+  },
+  "1487": {
+    "form": "啤酒",
+    "transliteration": "pí​jiǔ",
+    "concept": "beer/alcoholic drink made of malt"
+  },
+  "1499": {
+    "form": "伞",
+    "concept": "umbrella/cloth-covered frame used for protection against rain or sun",
+    "transliteration": "sǎn"
+  },
+  "1555": {
+    "form": "太阳",
+    "concept": "sun/a star, especially when seen as the centre of any single solar system",
+    "transliteration": "tài​yang"
+  },
+  "1710": {
+    "form": "语言",
+    "concept": "language/body of words used as a form of communication",
+    "transliteration": "yǔ​yán"
+  },
+  "1718": {
+    "form": "副词",
+    "concept": "adverb/lexical category",
+    "transliteration": "fù​cí"
+  },
+  "1731": {
+    "form": "长笛",
+    "concept": "flute/woodwind instrument",
+    "transliteration": "cháng​dí"
+  },
+  "1795": {
+    "form": "武器",
+    "transliteration": "wǔ​qì",
+    "concept": "weapon/instrument of attack or defense in combat"
+  },
+  "1817": {
+    "form": "地狱",
+    "concept": "hell/abode for the condemned",
+    "transliteration": "dì​yù"
+  },
+  "1820": {
+    "form": "铅笔",
+    "concept": "pencil/graphite writing-instrument",
+    "transliteration": "qiān​bǐ"
+  },
+  "1835": {
+    "form": "音乐",
+    "concept": "music/sound, organized in time in a melodious way",
+    "transliteration": "yīn​yuè"
+  },
+  "1838": {
+    "form": "秘密",
+    "transliteration": "mì​mì",
+    "concept": "secret/knowledge that is hidden"
+  },
+  "1845": {
+    "form": "战争",
+    "concept": "war/conflict involving organized use of arms",
+    "transliteration": "zhàn​zhēng"
+  },
+  "1856": {
+    "form": "和平",
+    "transliteration": "Hé​píng",
+    "concept": "peace/tranquility, quiet, harmony; absence of violence"
+  },
+  "1859": {
+    "form": "和平",
+    "transliteration": "Hé​píng",
+    "concept": "peace/state of being free from war"
+  },
+  "1864": {
+    "form": "国家",
+    "concept": "country/region of land",
+    "transliteration": "guó​jiā"
+  },
+  "1865": {
+    "form": "国家",
+    "concept": "country/nation state",
+    "transliteration": "guó​jiā"
+  },
+  "1950": {
+    "form": "现在",
+    "concept": "now/at the present time",
+    "transliteration": "xiàn​zài"
+  },
+  "1955": {
+    "form": "银行",
+    "concept": "bank/institution",
+    "transliteration": "yín​háng"
+  },
+  "1983": {
+    "form": "税",
+    "concept": "tax/money paid to government",
+    "transliteration": "shuì"
+  },
+  "1985": {
+    "form": "苹果",
+    "concept": "apple/fruit",
+    "transliteration": "píng​guǒ"
+  },
+  "1987": {
+    "form": "经济学",
+    "concept": "economics/study",
+    "transliteration": "jīng​jì​xué"
+  },
+  "1989": {
+    "form": "开",
+    "concept": "open/not closed",
+    "transliteration": "kāi"
+  },
+  "1999": {
+    "form": "开",
+    "concept": "open/to make something accessible",
+    "transliteration": "kāi"
+  },
+  "2029": {
+    "form": "果",
+    "transliteration": "guǒ",
+    "concept": "fruit/part of plant"
+  },
+  "2044": {
+    "form": "丈夫",
+    "transliteration": "zhàng​fu",
+    "concept": "husband/male partner in marriage"
+  },
+  "2047": {
+    "form": "宗教",
+    "transliteration": "zōng​jiào",
+    "concept": "religion/system of beliefs dealing with soul, deity and/or life after death"
+  },
+  "2049": {
+    "form": "政府",
+    "transliteration": "zhèng​fǔ",
+    "concept": "government/body with the power to make and/or enforce laws"
+  },
+  "2054": {
+    "form": "墙壁",
+    "concept": "wall/substantial structure acting as side or division in a building",
+    "transliteration": "qiáng​bì"
+  },
+  "2067": {
+    "form": "上午",
+    "transliteration": "shàng​wǔ",
+    "concept": "morning/part of the day between dawn and midday"
+  },
+  "2068": {
+    "form": "早晨",
+    "transliteration": "zǎo​chén",
+    "concept": "morning/the part of the day after midnight and before midday"
+  },
+  "2072": {
+    "form": "送",
+    "transliteration": "sòng",
+    "concept": "send/make something go somewhere"
+  },
+  "2073": {
+    "form": "市场",
+    "concept": "market/spacious site for trading",
+    "transliteration": "shì​chǎng"
+  },
+  "2081": {
+    "form": "食物",
+    "transliteration": "shí​wù",
+    "concept": "food/any substance consumed by living organisms to sustain life"
+  },
+  "2095": {
+    "form": "世界",
+    "transliteration": "shì​jiè",
+    "concept": "world/human collective existence"
+  },
+  "2097": {
+    "form": "世界",
+    "transliteration": "shì​jiè",
+    "concept": "world/the Earth"
+  },
+  "2101": {
+    "form": "拿",
+    "transliteration": "ná",
+    "concept": "take/to grab with the hands"
+  },
+  "2129": {
+    "form": "说",
+    "concept": "say/to pronounce",
+    "transliteration": "shuō"
+  },
+  "2162": {
+    "form": "昨天",
+    "transliteration": "zuó​tiān",
+    "concept": "yesterday/day before today"
+  },
+  "2164": {
+    "form": "昨天",
+    "transliteration": "zuó​tiān",
+    "concept": "yesterday/on the day before today"
+  },
+  "2165": {
+    "form": "公司",
+    "transliteration": "gōng​sī",
+    "concept": "company/in legal context, a corporation"
+  },
+  "2207": {
+    "form": "手机",
+    "concept": "mobile phone/portable telephone",
+    "transliteration": "shǒu​jī"
+  },
+  "2214": {
+    "form": "工作",
+    "transliteration": "gōng​zuò",
+    "concept": "work/labour, employment, occupation, job"
+  },
+  "2224": {
+    "form": "工作",
+    "transliteration": "gōng​zuò",
+    "concept": "work/to do a specific task"
+  },
+  "2254": {
+    "form": "无线电",
+    "concept": "radio/technology",
+    "transliteration": "wú​xiàn​diàn"
+  },
+  "2280": {
+    "form": "时间",
+    "concept": "time/inevitable passing of events",
+    "transliteration": "shí​jiān"
+  },
+  "2361": {
+    "form": "血",
+    "transliteration": "xuè",
+    "concept": "blood/vital liquid flowing in animal bodies"
+  },
+  "2366": {
+    "form": "疾病",
+    "transliteration": "jí​bìng",
+    "concept": "disease/an abnormal condition of the body causing discomfort or dysfunction"
+  },
+  "2402": {
+    "form": "欢迎光临",
+    "concept": "welcome/greeting given upon someone's arrival",
+    "transliteration": "huān​yíng​guāng​lín"
+  },
+  "2407": {
+    "form": "新",
+    "transliteration": "xīn",
+    "concept": "new/recently made or created"
+  },
+  "2418": {
+    "form": "气体",
+    "concept": "gas/(uncountable, chemistry) state of matter",
+    "transliteration": "qì​tǐ"
+  },
+  "2461": {
+    "form": "翻译",
+    "concept": "translation/act of translating between languages",
+    "transliteration": "fān​yì"
+  },
+  "2467": {
+    "form": "爱",
+    "concept": "love/strong affection",
+    "transliteration": "ài"
+  },
+  "2474": {
+    "form": "爱",
+    "concept": "love/have a strong affection for",
+    "transliteration": "ài"
+  },
+  "2531": {
+    "form": "火鸡",
+    "concept": "turkey/bird",
+    "transliteration": "huǒ​jī"
+  },
+  "2583": {
+    "form": "电脑",
+    "concept": "computer/device",
+    "transliteration": "diàn​nǎo"
+  },
+  "2967": {
+    "form": "毒",
+    "transliteration": "dú",
+    "concept": "poison/substance harmful to a living organism"
+  },
+  "2992": {
+    "form": "地图",
+    "concept": "map/visual representation of an area",
+    "transliteration": "dì​tú"
+  },
+  "3037": {
+    "form": "风暴",
+    "concept": "storm/disturbed state of the atmosphere",
+    "transliteration": "fēng​bào"
+  },
+  "3066": {
+    "form": "钱",
+    "concept": "money/means of exchange and measure of value",
+    "transliteration": "qián"
+  },
+  "3074": {
+    "form": "问",
+    "concept": "ask/request an answer",
+    "transliteration": "wèn"
+  },
+  "3075": {
+    "form": "请",
+    "concept": "ask/make a request",
+    "transliteration": "qǐng"
+  },
+  "3076": {
+    "form": "夜晚",
+    "transliteration": "yè​wǎn",
+    "concept": "night/period between sunset and sunrise"
+  },
+  "3083": {
+    "form": "陆军",
+    "concept": "army/military force concerned mainly with ground operations",
+    "transliteration": "lù​jūn"
+  },
+  "3088": {
+    "form": "赢",
+    "concept": "win/transitive: achieve victory in",
+    "transliteration": "yíng"
+  },
+  "3096": {
+    "form": "喝",
+    "transliteration": "hē",
+    "concept": "drink/consume liquid through the mouth"
+  },
+  "3104": {
+    "form": "母牛",
+    "transliteration": "mǔ niú",
+    "concept": "cow/female domesticated ox or other bovine"
+  },
+  "3140": {
+    "form": "婴儿",
+    "concept": "baby/very young human being",
+    "transliteration": "yīng​'ér"
+  },
+  "3152": {
+    "form": "是",
+    "transliteration": "shì",
+    "concept": "yes/word used to indicate agreement or acceptance"
+  },
+  "3176": {
+    "form": "站",
+    "transliteration": "zhàn",
+    "concept": "stand/to support oneself on the feet in an erect position"
+  },
+  "3270": {
+    "form": "总统",
+    "concept": "president/the head of state of a republic",
+    "transliteration": "zǒng​tǒng"
+  },
+  "3288": {
+    "form": "薄",
+    "transliteration": "báo",
+    "concept": "thin/having little thickness or extent from one surface to its opposite"
+  },
+  "3332": {
+    "form": "知道",
+    "transliteration": "zhī​dào",
+    "concept": "know/be certain or sure about (something)"
+  },
+  "3362": {
+    "form": "杀死",
+    "concept": "kill/put to death",
+    "transliteration": "shā​sǐ"
+  },
+  "3370": {
+    "form": "买",
+    "concept": "buy/to obtain something with money",
+    "transliteration": "mǎi"
+  },
+  "3399": {
+    "form": "植物",
+    "transliteration": "zhí​wù",
+    "concept": "plant/organism capable of photosynthesis"
+  },
+  "3423": {
+    "form": "给",
+    "concept": "give/transfer the possession of something to someone else",
+    "transliteration": "gěi"
+  },
+  "3430": {
+    "form": "香蕉",
+    "transliteration": "xiāng​jiāo",
+    "concept": "banana/fruit"
+  },
+  "3436": {
+    "form": "老虎",
+    "transliteration": "lǎo​hǔ",
+    "concept": "tiger/The mammal ''Panthera tigris''"
+  },
+  "3440": {
+    "form": "炸弹",
+    "concept": "bomb/device filled with explosives",
+    "transliteration": "zhà​dàn"
+  },
+  "3466": {
+    "form": "教会",
+    "concept": "church/house of worship",
+    "transliteration": "jiāo​huì"
+  },
+  "3471": {
+    "form": "小",
+    "transliteration": "xiǎo",
+    "concept": "small/not large"
+  },
+  "3491": {
+    "form": "西红柿",
+    "concept": "tomato/fruit",
+    "transliteration": "xī​hóng​shì"
+  },
+  "3492": {
+    "form": "樱桃",
+    "concept": "cherry/fruit",
+    "transliteration": "yīng​táo"
+  },
+  "3539": {
+    "form": "黑色",
+    "transliteration": "hēi​sè",
+    "concept": "black/colour/color"
+  },
+  "3553": {
+    "form": "蓝色",
+    "concept": "blue/colour",
+    "transliteration": "lán​sè"
+  },
+  "3580": {
+    "form": "绿色",
+    "concept": "green/colour",
+    "transliteration": "lǜ​sè"
+  },
+  "3599": {
+    "form": "粉红色",
+    "concept": "pink/pale red colour",
+    "transliteration": "fěn​hóng​sè"
+  },
+  "3605": {
+    "form": "紫色",
+    "transliteration": "zǐ​sè",
+    "concept": "purple/colour"
+  },
+  "3610": {
+    "form": "红色",
+    "concept": "red/colour",
+    "transliteration": "hóng​sè"
+  },
+  "3613": {
+    "form": "银",
+    "concept": "silver/metal",
+    "transliteration": "yín"
+  },
+  "3639": {
+    "form": "白色",
+    "transliteration": "bái​sè",
+    "concept": "white/color/colour"
+  },
+  "3651": {
+    "form": "黄色",
+    "concept": "yellow/colour",
+    "transliteration": "huáng​sè"
+  },
+  "3753": {
+    "form": "年轻",
+    "concept": "young/in the early part of life or growth",
+    "transliteration": "nián​qīng"
+  },
+  "3794": {
+    "form": "作家",
+    "transliteration": "zuò​jiā",
+    "concept": "writer/person who writes; an author"
+  },
+  "3795": {
+    "form": "写",
+    "concept": "write/to form letters, etc.",
+    "transliteration": "xiě"
+  },
+  "3812": {
+    "form": "伤口",
+    "concept": "wound/injury",
+    "transliteration": "shāng​kǒu"
+  },
+  "3834": {
+    "form": "妇女",
+    "concept": "woman/adult female person",
+    "transliteration": "fù​nǚ"
+  },
+  "3838": {
+    "form": "笑",
+    "transliteration": "xiào",
+    "concept": "laugh/show mirth by peculiar movement of the muscles of the face and emission of sounds"
+  },
+  "3849": {
+    "form": "国王",
+    "concept": "king/a male of a royal family who is the supreme ruler of his nation",
+    "transliteration": "guó​wáng"
+  },
+  "3855": {
+    "form": "女王",
+    "transliteration": "nǚ​wáng",
+    "concept": "queen/female monarch"
+  },
+  "3865": {
+    "form": "香肠",
+    "concept": "sausage/a food made of minced meat packed into a tubular casing",
+    "transliteration": "xiāng​cháng"
+  },
+  "3917": {
+    "form": "见",
+    "transliteration": "jiàn",
+    "concept": "see/perceive with the eyes"
+  },
+  "3924": {
+    "form": "半夜",
+    "transliteration": "bàn​yè",
+    "concept": "midnight/12 am"
+  },
+  "3925": {
+    "form": "老鼠",
+    "transliteration": "lǎo​shǔ",
+    "concept": "mouse/rodent of the genus ''Mus''"
+  },
+  "3947": {
+    "form": "正午",
+    "transliteration": "zhèng​wǔ",
+    "concept": "noon/midday"
+  },
+  "3948": {
+    "form": "键盘",
+    "concept": "keyboard/set of keys used to operate a typewriter, computer etc.",
+    "transliteration": "jiàn​pán"
+  },
+  "4018": {
+    "form": "自然",
+    "transliteration": "zì​rán",
+    "concept": "nature/the natural world"
+  },
+  "4024": {
+    "form": "人",
+    "transliteration": "rén",
+    "concept": "person/individual"
+  },
+  "4089": {
+    "form": "百万",
+    "concept": "million/cardinal number",
+    "transliteration": "bǎi​wàn"
+  },
+  "4129": {
+    "form": "三角",
+    "transliteration": "sān​jiǎo",
+    "concept": "triangle/polygon"
+  },
+  "4137": {
+    "form": "正方形",
+    "transliteration": "zhèng​fāng​xíng",
+    "concept": "square/type of polygon"
+  },
+  "4219": {
+    "form": "千",
+    "transliteration": "qiān",
+    "concept": "thousand/cardinal number 1000"
+  },
+  "4280": {
+    "form": "指南针",
+    "concept": "compass/instrument to determine cardinal directions",
+    "transliteration": "zhǐ​nán​zhēn"
+  },
+  "4299": {
+    "form": "西洋棋",
+    "transliteration": "xī​yáng​qí",
+    "concept": "chess/two-player board game"
+  },
+  "4371": {
+    "form": "手",
+    "transliteration": "shǒu",
+    "concept": "hand/part of the fore limb"
+  },
+  "4395": {
+    "form": "硬币",
+    "concept": "coin/(''currency'') a piece of currency",
+    "transliteration": "yìng​bì"
+  },
+  "4406": {
+    "form": "动物",
+    "concept": "animal/organism",
+    "transliteration": "dòng​wù"
+  },
+  "4422": {
+    "form": "脚趾",
+    "concept": "toe/each of the five digits on the end of the foot",
+    "transliteration": "jiǎo​zhǐ"
+  },
+  "4465": {
+    "form": "落",
+    "transliteration": "luò",
+    "concept": "fall/move to a lower position under the effect of gravity"
+  },
+  "4495": {
+    "form": "鹿",
+    "transliteration": "lù",
+    "concept": "deer/animal of the family Cervidae"
+  },
+  "4498": {
+    "form": "斑马",
+    "concept": "zebra/African animal",
+    "transliteration": "bān​mǎ"
+  },
+  "4499": {
+    "form": "鸵鸟",
+    "concept": "ostrich/large flightless bird",
+    "transliteration": "tuó​niǎo"
+  },
+  "4523": {
+    "form": "图画",
+    "concept": "picture/representation of visible reality produced by drawing, etc",
+    "transliteration": "tú​huà"
+  },
+  "4576": {
+    "form": "袋鼠",
+    "transliteration": "dài​shǔ",
+    "concept": "kangaroo/marsupial"
+  },
+  "4579": {
+    "form": "打猎",
+    "concept": "hunt/to chase down prey",
+    "transliteration": "dǎ​liè"
+  },
+  "4601": {
+    "form": "树",
+    "concept": "tree/large woody plant",
+    "transliteration": "shù"
+  },
+  "4617": {
+    "form": "蟑螂",
+    "transliteration": "zhāng​láng",
+    "concept": "cockroach/type of insect"
+  },
+  "4633": {
+    "form": "男孩",
+    "transliteration": "nán​hái",
+    "concept": "boy/young male"
+  },
+  "4643": {
+    "form": "女孩儿",
+    "concept": "girl/young female person",
+    "transliteration": "nǚ​hái​r"
+  },
+  "4660": {
+    "form": "我",
+    "transliteration": "wǒ",
+    "concept": "my/belonging to me"
+  },
+  "4704": {
+    "form": "母音",
+    "transliteration": "mǔ​yīn",
+    "concept": "vowel/sound"
+  },
+  "4771": {
+    "form": "未来",
+    "concept": "future/the time ahead",
+    "transliteration": "wèi​lái"
+  },
+  "4874": {
+    "form": "磨坊",
+    "transliteration": "mò​fáng",
+    "concept": "mill/grinding apparatus"
+  },
+  "4885": {
+    "form": "皮革",
+    "transliteration": "pí​gé",
+    "concept": "leather/material produced by tanning animal skin"
+  },
+  "4910": {
+    "form": "岛",
+    "concept": "island/area of land completely surrounded by water",
+    "transliteration": "dǎo"
+  },
+  "4934": {
+    "form": "鸟",
+    "concept": "bird/animal",
+    "transliteration": "niǎo"
+  },
+  "4941": {
+    "form": "鱼",
+    "concept": "fish/vertebrate animal",
+    "transliteration": "yú"
+  },
+  "5002": {
+    "form": "空气",
+    "concept": "air/mixture of gases making up the atmosphere of the Earth",
+    "transliteration": "kōng​qì"
+  },
+  "5030": {
+    "form": "角",
+    "transliteration": "jiǎo",
+    "concept": "angle/geometrical figure"
+  },
+  "5037": {
+    "form": "恼怒",
+    "transliteration": "nǎo​nù",
+    "concept": "angry/displaying anger"
+  },
+  "5039": {
+    "form": "回答",
+    "transliteration": "huí​dá",
+    "concept": "answer/response"
+  },
+  "5043": {
+    "form": "回答",
+    "transliteration": "huí​dá",
+    "concept": "answer/to make a reply or response to"
+  },
+  "5047": {
+    "form": "蚂蚁",
+    "concept": "ant/insect",
+    "transliteration": "mǎ​yǐ"
+  },
+  "5062": {
+    "form": "胳膊",
+    "transliteration": "gē​bo",
+    "concept": "arm/upper appendage from shoulder to wrist"
+  },
+  "5078": {
+    "form": "艺术",
+    "concept": "art/human effort",
+    "transliteration": "yì​shù"
+  },
+  "5109": {
+    "form": "月亮",
+    "transliteration": "yuè​liang",
+    "concept": "moon/id=Q405|largest natural satellite of planet Earth"
+  },
+  "5138": {
+    "form": "北",
+    "transliteration": "běi",
+    "concept": "north/compass point"
+  },
+  "5146": {
+    "form": "东",
+    "concept": "east/compass point",
+    "transliteration": "dōng"
+  },
+  "5152": {
+    "form": "南",
+    "transliteration": "nán",
+    "concept": "south/compass point"
+  },
+  "5157": {
+    "form": "西",
+    "transliteration": "xī",
+    "concept": "west/compass point"
+  },
+  "5183": {
+    "form": "地",
+    "transliteration": "de",
+    "concept": "earth/soil"
+  },
+  "5185": {
+    "form": "陆地",
+    "concept": "earth/the ground, land",
+    "transliteration": "lù​dì"
+  },
+  "5193": {
+    "form": "蛇",
+    "transliteration": "shé",
+    "concept": "snake/legless reptile"
+  },
+  "5201": {
+    "form": "厚",
+    "transliteration": "hòu",
+    "concept": "thick/relatively great in extent from one surface to another"
+  },
+  "5226": {
+    "form": "蜡",
+    "concept": "wax/oily, water-resistant substance",
+    "transliteration": "là"
+  },
+  "5250": {
+    "form": "左",
+    "transliteration": "zuǒ",
+    "concept": "left/the west side of the body when one is facing north"
+  },
+  "5262": {
+    "form": "右",
+    "transliteration": "yòu",
+    "concept": "right/of direction"
+  },
+  "5285": {
+    "form": "亲",
+    "concept": "parent/person from whom one is descended",
+    "transliteration": "qīn"
+  },
+  "5291": {
+    "form": "父亲",
+    "concept": "father/male parent",
+    "transliteration": "fù​qīn"
+  },
+  "5297": {
+    "form": "母亲",
+    "concept": "mother/female (human) who parents a child, gives birth to a baby, or is pregnant",
+    "transliteration": "mǔ​qīn"
+  },
+  "5298": {
+    "form": "妈妈",
+    "concept": "mother/one’s female parent",
+    "transliteration": "mā​ma"
+  },
+  "5310": {
+    "form": "哥哥",
+    "transliteration": "gē​ge",
+    "concept": "brother/male sibling"
+  },
+  "5315": {
+    "form": "姐姐",
+    "transliteration": "jiě​jie",
+    "concept": "sister/woman or girl having the same parents"
+  },
+  "5324": {
+    "form": "小孩",
+    "transliteration": "xiǎo​hái",
+    "concept": "child/a female or male child, a daughter or son"
+  },
+  "5327": {
+    "form": "小孩",
+    "transliteration": "xiǎo​hái",
+    "concept": "child/a minor"
+  },
+  "5329": {
+    "form": "儿子",
+    "concept": "son/a male person in relation to his parents",
+    "transliteration": "ér​zi"
+  },
+  "5335": {
+    "form": "女儿",
+    "concept": "daughter/female offspring",
+    "transliteration": "nǚ​'ér"
+  },
+  "5336": {
+    "form": "爷爷",
+    "concept": "grandfather/grandfather (from either side)",
+    "transliteration": "yé​ye"
+  },
+  "5339": {
+    "form": "奶奶",
+    "transliteration": "nǎi​nai",
+    "concept": "grandmother/mother of someone's parent"
+  },
+  "5341": {
+    "form": "孙子",
+    "concept": "grandson/son of one's child",
+    "transliteration": "Sūn​zǐ"
+  },
+  "5343": {
+    "form": "伯父",
+    "transliteration": "bó​fù",
+    "concept": "uncle/brother (or brother-in-law) of someone’s parent"
+  },
+  "5347": {
+    "form": "姑",
+    "transliteration": "gū",
+    "concept": "aunt/a parent’s sister or sister-in-law"
+  },
+  "5349": {
+    "form": "堂兄",
+    "transliteration": "táng​xiōng",
+    "concept": "cousin/nephew or niece of a parent"
+  },
+  "5353": {
+    "form": "公公",
+    "transliteration": "gōng​gong",
+    "concept": "father-in-law/one's spouse's father"
+  },
+  "5354": {
+    "form": "婆婆",
+    "transliteration": "pó​po",
+    "concept": "mother-in-law/spouse’s mother"
+  },
+  "5365": {
+    "form": "女婿",
+    "transliteration": "nǚ​xu",
+    "concept": "son-in-law/son-in-law"
+  },
+  "5366": {
+    "form": "媳妇",
+    "concept": "daughter-in-law/wife of one's child",
+    "transliteration": "xí​fù"
+  },
+  "5368": {
+    "form": "蜜蜂",
+    "transliteration": "mì​fēng",
+    "concept": "bee/insect"
+  },
+  "5372": {
+    "form": "蜂蜜",
+    "transliteration": "fēng​mì",
+    "concept": "honey/sweet substance produced by bees"
+  },
+  "5380": {
+    "form": "浴室",
+    "transliteration": "yù​shì",
+    "concept": "bathroom/a room with a bathtub"
+  },
+  "5382": {
+    "form": "汽车",
+    "concept": "car/automobile, a vehicle steered by a driver",
+    "transliteration": "qì​chē"
+  },
+  "5385": {
+    "form": "翅膀",
+    "transliteration": "chì​bǎng",
+    "concept": "wing/part of an animal"
+  },
+  "5398": {
+    "form": "冷",
+    "transliteration": "lěng",
+    "concept": "cold/having a low temperature"
+  },
+  "5405": {
+    "form": "热",
+    "concept": "hot/having a high temperature",
+    "transliteration": "rè"
+  },
+  "5416": {
+    "form": "暖和",
+    "transliteration": "nuǎn​huo",
+    "concept": "warm/having a temperature slightly higher than usual"
+  },
+  "5422": {
+    "form": "温度",
+    "concept": "temperature/a measure of cold or heat",
+    "transliteration": "wēn​dù"
+  },
+  "5475": {
+    "form": "彩虹",
+    "transliteration": "cǎi​hóng",
+    "concept": "rainbow/multicoloured arch in the sky"
+  },
+  "5499": {
+    "form": "手指",
+    "transliteration": "shǒu​zhǐ",
+    "concept": "finger/(anatomy) extremity of the hand"
+  },
+  "5510": {
+    "form": "花",
+    "transliteration": "huā",
+    "concept": "flower/reproductive structure in angiosperms"
+  },
+  "5513": {
+    "form": "好",
+    "transliteration": "hǎo",
+    "concept": "good/acting in the interest of good; ethical good intentions"
+  },
+  "5536": {
+    "form": "大拇指",
+    "transliteration": "Dà​mu​zhǐ",
+    "concept": "thumb/digit"
+  },
+  "5555": {
+    "form": "鸭",
+    "concept": "duck/aquatic bird of the family Anatidae",
+    "transliteration": "yā"
+  },
+  "5568": {
+    "form": "蔬菜",
+    "transliteration": "shū​cài",
+    "concept": "vegetable/a plant raised for some edible part of it"
+  },
+  "5575": {
+    "form": "习惯",
+    "concept": "habit/an action done on a regular basis",
+    "transliteration": "xí​guàn"
+  },
+  "5653": {
+    "form": "王国",
+    "concept": "kingdom/nation having as supreme ruler a king and/or queen",
+    "transliteration": "wáng​guó"
+  },
+  "5655": {
+    "form": "跳",
+    "transliteration": "tiào",
+    "concept": "jump/propel oneself rapidly upward such that momentum causes the body to become airborne"
+  },
+  "5670": {
+    "form": "孔",
+    "transliteration": "kǒng",
+    "concept": "hole/hollow in some surface"
+  },
+  "5684": {
+    "form": "木",
+    "transliteration": "mù",
+    "concept": "wood/substance"
+  },
+  "5740": {
+    "form": "学习",
+    "concept": "learn/to acquire knowledge or ability",
+    "transliteration": "xué​xí"
+  },
+  "5801": {
+    "form": "巧克力",
+    "transliteration": "qiǎo​kè​lì",
+    "concept": "chocolate/food made from ground roasted cocoa beans"
+  },
+  "5806": {
+    "form": "奶油",
+    "transliteration": "nǎi​yóu",
+    "concept": "cream/oily part of milk"
+  },
+  "5859": {
+    "form": "老鼠",
+    "transliteration": "lǎo​shǔ",
+    "concept": "rat/rodent"
+  },
+  "5866": {
+    "form": "灰色",
+    "transliteration": "huī​sè",
+    "concept": "gray/having a color somewhere between white and black, as the [[ash]] of an [[ember]]"
+  },
+  "5899": {
+    "form": "房间",
+    "concept": "room/division in a building",
+    "transliteration": "fáng​jiān"
+  },
+  "5925": {
+    "form": "龟",
+    "concept": "turtle/land or marine reptile with a shell",
+    "transliteration": "guī"
+  },
+  "5939": {
+    "form": "青铜",
+    "concept": "bronze/alloy",
+    "transliteration": "qīng​tóng"
+  },
+  "5953": {
+    "form": "彗星",
+    "transliteration": "huì​xīng",
+    "concept": "comet/a celestial body, generally with a tail"
+  },
+  "5996": {
+    "form": "橄榄",
+    "concept": "olive/fruit",
+    "transliteration": "gǎn​lǎn"
+  },
+  "6016": {
+    "form": "龟",
+    "concept": "tortoise/land-dwelling reptile",
+    "transliteration": "guī"
+  },
+  "6020": {
+    "form": "钢笔",
+    "concept": "pen/writing tool",
+    "transliteration": "gāng​bǐ"
+  },
+  "6026": {
+    "form": "铜",
+    "concept": "copper/id=Q753|chemical element",
+    "transliteration": "tóng"
+  },
+  "6035": {
+    "form": "椅子",
+    "transliteration": "yǐ​zi",
+    "concept": "chair/furniture"
+  },
+  "6050": {
+    "form": "玫瑰",
+    "transliteration": "méi​guī",
+    "concept": "rose/flower"
+  },
+  "6066": {
+    "form": "链",
+    "concept": "chain/series of interconnected rings or links",
+    "transliteration": "liàn"
+  },
+  "6137": {
+    "form": "直升机",
+    "concept": "helicopter/aircraft",
+    "transliteration": "zhí​shēng​jī"
+  },
+  "6142": {
+    "form": "蚊子",
+    "transliteration": "wén​zi",
+    "concept": "mosquito/small flying insect of the family Culicidae, known for biting and sucking blood"
+  },
+  "6143": {
+    "form": "你好",
+    "transliteration": "nǐ​hǎo",
+    "concept": "hello/greeting"
+  },
+  "6148": {
+    "form": "你好",
+    "transliteration": "nǐ​hǎo",
+    "concept": "hi/friendly, informal greeting"
+  },
+  "6149": {
+    "form": "手枪",
+    "concept": "gun/a very portable, short weapon, for hand use",
+    "transliteration": "shǒu​qiāng"
+  },
+  "6159": {
+    "form": "再见",
+    "concept": "goodbye/farewell",
+    "transliteration": "zài​jiàn"
+  },
+  "6185": {
+    "form": "计算器",
+    "concept": "calculator/electronic device that performs mathematical calculations",
+    "transliteration": "jì​suàn​qì"
+  },
+  "6205": {
+    "form": "城市",
+    "transliteration": "chéng​shì",
+    "concept": "city/large settlement"
+  },
+  "6217": {
+    "form": "祭司",
+    "transliteration": "jì​sī",
+    "concept": "priest/clergyman (clergywoman, clergyperson)"
+  },
+  "6230": {
+    "form": "草莓",
+    "transliteration": "cǎo​méi",
+    "concept": "strawberry/fruit"
+  },
+  "6245": {
+    "form": "柠檬",
+    "concept": "lemon/citrus fruit",
+    "transliteration": "níng​méng"
+  },
+  "6252": {
+    "form": "塔楼",
+    "concept": "tower/structure",
+    "transliteration": "tǎ​lóu"
+  },
+  "6258": {
+    "form": "葡萄",
+    "transliteration": "pú​tao",
+    "concept": "grape/fruit"
+  },
+  "6301": {
+    "form": "稻",
+    "transliteration": "dào",
+    "concept": "rice/plants"
+  },
+  "6302": {
+    "form": "米",
+    "transliteration": "mǐ",
+    "concept": "rice/seeds used as food"
+  },
+  "6310": {
+    "form": "射线",
+    "concept": "ray/beam of light or radiation",
+    "transliteration": "shè​xiàn"
+  },
+  "6384": {
+    "form": "清真寺",
+    "transliteration": "qīng​zhēn​sì",
+    "concept": "mosque/a place of worship for Muslims"
+  },
+  "6413": {
+    "form": "宫殿",
+    "concept": "palace/large, lavish residence",
+    "transliteration": "gōng​diàn"
+  },
+  "6448": {
+    "form": "水桶",
+    "transliteration": "shuǐ​tǒng",
+    "concept": "bucket/container"
+  },
+  "6470": {
+    "form": "坏",
+    "concept": "bad/not good",
+    "transliteration": "huài"
+  },
+  "6495": {
+    "form": "朋友",
+    "transliteration": "péng​you",
+    "concept": "friend/person whose company one enjoys"
+  },
+  "6551": {
+    "form": "土壤",
+    "transliteration": "tǔ​rǎng",
+    "concept": "soil/mixture of sand and organic material"
+  },
+  "6573": {
+    "form": "蝙蝠",
+    "transliteration": "biān​fú",
+    "concept": "bat/small flying mammal"
+  },
+  "6612": {
+    "form": "床",
+    "transliteration": "chuáng",
+    "concept": "bed/piece of furniture"
+  },
+  "6652": {
+    "form": "听见",
+    "concept": "hear/to perceive with the ear",
+    "transliteration": "tīng​jiàn"
+  },
+  "6655": {
+    "form": "听",
+    "concept": "listen/to pay attention to a sound",
+    "transliteration": "tīng"
+  },
+  "6659": {
+    "form": "接触",
+    "concept": "touch/make physical contact with",
+    "transliteration": "jiē​chù"
+  },
+  "6669": {
+    "form": "咬",
+    "transliteration": "yǎo",
+    "concept": "bite/to cut off a piece by clamping the teeth"
+  },
+  "6680": {
+    "form": "微笑",
+    "transliteration": "wēi​xiào",
+    "concept": "smile/a happy face expression using mouth, but without producing voice"
+  },
+  "6681": {
+    "form": "微笑",
+    "transliteration": "wēi​xiào",
+    "concept": "smile/to have a smile on one's face"
+  },
+  "6683": {
+    "form": "想",
+    "transliteration": "xiǎng",
+    "concept": "think/communicate to oneself in one’s mind"
+  },
+  "6702": {
+    "form": "记得",
+    "concept": "remember/to recall from one's memory",
+    "transliteration": "jì​de"
+  },
+  "6706": {
+    "form": "歌曲",
+    "transliteration": "gē​qǔ",
+    "concept": "song/music with words"
+  },
+  "6711": {
+    "form": "唱歌",
+    "transliteration": "chàng​gē",
+    "concept": "sing/to produce harmonious sounds with one’s voice"
+  },
+  "6713": {
+    "form": "哭",
+    "transliteration": "kū",
+    "concept": "cry/intransitive: to weep"
+  },
+  "6726": {
+    "form": "泪",
+    "concept": "tear/drop of clear salty liquid from the eyes",
+    "transliteration": "lèi"
+  },
+  "6728": {
+    "form": "眼睛",
+    "transliteration": "yǎn​jing",
+    "concept": "eye/organ"
+  },
+  "6739": {
+    "form": "呼吸",
+    "transliteration": "hū​xī",
+    "concept": "breathe/to draw air in and out"
+  },
+  "6757": {
+    "form": "开始",
+    "concept": "begin/to start, to initiate or take the first step into something.",
+    "transliteration": "kāi​shǐ"
+  },
+  "6770": {
+    "form": "声音",
+    "concept": "sound/sensation perceived by the ear",
+    "transliteration": "shēng​yīn"
+  },
+  "6795": {
+    "form": "声音",
+    "concept": "voice/sound uttered by the mouth",
+    "transliteration": "shēng​yīn"
+  },
+  "6898": {
+    "form": "读",
+    "concept": "read/look at and interpret letters or other information",
+    "transliteration": "dú"
+  },
+  "6941": {
+    "form": "看",
+    "transliteration": "kàn",
+    "concept": "look/to try to see"
+  },
+  "7067": {
+    "form": "牙齿",
+    "concept": "tooth/biological tooth",
+    "transliteration": "yá​chǐ"
+  },
+  "7071": {
+    "form": "头发",
+    "concept": "hair/a pigmented keratinaceous growth on the human head",
+    "transliteration": "tóu​fa"
+  },
+  "7072": {
+    "form": "头发",
+    "concept": "hair/the collection or mass of filaments growing from the skin of humans and animals",
+    "transliteration": "tóu​fa"
+  },
+  "7074": {
+    "form": "耳朵",
+    "transliteration": "ěr​duo",
+    "concept": "ear/organ of hearing"
+  },
+  "7081": {
+    "form": "鼻子",
+    "transliteration": "bí​zi",
+    "concept": "nose/protuberance on the face"
+  },
+  "7093": {
+    "form": "嘴",
+    "transliteration": "zuǐ",
+    "concept": "mouth/the opening of a creature through which food is ingested"
+  },
+  "7097": {
+    "form": "舌头",
+    "concept": "tongue/organ",
+    "transliteration": "shé​tou"
+  },
+  "7099": {
+    "form": "肘",
+    "transliteration": "zhǒu",
+    "concept": "elbow/joint between upper arm and forearm"
+  },
+  "7102": {
+    "form": "腿",
+    "transliteration": "tuǐ",
+    "concept": "leg/lower limb from groin to ankle"
+  },
+  "7111": {
+    "form": "脚",
+    "concept": "foot/part of animal’s body {{jump|t|body part}}",
+    "transliteration": "jiǎo"
+  },
+  "7112": {
+    "form": "脚",
+    "concept": "foot/part of human body {{jump|t|human body part}}",
+    "transliteration": "jiǎo"
+  },
+  "7119": {
+    "form": "膝",
+    "transliteration": "xī",
+    "concept": "knee/joint in the middle of the leg and area around it"
+  },
+  "7125": {
+    "form": "颈",
+    "concept": "neck/the part of body connecting the head and the trunk found in humans and some animals",
+    "transliteration": "jǐng"
+  },
+  "7150": {
+    "form": "蜗牛",
+    "concept": "snail/any animal of the class ''Gastropoda'' having a shell",
+    "transliteration": "wō​niú"
+  },
+  "7152": {
+    "form": "天使",
+    "transliteration": "tiān​shǐ",
+    "concept": "angel/messenger from a deity"
+  },
+  "7170": {
+    "form": "脸",
+    "concept": "face/front part of head",
+    "transliteration": "liǎn"
+  },
+  "7253": {
+    "form": "味道",
+    "transliteration": "wèi​dao",
+    "concept": "smell/sensation"
+  },
+  "7257": {
+    "form": "裤子",
+    "concept": "pants/garment covering the body from the waist downwards",
+    "transliteration": "kù​zi"
+  },
+  "7261": {
+    "form": "翻译",
+    "concept": "translate/to change text from one language to another",
+    "transliteration": "fān​yì"
+  },
+  "7293": {
+    "form": "甲虫",
+    "concept": "beetle/insect",
+    "transliteration": "jiǎ​chóng"
+  },
+  "7362": {
+    "form": "鹅",
+    "concept": "goose/a grazing waterfowl of the family Anatidae",
+    "transliteration": "é"
+  },
+  "7365": {
+    "form": "脚跟",
+    "concept": "heel/anatomy: part of the foot",
+    "transliteration": "jiǎo​gēn"
+  },
+  "7386": {
+    "form": "鹄",
+    "concept": "swan/waterfowl of the genus ''Cygnus''",
+    "transliteration": "gǔ"
+  },
+  "7393": {
+    "form": "丢",
+    "concept": "lose/cause (something) to cease to be in one's possession or capability",
+    "transliteration": "diū"
+  },
+  "7418": {
+    "form": "街",
+    "transliteration": "jiē",
+    "concept": "street/paved part of road in a village or a town"
+  },
+  "7419": {
+    "form": "路",
+    "transliteration": "lù",
+    "concept": "road/a way for travel"
+  },
+  "7544": {
+    "form": "子宫",
+    "concept": "womb/uterus",
+    "transliteration": "zǐ​gōng"
+  },
+  "7551": {
+    "form": "斧头",
+    "concept": "axe/tool",
+    "transliteration": "fǔ​tóu"
+  },
+  "7582": {
+    "form": "雨",
+    "transliteration": "yǔ",
+    "concept": "rain/condensed water from a cloud"
+  },
+  "7585": {
+    "form": "下雨",
+    "transliteration": "xià​yǔ",
+    "concept": "rain/of rain: to fall from the sky"
+  },
+  "7600": {
+    "form": "共和国",
+    "concept": "republic/a type of state",
+    "transliteration": "gòng​hé​guó"
+  },
+  "7602": {
+    "form": "乾草",
+    "concept": "hay/grass cut and dried for use as animal fodder",
+    "transliteration": "gān cǎo"
+  },
+  "7607": {
+    "form": "饥饿",
+    "concept": "hungry/affected by hunger; desirous of food",
+    "transliteration": "jī​'è"
+  },
+  "7613": {
+    "form": "天气",
+    "concept": "weather/state of the atmosphere",
+    "transliteration": "tiān​qì"
+  },
+  "7637": {
+    "form": "谢谢",
+    "concept": "thank you/an expression of gratitude",
+    "transliteration": "xiè​xie"
+  },
+  "7650": {
+    "form": "硬",
+    "transliteration": "yìng",
+    "concept": "hard/resistant to pressure"
+  },
+  "7658": {
+    "form": "生",
+    "transliteration": "shēng",
+    "concept": "give birth/produce new life"
+  },
+  "7741": {
+    "form": "法律",
+    "transliteration": "fǎ​lǜ",
+    "concept": "law/any rule that must or should be obeyed"
+  },
+  "7790": {
+    "form": "水母",
+    "transliteration": "shuǐ​mǔ",
+    "concept": "jellyfish/aquatic animal"
+  },
+  "7791": {
+    "form": "妻子",
+    "transliteration": "qī​zǐ",
+    "concept": "wife/married woman"
+  },
+  "7814": {
+    "form": "火车",
+    "concept": "train/line of connected cars or carriages",
+    "transliteration": "huǒ​chē"
+  },
+  "7873": {
+    "form": "手掌",
+    "transliteration": "shǒu​zhǎng",
+    "concept": "palm/inner, concave part of hand"
+  },
+  "7914": {
+    "form": "疼痛",
+    "transliteration": "téng​tòng",
+    "concept": "pain/ache or bodily suffering"
+  },
+  "7950": {
+    "form": "恒星系",
+    "concept": "galaxy/collection of billions of stars, galactic dust, black holes, etc",
+    "transliteration": "héng​xīng​xì"
+  },
+  "8024": {
+    "form": "科学",
+    "concept": "science/collective discipline of learning acquired through the scientific method",
+    "transliteration": "kē​xué"
+  },
+  "8028": {
+    "form": "技术",
+    "concept": "technology/the study of or a collection of techniques",
+    "transliteration": "jì​shù"
+  },
+  "8031": {
+    "form": "地震",
+    "transliteration": "dì​zhèn",
+    "concept": "earthquake/shaking of the surface of a planet"
+  },
+  "8032": {
+    "form": "油",
+    "transliteration": "yóu",
+    "concept": "oil/liquid fat"
+  },
+  "8067": {
+    "form": "熊",
+    "transliteration": "xióng",
+    "concept": "bear/large mammal of family Ursidae"
+  },
+  "8098": {
+    "form": "甜",
+    "transliteration": "tián",
+    "concept": "sweet/having a pleasant taste"
+  },
+  "8099": {
+    "form": "甜",
+    "transliteration": "tián",
+    "concept": "sweet/having a taste of sugar"
+  },
+  "8136": {
+    "form": "人类",
+    "concept": "human/id=Q15978631|a human being",
+    "transliteration": "rén​lèi"
+  },
+  "8147": {
+    "form": "家",
+    "transliteration": "jiā",
+    "concept": "family/immediate family, e.g. parents and their children"
+  },
+  "8155": {
+    "form": "语法",
+    "concept": "grammar/rules for speaking and writing a language",
+    "transliteration": "yǔ​fǎ"
+  },
+  "8231": {
+    "form": "睫毛",
+    "transliteration": "jié​máo",
+    "concept": "eyelash/hair growing on the edge of an eyelid"
+  },
+  "8232": {
+    "form": "眼皮",
+    "transliteration": "yǎn​pí",
+    "concept": "eyelid/(anatomy) a thin skin membrane that covers and moves over an eye"
+  },
+  "8418": {
+    "form": "带来",
+    "concept": "bring/to transport toward somebody/somewhere",
+    "transliteration": "dài​lái"
+  },
+  "8454": {
+    "form": "烧",
+    "concept": "burn/be consumed by fire",
+    "transliteration": "shāo"
+  },
+  "8500": {
+    "form": "选择",
+    "concept": "choose/to pick",
+    "transliteration": "xuǎn​zé"
+  },
+  "8513": {
+    "form": "来",
+    "concept": "come/to move nearer",
+    "transliteration": "lái"
+  },
+  "8592": {
+    "form": "鸽子",
+    "concept": "dove/bird of the family Columbidae",
+    "transliteration": "gē​zi"
+  },
+  "8619": {
+    "form": "梦",
+    "concept": "dream/imaginary events seen while sleeping",
+    "transliteration": "mèng"
+  },
+  "8622": {
+    "form": "梦见",
+    "concept": "dream/see imaginary events while sleeping",
+    "transliteration": "mèng​jiàn"
+  },
+  "8626": {
+    "form": "醉",
+    "transliteration": "zuì",
+    "concept": "drunk/intoxicated after drinking too much alcohol"
+  },
+  "8733": {
+    "form": "找到",
+    "transliteration": "zhǎo​dào",
+    "concept": "find/encounter, locate, discover"
+  },
+  "8771": {
+    "form": "苍蝇",
+    "concept": "fly/insect of the family Muscidae",
+    "transliteration": "cāng​ying"
+  },
+  "8773": {
+    "form": "飞",
+    "concept": "fly/to travel through air",
+    "transliteration": "fēi"
+  },
+  "8807": {
+    "form": "句子",
+    "transliteration": "jù​zi",
+    "concept": "sentence/grammatically complete series of words consisting of a subject and predicate"
+  },
+  "8855": {
+    "form": "语言学",
+    "concept": "linguistics/scientific study of language",
+    "transliteration": "yǔ​yán​xué"
+  },
+  "8863": {
+    "form": "忘记",
+    "concept": "forget/to lose remembrance of",
+    "transliteration": "wàng​jì"
+  },
+  "8919": {
+    "form": "去",
+    "transliteration": "qù",
+    "concept": "go/to move through space (especially from one place to another) {{jump|t|move|s|a}}"
+  },
+  "8971": {
+    "form": "有",
+    "transliteration": "yǒu",
+    "concept": "have/to possess"
+  },
+  "9013": {
+    "form": "拿",
+    "transliteration": "ná",
+    "concept": "hold/to grasp"
+  },
+  "9042": {
+    "form": "鸽子",
+    "concept": "pigeon/bird of the pigeon and dove family Columbidae",
+    "transliteration": "gē​zi"
+  },
+  "9081": {
+    "form": "大陆",
+    "concept": "continent/each of main land-masses on earth's surface",
+    "transliteration": "Dà​lù"
+  },
+  "9083": {
+    "form": "闪电",
+    "concept": "lightning/flash of light",
+    "transliteration": "shǎn​diàn"
+  },
+  "9145": {
+    "form": "说谎",
+    "concept": "lie/tell an intentional untruth",
+    "transliteration": "shuō​huǎng"
+  },
+  "9146": {
+    "form": "谎言",
+    "concept": "lie/intentionally false statement",
+    "transliteration": "huǎng​yán"
+  },
+  "9150": {
+    "form": "光",
+    "transliteration": "guāng",
+    "concept": "light/electromagnetic waves"
+  },
+  "9281": {
+    "form": "背部",
+    "transliteration": "bèi​bù",
+    "concept": "back/the rear of body"
+  },
+  "9298": {
+    "form": "公牛",
+    "transliteration": "gōng​niú",
+    "concept": "bull/uncastrated adult male bovine"
+  },
+  "9326": {
+    "form": "明天",
+    "transliteration": "míng​tiān",
+    "concept": "tomorrow/on the day after the present day"
+  },
+  "9327": {
+    "form": "明天",
+    "transliteration": "míng​tiān",
+    "concept": "tomorrow/the day after the present day"
+  },
+  "9334": {
+    "form": "机",
+    "concept": "machine/mechanical or electrical device",
+    "transliteration": "jī"
+  },
+  "9340": {
+    "form": "绵羊",
+    "concept": "sheep/animal",
+    "transliteration": "mián​yáng"
+  },
+  "9357": {
+    "form": "桨",
+    "concept": "oar/implement used to row a boat",
+    "transliteration": "jiǎng"
+  },
+  "9365": {
+    "form": "葡萄酒",
+    "transliteration": "pú​tao​jiǔ",
+    "concept": "wine/alcoholic beverage made from grapes"
+  },
+  "9371": {
+    "form": "羊毛",
+    "transliteration": "yáng​máo",
+    "concept": "wool/hair of sheep, etc."
+  },
+  "9497": {
+    "form": "衬衫",
+    "concept": "shirt/article of clothing",
+    "transliteration": "chèn​shān"
+  },
+  "9501": {
+    "form": "鞋子",
+    "transliteration": "xié​zi",
+    "concept": "shoe/protective covering for the foot"
+  },
+  "9506": {
+    "form": "裙子",
+    "transliteration": "qún​zi",
+    "concept": "skirt/clothing"
+  },
+  "9516": {
+    "form": "讲",
+    "concept": "speak/to communicate with one's voice using words",
+    "transliteration": "jiǎng"
+  },
+  "9547": {
+    "form": "雷",
+    "transliteration": "léi",
+    "concept": "thunder/sound caused by lightning"
+  },
+  "9591": {
+    "form": "一起",
+    "transliteration": "yī​qǐ",
+    "concept": "together/at the same time, in the same place"
+  },
+  "9701": {
+    "form": "靴子",
+    "transliteration": "xuē​zi",
+    "concept": "boot/heavy shoe that covers part of the leg"
+  },
+  "9735": {
+    "form": "剪刀",
+    "transliteration": "jiǎn​dāo",
+    "concept": "scissors/tool used for cutting"
+  },
+  "9756": {
+    "form": "咳嗽",
+    "transliteration": "ké​sou",
+    "concept": "cough/push air from the lungs"
+  },
+  "9758": {
+    "form": "咳嗽",
+    "transliteration": "ké​sou",
+    "concept": "cough/expulsion of air from the lungs"
+  },
+  "9761": {
+    "form": "建筑",
+    "concept": "building/closed structure with walls and a roof",
+    "transliteration": "jiàn​zhù"
+  },
+  "9768": {
+    "form": "圆形",
+    "concept": "circle/geometry: set of points that are equally distant from a center",
+    "transliteration": "yuán​xíng"
+  },
+  "9785": {
+    "form": "照相机",
+    "concept": "camera/still camera",
+    "transliteration": "zhào​xiàng​jī"
+  },
+  "9787": {
+    "form": "酪",
+    "transliteration": "lào",
+    "concept": "cheese/dairy product"
+  },
+  "9816": {
+    "form": "钟",
+    "concept": "bell/percussive instrument",
+    "transliteration": "zhōng"
+  },
+  "9846": {
+    "form": "罪",
+    "transliteration": "zuì",
+    "concept": "crime/act violating the law"
+  },
+  "9849": {
+    "form": "罪",
+    "transliteration": "zuì",
+    "concept": "sin/violation of religious law"
+  },
+  "9852": {
+    "form": "便宜",
+    "transliteration": "pián​yi",
+    "concept": "cheap/low in price"
+  },
+  "9865": {
+    "form": "下巴",
+    "transliteration": "xià​ba",
+    "concept": "chin/bottom of a face"
+  },
+  "9916": {
+    "form": "东西",
+    "concept": "thing/that which is considered to exist as a separate entity, object, quality or concept",
+    "transliteration": "dōng​xi"
+  },
+  "9930": {
+    "form": "简单",
+    "concept": "simple/uncomplicated",
+    "transliteration": "jiǎn​dān"
+  },
+  "9933": {
+    "form": "泡",
+    "transliteration": "pào",
+    "concept": "bubble/spherically contained volume of air or other gas"
+  },
+  "9951": {
+    "form": "包",
+    "transliteration": "bāo",
+    "concept": "bag/flexible container"
+  },
+  "9969": {
+    "form": "船",
+    "transliteration": "chuán",
+    "concept": "boat/water craft"
+  },
+  "9973": {
+    "form": "身体",
+    "concept": "body/physical structure of a human or animal",
+    "transliteration": "shēn​tǐ"
+  },
+  "9987": {
+    "form": "扣子",
+    "transliteration": "kòu​zi",
+    "concept": "button/knob or small disc serving as a fastener"
+  },
+  "10006": {
+    "form": "面包",
+    "concept": "bread/baked dough made from cereals",
+    "transliteration": "miàn​bāo"
+  },
+  "10023": {
+    "form": "粉笔",
+    "concept": "chalk/a piece of chalk used for drawing and on a blackboard",
+    "transliteration": "fěn​bǐ"
+  },
+  "10025": {
+    "form": "篮子",
+    "concept": "basket/container",
+    "transliteration": "lán​zi"
+  },
+  "10048": {
+    "form": "黄油",
+    "concept": "butter/soft foodstuff made from milk",
+    "transliteration": "huáng​yóu"
+  },
+  "10050": {
+    "form": "桥",
+    "concept": "bridge/construction or natural feature that spans a divide",
+    "transliteration": "qiáo"
+  },
+  "10065": {
+    "form": "支",
+    "transliteration": "zhī",
+    "concept": "branch/woody part of a tree arising from the trunk"
+  },
+  "10079": {
+    "form": "窗帘",
+    "concept": "curtain/piece of cloth covering a window",
+    "transliteration": "chuāng​lián"
+  },
+  "10095": {
+    "form": "漂亮",
+    "transliteration": "piào​liang",
+    "concept": "beautiful/possessing charm and attractive"
+  },
+  "10100": {
+    "form": "砖块",
+    "concept": "brick/hardened block used for building",
+    "transliteration": "zhuān​kuài"
+  },
+  "10173": {
+    "form": "睡觉",
+    "concept": "sleep/to rest in state of reduced consciousness",
+    "transliteration": "shuì​jiào"
+  },
+  "10175": {
+    "form": "睡觉",
+    "concept": "sleep/state of reduced consciousness",
+    "transliteration": "shuì​jiào"
+  },
+  "10185": {
+    "form": "付",
+    "transliteration": "fù",
+    "concept": "pay/to give money in exchange for goods or services"
+  },
+  "10253": {
+    "form": "民主",
+    "transliteration": "mín​zhǔ",
+    "concept": "democracy/rule by the people"
+  },
+  "10256": {
+    "form": "政治",
+    "transliteration": "zhèng​zhì",
+    "concept": "politics/a methodology and activities associated with running a government"
+  },
+  "10304": {
+    "form": "戒指",
+    "transliteration": "jiè​zhi",
+    "concept": "ring/round piece of (precious) metal worn around the finger"
+  },
+  "10341": {
+    "form": "跑",
+    "transliteration": "pǎo",
+    "concept": "run/to move quickly on two feet"
+  },
+  "10387": {
+    "form": "锯子",
+    "concept": "saw/tool",
+    "transliteration": "jù​zi"
+  },
+  "10396": {
+    "form": "卖",
+    "concept": "sell/to agree to transfer goods or provide services",
+    "transliteration": "mài"
+  },
+  "10664": {
+    "form": "展示",
+    "transliteration": "zhǎn​shì",
+    "concept": "show/to display"
+  },
+  "10675": {
+    "form": "坐",
+    "transliteration": "zuò",
+    "concept": "sit/of a person, be in a position in which the upper body is upright and the legs are supported"
+  },
+  "11013": {
+    "form": "游泳",
+    "transliteration": "yóu​yǒng",
+    "concept": "swim/move through water"
+  },
+  "11043": {
+    "form": "教",
+    "transliteration": "jiào",
+    "concept": "teach/to pass on knowledge"
+  },
+  "11052": {
+    "form": "思想",
+    "transliteration": "sī​xiǎng",
+    "concept": "thought/form created in the mind"
+  },
+  "11055": {
+    "form": "抛",
+    "transliteration": "pāo",
+    "concept": "throw/to cause an object to move rapidly through the air"
+  },
+  "11087": {
+    "form": "明白",
+    "transliteration": "míng​bai",
+    "concept": "understand/to be aware of the meaning of"
+  },
+  "11134": {
+    "form": "哭",
+    "transliteration": "kū",
+    "concept": "weep/to cry, shed tears"
+  },
+  "11135": {
+    "form": "湿",
+    "concept": "wet/of an object: covered with or impregnated with liquid",
+    "transliteration": "shī"
+  },
+  "11146": {
+    "form": "风",
+    "concept": "wind/movement of air",
+    "transliteration": "fēng"
+  },
+  "11250": {
+    "form": "厨师",
+    "concept": "cook/a person who prepares food for a living",
+    "transliteration": "chú​shī"
+  },
+  "11251": {
+    "form": "做菜",
+    "transliteration": "zuò​cài",
+    "concept": "cook/to prepare (food) for eating"
+  },
+  "11278": {
+    "form": "苦涩",
+    "concept": "bitter/having an acrid taste",
+    "transliteration": "kǔ​sè"
+  },
+  "11284": {
+    "form": "棉花",
+    "transliteration": "mián​hua",
+    "concept": "cotton/plant"
+  },
+  "11289": {
+    "form": "瓶子",
+    "transliteration": "píng​zi",
+    "concept": "bottle/container"
+  },
+  "11316": {
+    "form": "梳子",
+    "transliteration": "shū​zi",
+    "concept": "comb/toothed implement for grooming the hair"
+  },
+  "11334": {
+    "form": "箱子",
+    "transliteration": "xiāng​zi",
+    "concept": "box/cuboid container"
+  },
+  "11357": {
+    "form": "云",
+    "concept": "cloud/visible mass of water droplets suspended in the air",
+    "transliteration": "yún"
+  },
+  "11364": {
+    "form": "头脑",
+    "concept": "brain/organ",
+    "transliteration": "tóu​nǎo"
+  },
+  "11391": {
+    "form": "锚",
+    "concept": "anchor/tool to moor a vessel into sea bottom",
+    "transliteration": "máo"
+  },
+  "11452": {
+    "form": "煤",
+    "transliteration": "méi",
+    "concept": "coal/uncountable: carbon rock"
+  },
+  "11459": {
+    "form": "球",
+    "transliteration": "qiú",
+    "concept": "ball/solid or hollow sphere"
+  },
+  "11460": {
+    "form": "球",
+    "transliteration": "qiú",
+    "concept": "ball/object, generally spherical, used for playing games"
+  },
+  "11483": {
+    "form": "蛋糕",
+    "transliteration": "dàn​gāo",
+    "concept": "cake/a sweet dessert"
+  },
+  "11498": {
+    "form": "乾净",
+    "concept": "clean/not dirty",
+    "transliteration": "gān jìng"
+  },
+  "11630": {
+    "form": "铁",
+    "concept": "iron/id=Q677|element",
+    "transliteration": "tiě"
+  },
+  "11682": {
+    "form": "腹",
+    "transliteration": "fù",
+    "concept": "belly/abdomen"
+  },
+  "11692": {
+    "form": "毯子",
+    "transliteration": "tǎn​zi",
+    "concept": "blanket/fabric"
+  },
+  "11709": {
+    "form": "冰",
+    "transliteration": "bīng",
+    "concept": "ice/water in frozen form"
+  },
+  "11722": {
+    "form": "湖",
+    "transliteration": "hú",
+    "concept": "lake/body of water"
+  },
+  "11782": {
+    "form": "门",
+    "concept": "door/portal of entry into a building, room or vehicle",
+    "transliteration": "mén"
+  },
+  "11792": {
+    "form": "乾",
+    "concept": "dry/free from liquid or moisture",
+    "transliteration": "gān"
+  },
+  "11809": {
+    "form": "脏",
+    "concept": "dirty/covered with or containing dirt",
+    "transliteration": "zàng"
+  },
+  "11853": {
+    "form": "羊",
+    "transliteration": "yáng",
+    "concept": "goat/animal"
+  },
+  "11855": {
+    "form": "结束",
+    "concept": "end/extreme part",
+    "transliteration": "jié​shù"
+  },
+  "11888": {
+    "form": "小提琴",
+    "transliteration": "xiǎo​tí​qín",
+    "concept": "violin/string instrument"
+  },
+  "11889": {
+    "form": "吉他",
+    "transliteration": "jí​tā",
+    "concept": "guitar/musical instrument"
+  },
+  "11890": {
+    "form": "钢琴",
+    "concept": "piano/a keyboard musical instrument",
+    "transliteration": "gāng​qín"
+  },
+  "11909": {
+    "form": "章鱼",
+    "concept": "octopus/mollusc",
+    "transliteration": "zhāng​yú"
+  },
+  "11910": {
+    "form": "阴茎",
+    "concept": "penis/male organ for copulation and urination",
+    "transliteration": "yīn​jīng"
+  },
+  "11916": {
+    "form": "鸡",
+    "concept": "chicken/bird",
+    "transliteration": "jī"
+  },
+  "11919": {
+    "form": "雄鸡",
+    "concept": "rooster/male chicken; male gallinaceous bird",
+    "transliteration": "xióng​jī"
+  },
+  "11931": {
+    "form": "燕子",
+    "transliteration": "yàn​zi",
+    "concept": "swallow/bird"
+  },
+  "11950": {
+    "form": "孔雀",
+    "transliteration": "kǒng​què",
+    "concept": "peacock/pheasant of one of the genera ''Pavo'' and ''Afropavo''"
+  },
+  "11951": {
+    "form": "蝴蝶",
+    "transliteration": "hú​dié",
+    "concept": "butterfly/id=Q11946202|insect"
+  },
+  "12000": {
+    "form": "猫头鹰",
+    "concept": "owl/a bird",
+    "transliteration": "māo​tóu​yīng"
+  },
+  "12024": {
+    "form": "牛",
+    "transliteration": "niú",
+    "concept": "cattle/domesticated bovine animals"
+  },
+  "12028": {
+    "form": "骆驼",
+    "concept": "camel/beast of burden",
+    "transliteration": "luò​tuo"
+  },
+  "12042": {
+    "form": "刺猬",
+    "concept": "hedgehog/animal",
+    "transliteration": "cì​wei"
+  },
+  "12048": {
+    "form": "野兔",
+    "transliteration": "yě​tù",
+    "concept": "hare/animal"
+  },
+  "12054": {
+    "form": "獾",
+    "transliteration": "huān",
+    "concept": "badger/mammal"
+  },
+  "12075": {
+    "form": "兔子",
+    "transliteration": "tù​zi",
+    "concept": "rabbit/mammal"
+  },
+  "12082": {
+    "form": "松鼠",
+    "transliteration": "sōng​shǔ",
+    "concept": "squirrel/rodent"
+  },
+  "12083": {
+    "form": "猪",
+    "concept": "pig/mammal of genus ''Sus''",
+    "transliteration": "zhū"
+  },
+  "12101": {
+    "form": "狐狸",
+    "transliteration": "hú​li",
+    "concept": "fox/''Vulpes''"
+  },
+  "12162": {
+    "form": "盘子",
+    "concept": "plate/flat dish",
+    "transliteration": "pán​zi"
+  },
+  "12200": {
+    "form": "心脏",
+    "concept": "heart/an organ",
+    "transliteration": "xīn​zàng"
+  },
+  "12206": {
+    "form": "城堡",
+    "transliteration": "chéng​bǎo",
+    "concept": "castle/fortified building"
+  },
+  "12239": {
+    "form": "黑暗",
+    "transliteration": "hēi​'àn",
+    "concept": "dark/having an absolute or relative lack of light"
+  },
+  "12246": {
+    "form": "死",
+    "transliteration": "sǐ",
+    "concept": "dead/no longer alive"
+  },
+  "12260": {
+    "form": "死亡",
+    "transliteration": "sǐ​wáng",
+    "concept": "death/cessation of life"
+  },
+  "12288": {
+    "form": "危险",
+    "concept": "danger/exposure to liable harm",
+    "transliteration": "wēi​xiǎn"
+  },
+  "12294": {
+    "form": "法官",
+    "transliteration": "fǎ​guān",
+    "concept": "judge/public judicial official"
+  },
+  "12340": {
+    "form": "长",
+    "concept": "long/having much distance from one point to another",
+    "transliteration": "cháng"
+  },
+  "12369": {
+    "form": "窄",
+    "transliteration": "zhǎi",
+    "concept": "narrow/having small width"
+  },
+  "12380": {
+    "form": "宽",
+    "concept": "wide/having a large physical extent from side to side",
+    "transliteration": "kuān"
+  },
+  "12386": {
+    "form": "高",
+    "transliteration": "gāo",
+    "concept": "high/elevated; tall"
+  },
+  "12409": {
+    "form": "生命",
+    "transliteration": "shēng​mìng",
+    "concept": "life/the state of being alive"
+  },
+  "12470": {
+    "form": "知识",
+    "concept": "knowledge/fact of knowing about something; understanding, familiarity with information",
+    "transliteration": "zhī​shi"
+  },
+  "12474": {
+    "form": "重要",
+    "transliteration": "zhòng​yào",
+    "concept": "important/having relevant and crucial value"
+  },
+  "12475": {
+    "form": "房屋",
+    "transliteration": "fáng​wū",
+    "concept": "house/human abode"
+  },
+  "12491": {
+    "form": "医院",
+    "concept": "hospital/large medical facility",
+    "transliteration": "yī​yuàn"
+  },
+  "12492": {
+    "form": "医生",
+    "concept": "doctor/physician",
+    "transliteration": "yī​shēng"
+  },
+  "12497": {
+    "form": "刀",
+    "transliteration": "dāo",
+    "concept": "knife/utensil or tool designed for cutting"
+  },
+  "12503": {
+    "form": "金属",
+    "concept": "metal/atomic element''' or '''material made of such atoms",
+    "transliteration": "jīn​shǔ"
+  },
+  "12505": {
+    "form": "山",
+    "transliteration": "shān",
+    "concept": "mountain/large mass of earth and rock"
+  },
+  "12507": {
+    "form": "盐",
+    "concept": "salt/sodium chloride",
+    "transliteration": "yán"
+  },
+  "12518": {
+    "form": "糖",
+    "transliteration": "táng",
+    "concept": "sugar/sucrose from sugar cane or sugar beet and used to sweeten food and drink"
+  },
+  "12527": {
+    "form": "尾巴",
+    "transliteration": "wěi​ba",
+    "concept": "tail/appendage of an animal"
+  },
+  "12561": {
+    "form": "剑",
+    "concept": "sword/weapon",
+    "transliteration": "jiàn"
+  },
+  "12584": {
+    "form": "重",
+    "transliteration": "zhòng",
+    "concept": "heavy/having great weight"
+  },
+  "12596": {
+    "form": "肝脏",
+    "concept": "liver/organ of the body",
+    "transliteration": "gān​zàng"
+  },
+  "12601": {
+    "form": "远",
+    "concept": "far/remote in space",
+    "transliteration": "yuǎn"
+  },
+  "12608": {
+    "form": "近",
+    "transliteration": "jìn",
+    "concept": "near/physically close"
+  },
+  "12645": {
+    "form": "旧",
+    "concept": "old/of an object, concept, etc: having existed for a relatively long period of time",
+    "transliteration": "jiù"
+  },
+  "12646": {
+    "form": "老",
+    "transliteration": "lǎo",
+    "concept": "old/of a living being: having lived for relatively many years"
+  },
+  "12680": {
+    "form": "河",
+    "transliteration": "hé",
+    "concept": "river/large stream which drains a landmass"
+  },
+  "12683": {
+    "form": "生活",
+    "transliteration": "shēng​huó",
+    "concept": "live/be alive"
+  },
+  "12695": {
+    "form": "恐怖",
+    "transliteration": "kǒng​bù",
+    "concept": "fear/uncountable: emotion caused by actual or perceived danger or threat"
+  },
+  "12698": {
+    "form": "害怕",
+    "transliteration": "hài​pà",
+    "concept": "fear/feel fear about (something)"
+  },
+  "12704": {
+    "form": "呕吐",
+    "concept": "vomit/to regurgitate the contents of a stomach",
+    "transliteration": "ǒu​tù"
+  },
+  "12707": {
+    "form": "胃",
+    "transliteration": "wèi",
+    "concept": "stomach/digestive organ"
+  },
+  "12708": {
+    "form": "腹部",
+    "transliteration": "fù​bù",
+    "concept": "stomach/belly"
+  },
+  "12711": {
+    "form": "吸吮",
+    "transliteration": "xī​shǔn",
+    "concept": "suck/to use the mouth to pull in (liquid etc)"
+  },
+  "12738": {
+    "form": "推",
+    "transliteration": "tuī",
+    "concept": "push/transitive: apply a force to (an object) so that it moves away"
+  },
+  "12774": {
+    "form": "数",
+    "concept": "count/to enumerate or determine number",
+    "transliteration": "shù"
+  },
+  "12781": {
+    "form": "玩",
+    "transliteration": "wán",
+    "concept": "play/act in a manner such that one has fun"
+  },
+  "12804": {
+    "form": "灰",
+    "transliteration": "huī",
+    "concept": "dust/fine, dry particles"
+  },
+  "12809": {
+    "form": "沙",
+    "transliteration": "shā",
+    "concept": "sand/finely ground rock"
+  },
+  "12816": {
+    "form": "石",
+    "transliteration": "shí",
+    "concept": "stone/substance"
+  },
+  "12817": {
+    "form": "石头",
+    "concept": "stone/small piece of stone",
+    "transliteration": "shí​tou"
+  },
+  "12832": {
+    "form": "雾",
+    "concept": "fog/cloud that forms at a low altitude and obscures vision",
+    "transliteration": "wù"
+  },
+  "12845": {
+    "form": "烟",
+    "transliteration": "yān",
+    "concept": "smoke/visible particles and vapour given off by burning material"
+  },
+  "12859": {
+    "form": "火焰",
+    "transliteration": "huǒ​yàn",
+    "concept": "flame/visible part of fire"
+  },
+  "12869": {
+    "form": "灰",
+    "transliteration": "huī",
+    "concept": "ash/solid remains of a fire"
+  },
+  "12875": {
+    "form": "充满",
+    "concept": "full/containing the maximum possible amount",
+    "transliteration": "chōng​mǎn"
+  },
+  "12940": {
+    "form": "雪",
+    "transliteration": "xuě",
+    "concept": "snow/precipitation"
+  },
+  "12966": {
+    "form": "电梯",
+    "concept": "lift/mechanical device for vertically transporting goods or people",
+    "transliteration": "diàn​tī"
+  },
+  "12995": {
+    "form": "钥匙",
+    "concept": "key/device designed to open and close a lock",
+    "transliteration": "yào​shi"
+  },
+  "13022": {
+    "form": "田间",
+    "concept": "field/land area free of woodland, cities, and towns; open country",
+    "transliteration": "tián​jiān"
+  },
+  "13039": {
+    "form": "天国",
+    "concept": "heaven/paradise",
+    "transliteration": "tiān​guó"
+  },
+  "13046": {
+    "form": "王冠",
+    "transliteration": "wáng​guān",
+    "concept": "crown/royal headdress"
+  },
+  "13099": {
+    "form": "勇气",
+    "concept": "courage/quality of a confident character",
+    "transliteration": "yǒng​qì"
+  },
+  "13133": {
+    "form": "静脉",
+    "concept": "vein/blood vessel",
+    "transliteration": "jìng​mài"
+  },
+  "13157": {
+    "form": "皇帝",
+    "transliteration": "huáng​dì",
+    "concept": "emperor/ruler of an empire"
+  },
+  "13184": {
+    "form": "国家",
+    "concept": "state/any sovereign polity",
+    "transliteration": "guó​jiā"
+  },
+  "13235": {
+    "form": "人们",
+    "concept": "people/a body of human beings; a group of two or more persons",
+    "transliteration": "rén​men"
+  },
+  "13236": {
+    "form": "国民",
+    "concept": "people/a group of persons forming or belonging to a particular nation etc.",
+    "transliteration": "guó​mín"
+  },
+  "13247": {
+    "form": "选举",
+    "concept": "election/process of choosing a new leader or representatives",
+    "transliteration": "xuǎn​jǔ"
+  },
+  "13256": {
+    "form": "共产主义",
+    "concept": "communism/philosophy",
+    "transliteration": "gòng​chǎn​zhǔ​yì"
+  },
+  "13439": {
+    "form": "坚果",
+    "concept": "nut/hard-shelled fruit",
+    "transliteration": "jiān​guǒ"
+  },
+  "13516": {
+    "form": "小牛",
+    "transliteration": "xiǎo​niú",
+    "concept": "calf/young cow or bull"
+  },
+  "13628": {
+    "form": "露水",
+    "transliteration": "lù​shuǐ",
+    "concept": "dew/moisture in the air that settles on plants, etc"
+  },
+  "13644": {
+    "form": "锤子",
+    "concept": "hammer/tool",
+    "transliteration": "chuí​zi"
+  },
+  "13728": {
+    "form": "胡子",
+    "concept": "beard/facial hair",
+    "transliteration": "hú​zi"
+  },
+  "13783": {
+    "form": "家",
+    "transliteration": "jiā",
+    "concept": "home/house or structure in which someone lives"
+  },
+  "13845": {
+    "form": "化学",
+    "concept": "chemistry/branch of natural science",
+    "transliteration": "huà​xué"
+  },
+  "13980": {
+    "form": "价格",
+    "concept": "price/cost required to gain possession of something",
+    "transliteration": "jià​gé"
+  },
+  "14016": {
+    "form": "氢",
+    "concept": "hydrogen/id=Q556|chemical element",
+    "transliteration": "qīng"
+  },
+  "14026": {
+    "form": "温度计",
+    "concept": "thermometer/apparatus used to measure temperature",
+    "transliteration": "wēn​dù​jì"
+  },
+  "14157": {
+    "form": "贫穷",
+    "concept": "poor/with little or no possessions or money",
+    "transliteration": "pín​qióng"
+  },
+  "14255": {
+    "form": "地板",
+    "transliteration": "dì​bǎn",
+    "concept": "floor/bottom part of a room"
+  },
+  "14404": {
+    "form": "要",
+    "transliteration": "yào",
+    "concept": "want/desire"
+  },
+  "14427": {
+    "form": "沙发",
+    "concept": "sofa/upholstered seat",
+    "transliteration": "shā​fā"
+  },
+  "14428": {
+    "form": "犀牛",
+    "transliteration": "xī​niú",
+    "concept": "rhinoceros/herbivorous pachyderm with horn(s)"
+  },
+  "14448": {
+    "form": "咖啡",
+    "transliteration": "kā​fēi",
+    "concept": "coffee/beverage"
+  },
+  "14453": {
+    "form": "早饭",
+    "concept": "breakfast/first meal of the day",
+    "transliteration": "zǎo​fàn"
+  },
+  "14501": {
+    "form": "桃",
+    "transliteration": "táo",
+    "concept": "peach/fruit"
+  },
+  "14526": {
+    "form": "安静",
+    "concept": "quiet/with little sound",
+    "transliteration": "ān​jìng"
+  },
+  "14657": {
+    "form": "生物学",
+    "concept": "biology/study of living matter",
+    "transliteration": "shēng​wù​xué"
+  },
+  "14712": {
+    "form": "手帕",
+    "transliteration": "shǒu​pà",
+    "concept": "handkerchief/cloth for wiping the face, eyes, nose or hands"
+  },
+  "14717": {
+    "form": "梨",
+    "transliteration": "lí",
+    "concept": "pear/fruit"
+  },
+  "14725": {
+    "form": "高兴",
+    "concept": "happy/contented, joyous",
+    "transliteration": "gāo​xìng"
+  },
+  "14750": {
+    "form": "肾脏",
+    "concept": "kidney/an organ in the body",
+    "transliteration": "shèn​zàng"
+  },
+  "14808": {
+    "form": "信息",
+    "transliteration": "xìn​xī",
+    "concept": "information/communicable knowledge"
+  },
+  "14896": {
+    "form": "游戏",
+    "concept": "game/playful activity that may be unstructured, amusement, pastime",
+    "transliteration": "yóu​xì"
+  },
+  "14950": {
+    "form": "花园",
+    "concept": "garden/piece of land outside with flowers and plants",
+    "transliteration": "huā​yuán"
+  },
+  "15004": {
+    "form": "氮",
+    "transliteration": "dàn",
+    "concept": "nitrogen/id=Q627|chemical element"
+  },
+  "15006": {
+    "form": "氧",
+    "transliteration": "yǎng",
+    "concept": "oxygen/id=Q629|chemical element"
+  },
+  "15019": {
+    "form": "飞机",
+    "concept": "airplane/powered aircraft",
+    "transliteration": "fēi​jī"
+  },
+  "15020": {
+    "form": "纸",
+    "concept": "paper/sheet material",
+    "transliteration": "zhǐ"
+  },
+  "15067": {
+    "form": "帮",
+    "concept": "help/action given to provide assistance",
+    "transliteration": "bāng"
+  },
+  "15071": {
+    "form": "帮助",
+    "concept": "help/transitive: provide assistance to (someone or something)",
+    "transliteration": "bāng​zhù"
+  },
+  "15100": {
+    "form": "物理学",
+    "concept": "physics/branch of science",
+    "transliteration": "wù​lǐ​xué"
+  },
+  "15114": {
+    "form": "乳房",
+    "transliteration": "rǔ​fáng",
+    "concept": "breast/milk-producing organ"
+  },
+  "15126": {
+    "form": "窗户",
+    "concept": "window/opening for light and air",
+    "transliteration": "chuāng​hu"
+  },
+  "15137": {
+    "form": "子弹",
+    "concept": "bullet/projectile",
+    "transliteration": "zǐ​dàn"
+  },
+  "15155": {
+    "form": "记忆",
+    "concept": "memory/ability to recall",
+    "transliteration": "jì​yì"
+  },
+  "15250": {
+    "form": "大学",
+    "concept": "university/institution of higher education",
+    "transliteration": "Dà​xué"
+  },
+  "15254": {
+    "form": "蜘蛛",
+    "transliteration": "zhī​zhū",
+    "concept": "spider/arthropod"
+  },
+  "15513": {
+    "form": "叫",
+    "transliteration": "jiào",
+    "concept": "call/to request, summon, or beckon"
+  },
+  "15585": {
+    "form": "海",
+    "transliteration": "hǎi",
+    "concept": "sea/body of water"
+  },
+  "15595": {
+    "form": "请",
+    "concept": "please/interjection to make a polite request",
+    "transliteration": "qǐng"
+  },
+  "15817": {
+    "form": "天文学",
+    "concept": "astronomy/study of the physical universe beyond the Earth's atmosphere",
+    "transliteration": "tiān​wén​xué"
+  },
+  "15818": {
+    "form": "长颈鹿",
+    "concept": "giraffe/mammal",
+    "transliteration": "cháng​jǐng​lù"
+  },
+  "15878": {
+    "form": "宇宙",
+    "transliteration": "yǔ​zhòu",
+    "concept": "universe/id=Q1|the Universe"
+  },
+  "15893": {
+    "form": "舞蹈家",
+    "transliteration": "wǔ​dǎo​jiā",
+    "concept": "dancer/person who dances"
+  },
+  "16038": {
+    "form": "自行车",
+    "concept": "bicycle/vehicle",
+    "transliteration": "zì​xíng​chē"
+  },
+  "16056": {
+    "form": "摩托车",
+    "concept": "motorcycle/open-seated motor-powered vehicle with two wheels",
+    "transliteration": "mó​tuō​chē"
+  },
+  "16116": {
+    "form": "氦",
+    "transliteration": "hài",
+    "concept": "helium/id=Q560|chemical element"
+  },
+  "16117": {
+    "form": "奶",
+    "transliteration": "nǎi",
+    "concept": "milk/liquid"
+  },
+  "16143": {
+    "form": "羽毛",
+    "transliteration": "yǔ​máo",
+    "concept": "feather/branching, hair-like structure that grows on the bodies of birds"
+  },
+  "16163": {
+    "form": "碳",
+    "transliteration": "tàn",
+    "concept": "carbon/id=Q623|chemical element"
+  },
+  "16209": {
+    "form": "米",
+    "transliteration": "mǐ",
+    "concept": "metre/unit of length"
+  },
+  "16219": {
+    "form": "礼物",
+    "concept": "gift/something given to another voluntarily, without charge",
+    "transliteration": "lǐ​wù"
+  },
+  "16265": {
+    "form": "香烟",
+    "concept": "cigarette/cigarette",
+    "transliteration": "xiāng​yān"
+  },
+  "16268": {
+    "form": "原子",
+    "transliteration": "yuán​zǐ",
+    "concept": "atom/chemistry, physics: smallest possible amount of matter retaining its chemical properties"
+  },
+  "16450": {
+    "form": "从未",
+    "concept": "never/at no time",
+    "transliteration": "cóng​wèi"
+  },
+  "16463": {
+    "form": "公共汽车",
+    "concept": "bus/vehicle",
+    "transliteration": "gōng​gòng​qì​chē"
+  },
+  "16501": {
+    "form": "学校",
+    "concept": "school/an institution dedicated to teaching and learning",
+    "transliteration": "xué​xiào"
+  },
+  "16741": {
+    "form": "半",
+    "transliteration": "bàn",
+    "concept": "half/one of two equal parts into which anything may be divided"
+  },
+  "16787": {
+    "form": "蚤",
+    "transliteration": "zǎo",
+    "concept": "flea/parasitic insect"
+  },
+  "16799": {
+    "form": "井",
+    "transliteration": "jǐng",
+    "concept": "well/hole sunk into the ground"
+  },
+  "16811": {
+    "form": "虱子",
+    "concept": "louse/insect",
+    "transliteration": "shī​zi"
+  },
+  "16814": {
+    "form": "昆虫",
+    "concept": "insect/arthropod of class ''insecta''",
+    "transliteration": "kūn​chóng"
+  },
+  "16843": {
+    "form": "工具",
+    "transliteration": "gōng​jù",
+    "concept": "tool/mechanical device intended to make a task easier"
+  },
+  "16970": {
+    "form": "城市",
+    "transliteration": "chéng​shì",
+    "concept": "town/settlement"
+  },
+  "16971": {
+    "form": "商店",
+    "transliteration": "shāng​diàn",
+    "concept": "shop/establishment that sells goods"
+  },
+  "16988": {
+    "form": "姓",
+    "transliteration": "xìng",
+    "concept": "surname/name that indicates family"
+  },
+  "17031": {
+    "form": "保真度",
+    "transliteration": "bǎo​zhēn​dù",
+    "concept": "truth/state or quality of being true to someone or something"
+  },
+  "17115": {
+    "form": "汗",
+    "transliteration": "hàn",
+    "concept": "sweat/fluid that exits the body through pores"
+  },
+  "17117": {
+    "form": "流汗",
+    "transliteration": "liú​hàn",
+    "concept": "sweat/to emit sweat"
+  },
+  "17137": {
+    "form": "教育",
+    "transliteration": "jiào​yù",
+    "concept": "education/process or art of imparting knowledge, skill and judgment"
+  },
+  "17177": {
+    "form": "叉子",
+    "transliteration": "chā​zi",
+    "concept": "fork/eating utensil"
+  },
+  "17209": {
+    "form": "餐厅",
+    "concept": "restaurant/an eating establishment in which diners are served food at their tables",
+    "transliteration": "cān​tīng"
+  },
+  "17211": {
+    "form": "电视",
+    "concept": "television/medium",
+    "transliteration": "diàn​shì"
+  },
+  "17212": {
+    "form": "电视机",
+    "concept": "television/device for receiving television signals",
+    "transliteration": "diàn​shì​jī"
+  },
+  "17215": {
+    "form": "蒸汽",
+    "transliteration": "zhēng​qì",
+    "concept": "steam/water vapor"
+  },
+  "17290": {
+    "form": "谢谢",
+    "concept": "thanks/used to express appreciation or gratitude",
+    "transliteration": "xiè​xie"
+  },
+  "17387": {
+    "form": "问题",
+    "concept": "problem/difficulty",
+    "transliteration": "wèn​tí"
+  },
+  "17625": {
+    "form": "弓",
+    "transliteration": "gōng",
+    "concept": "bow/weapon used for shooting arrows"
+  },
+  "17638": {
+    "form": "箭",
+    "transliteration": "jiàn",
+    "concept": "arrow/projectile"
+  },
+  "17703": {
+    "form": "森林",
+    "transliteration": "sēn​lín",
+    "concept": "forest/dense collection of trees"
+  },
+  "17759": {
+    "form": "洗",
+    "transliteration": "xǐ",
+    "concept": "wash/to clean with water"
+  },
+  "17817": {
+    "form": "午饭",
+    "concept": "lunch/meal around midday",
+    "transliteration": "wǔ​fàn"
+  },
+  "17830": {
+    "form": "吻",
+    "transliteration": "wěn",
+    "concept": "kiss/to touch with the lips"
+  },
+  "17833": {
+    "form": "吻",
+    "transliteration": "wěn",
+    "concept": "kiss/touch with the lips"
+  },
+  "17930": {
+    "form": "肚脐",
+    "concept": "navel/remnant of umbilical cord",
+    "transliteration": "dù​qí"
+  },
+  "18009": {
+    "form": "船",
+    "transliteration": "chuán",
+    "concept": "ship/large water vessel"
+  },
+  "18064": {
+    "form": "生日",
+    "transliteration": "shēng​rì",
+    "concept": "birthday/anniversary"
+  },
+  "18094": {
+    "form": "针",
+    "concept": "needle/implement for sewing etc.",
+    "transliteration": "zhēn"
+  },
+  "18196": {
+    "form": "圣诞快乐",
+    "concept": "merry Christmas/good wishes at Christmas time",
+    "transliteration": "Shèng​dàn​kuài​lè"
+  },
+  "18244": {
+    "form": "腰带",
+    "concept": "belt/band worn around the waist",
+    "transliteration": "yāo​dài"
+  },
+  "18310": {
+    "form": "电影",
+    "concept": "movie/motion picture",
+    "transliteration": "diàn​yǐng"
+  },
+  "18340": {
+    "form": "扁桃",
+    "transliteration": "biǎn​táo",
+    "concept": "almond/nut"
+  },
+  "18356": {
+    "form": "长方形",
+    "concept": "rectangle/quadrilateral",
+    "transliteration": "cháng​fāng​xíng"
+  },
+  "18463": {
+    "form": "厰",
+    "concept": "factory/manufacturing place",
+    "transliteration": "chǎng"
+  },
+  "18485": {
+    "form": "汽油",
+    "transliteration": "qì​yóu",
+    "concept": "gasoline/motor fuel"
+  },
+  "18493": {
+    "form": "指甲",
+    "transliteration": "zhǐ​jia",
+    "concept": "nail/on fingers and toes"
+  },
+  "18494": {
+    "form": "钉子",
+    "concept": "nail/spike-shaped metal fastener used for joining wood or similar materials",
+    "transliteration": "dīng​zi"
+  },
+  "18674": {
+    "form": "帆",
+    "transliteration": "fān",
+    "concept": "sail/a piece of fabric attached to a boat"
+  },
+  "18733": {
+    "form": "奴隶",
+    "concept": "slave/person owned by another",
+    "transliteration": "nú​lì"
+  },
+  "18778": {
+    "form": "用户",
+    "concept": "user/person who uses a computer",
+    "transliteration": "yòng​hù"
+  },
+  "18803": {
+    "form": "秃头",
+    "concept": "bald/having no hair",
+    "transliteration": "tū​tóu"
+  },
+  "18934": {
+    "form": "洪水",
+    "transliteration": "hóng​shuǐ",
+    "concept": "flood/overflow of water"
+  },
+  "19024": {
+    "form": "皮肤",
+    "concept": "skin/outer protective of the body of a person or animal",
+    "transliteration": "pí​fū"
+  },
+  "19258": {
+    "form": "相信",
+    "transliteration": "xiāng​xìn",
+    "concept": "believe/to accept that someone is telling the truth (object: person)"
+  },
+  "19263": {
+    "form": "天堂",
+    "transliteration": "tiān​táng",
+    "concept": "paradise/heaven"
+  },
+  "19276": {
+    "form": "村",
+    "transliteration": "cūn",
+    "concept": "village/a rural habitation of size between a hamlet and a town"
+  },
+  "19308": {
+    "form": "浆果",
+    "concept": "berry/small fruit",
+    "transliteration": "jiāng​guǒ"
+  },
+  "19312": {
+    "form": "译者",
+    "concept": "translator/someone who translates",
+    "transliteration": "yì​zhě"
+  },
+  "19351": {
+    "form": "口译员",
+    "concept": "interpreter/one who interprets speech",
+    "transliteration": "kǒu​yì​yuán"
+  },
+  "19354": {
+    "form": "你好吗",
+    "concept": "how are you/greeting",
+    "transliteration": "nǐ​hǎo ma"
+  },
+  "19377": {
+    "form": "报纸",
+    "concept": "newspaper/publication",
+    "transliteration": "bào​zhǐ"
+  },
+  "19380": {
+    "form": "玻璃",
+    "transliteration": "bō​li",
+    "concept": "glass/substance"
+  },
+  "19381": {
+    "form": "杯子",
+    "transliteration": "bēi​zi",
+    "concept": "glass/drinking vessel"
+  },
+  "19387": {
+    "form": "强",
+    "concept": "strong/capable of producing great physical force",
+    "transliteration": "qiáng"
+  },
+  "19427": {
+    "form": "冰淇淋",
+    "transliteration": "bīng​qí​lín",
+    "concept": "ice cream/dessert"
+  },
+  "19479": {
+    "form": "海滩",
+    "concept": "beach/sandy shore",
+    "transliteration": "hǎi​tān"
+  },
+  "19819": {
+    "form": "长度",
+    "concept": "length/distance from end to end",
+    "transliteration": "cháng​dù"
+  },
+  "20065": {
+    "form": "你叫什么名字？",
+    "concept": "what is your name/what is your name?",
+    "transliteration": "nǐ jiào shén​me míng​zi?"
+  },
+  "20162": {
+    "form": "阴影",
+    "concept": "shadow/dark image projected onto a surface",
+    "transliteration": "yīn​yǐng"
+  },
+  "20203": {
+    "form": "工人",
+    "transliteration": "gōng​rén",
+    "concept": "worker/person who performs labor"
+  },
+  "20207": {
+    "form": "电",
+    "concept": "electricity/form of energy",
+    "transliteration": "diàn"
+  },
+  "20293": {
+    "form": "手表",
+    "concept": "watch/portable or wearable timepiece",
+    "transliteration": "shǒu​biǎo"
+  },
+  "20387": {
+    "form": "照片",
+    "transliteration": "zhào​piàn",
+    "concept": "photograph/picture"
+  },
+  "20404": {
+    "form": "大蒜",
+    "transliteration": "dà​suàn",
+    "concept": "garlic/plant"
+  },
+  "20517": {
+    "form": "考古学",
+    "concept": "archaeology/scientific study of past remains",
+    "transliteration": "kǎo​gǔ​xué"
+  },
+  "20559": {
+    "form": "蘑菇",
+    "transliteration": "mó​gu",
+    "concept": "mushroom/fruiting body of a fungus"
+  },
+  "20702": {
+    "form": "鼻孔",
+    "transliteration": "bí​kǒng",
+    "concept": "nostril/either of the two orifices located on the nose"
+  },
+  "20778": {
+    "form": "洋葱",
+    "concept": "onion/plant",
+    "transliteration": "yáng​cōng"
+  },
+  "20868": {
+    "form": "律师",
+    "concept": "lawyer/professional person authorized to practice law",
+    "transliteration": "lǜ​shī"
+  },
+  "20870": {
+    "form": "农夫",
+    "concept": "farmer/person who works the land and/or who keeps livestock",
+    "transliteration": "nóng​fū"
+  },
+  "20892": {
+    "form": "爬行类",
+    "concept": "reptile/a cold-blooded vertebrate",
+    "transliteration": "pá​xíng lèi"
+  },
+  "20925": {
+    "form": "轮子",
+    "concept": "wheel/a circular device facilitating movement or transportation",
+    "transliteration": "lún​zi"
+  },
+  "21029": {
+    "form": "土地",
+    "transliteration": "tǔ​dì",
+    "concept": "land/part of Earth that is not covered by oceans or other bodies of water"
+  },
+  "21049": {
+    "form": "嘴唇",
+    "transliteration": "zuǐ​chún",
+    "concept": "lip/fleshy protrusion framing the mouth"
+  },
+  "21080": {
+    "form": "角",
+    "transliteration": "jiǎo",
+    "concept": "horn/growth on the heads of certain animals"
+  },
+  "21104": {
+    "form": "弱",
+    "transliteration": "ruò",
+    "concept": "weak/lacking in force or ability"
+  },
+  "21133": {
+    "form": "狮子",
+    "concept": "lion/big cat ''Panthera leo''",
+    "transliteration": "Shī​zǐ"
+  },
+  "21139": {
+    "form": "河马",
+    "concept": "hippopotamus/large African mammal",
+    "transliteration": "hé​mǎ"
+  },
+  "21145": {
+    "form": "旗子",
+    "transliteration": "qí​zi",
+    "concept": "flag/piece of cloth or often its representation"
+  },
+  "21181": {
+    "form": "蝎子",
+    "concept": "scorpion/any of various arachnids of the order Scorpiones",
+    "transliteration": "xiē​zi"
+  },
+  "21185": {
+    "form": "猴子",
+    "transliteration": "hóu​zi",
+    "concept": "monkey/primate"
+  },
+  "21188": {
+    "form": "鳄鱼",
+    "concept": "crocodile/reptile",
+    "transliteration": "è​yú"
+  },
+  "21255": {
+    "form": "山谷",
+    "transliteration": "shān​gǔ",
+    "concept": "valley/elongated depression between hills or mountains"
+  },
+  "21263": {
+    "form": "麦",
+    "concept": "wheat/grain",
+    "transliteration": "mài"
+  },
+  "21266": {
+    "form": "巫婆",
+    "transliteration": "wū​pó",
+    "concept": "witch/person who uses magic"
+  },
+  "21288": {
+    "form": "蜥蜴",
+    "transliteration": "xī​yì",
+    "concept": "lizard/reptile"
+  },
+  "21312": {
+    "form": "钢",
+    "transliteration": "gāng",
+    "concept": "steel/metal produced from iron"
+  },
+  "21333": {
+    "form": "茶叶",
+    "concept": "tea/dried leaves of tea plant",
+    "transliteration": "chá​yè"
+  },
+  "21334": {
+    "form": "茶",
+    "transliteration": "chá",
+    "concept": "tea/drink made from leaves of tea plant"
+  },
+  "21404": {
+    "form": "鹦鹉",
+    "concept": "parrot/kind of bird",
+    "transliteration": "yīng​wǔ"
+  },
+  "21451": {
+    "form": "架子",
+    "transliteration": "jià​zi",
+    "concept": "shelf/structure"
+  },
+  "21525": {
+    "form": "农场",
+    "concept": "farm/a place where agricultural activities take place",
+    "transliteration": "nóng​chǎng"
+  },
+  "21594": {
+    "form": "土豆",
+    "transliteration": "tǔ​dòu",
+    "concept": "potato/plant tuber eaten as starchy vegetable"
+  },
+  "21596": {
+    "form": "历史",
+    "concept": "history/aggregate of past events",
+    "transliteration": "lì​shǐ"
+  },
+  "21654": {
+    "form": "花生",
+    "transliteration": "huā​shēng",
+    "concept": "peanut/a legume resembling a nut"
+  },
+  "21703": {
+    "form": "客人",
+    "transliteration": "kè​rén",
+    "concept": "guest/recipient of hospitality"
+  },
+  "21769": {
+    "form": "打哈欠",
+    "transliteration": "dǎ hā​qian",
+    "concept": "yawn/open the mouth and take a deep breath"
+  },
+  "21907": {
+    "form": "菠萝",
+    "concept": "pineapple/fruit",
+    "transliteration": "bō​luó"
+  },
+  "21912": {
+    "form": "玉米",
+    "transliteration": "yù​mǐ",
+    "concept": "maize/corn; a type of grain of the species ''Zea mays''"
+  },
+  "21914": {
+    "form": "烟草",
+    "concept": "tobacco/leaves of certain varieties of tobacco plant",
+    "transliteration": "yān​cǎo"
+  },
+  "22018": {
+    "form": "杏",
+    "transliteration": "xìng",
+    "concept": "apricot/fruit"
+  },
+  "22023": {
+    "form": "杂志",
+    "concept": "magazine/periodical",
+    "transliteration": "zá​zhì"
+  },
+  "22112": {
+    "form": "墨水",
+    "transliteration": "mò​shuǐ",
+    "concept": "ink/coloured fluid used for writing"
+  },
+  "22155": {
+    "form": "鬼",
+    "transliteration": "guǐ",
+    "concept": "ghost/spirit appearing after death"
+  },
+  "22440": {
+    "form": "小",
+    "transliteration": "xiǎo",
+    "concept": "little/small in size"
+  },
+  "22457": {
+    "form": "叶",
+    "concept": "leaf/part of a plant",
+    "transliteration": "yè"
+  },
+  "22486": {
+    "form": "贼",
+    "concept": "thief/one who carries out theft",
+    "transliteration": "zéi"
+  },
+  "22622": {
+    "form": "面粉",
+    "concept": "flour/ground cereal grains",
+    "transliteration": "miàn​fěn"
+  },
+  "22626": {
+    "form": "芒果",
+    "transliteration": "máng​guǒ",
+    "concept": "mango/fruit"
+  },
+  "22657": {
+    "form": "绳子",
+    "concept": "rope/thick, strong string",
+    "transliteration": "shéng​zi"
+  },
+  "22678": {
+    "form": "飓风",
+    "concept": "hurricane/weather phenomenon",
+    "transliteration": "jù​fēng"
+  },
+  "22846": {
+    "form": "桌子",
+    "transliteration": "zhuō​zi",
+    "concept": "table/item of furniture"
+  },
+  "22878": {
+    "form": "幸福",
+    "transliteration": "xìng​fú",
+    "concept": "happiness/id=Q8|emotion of being happy"
+  },
+  "22902": {
+    "form": "金刚石",
+    "concept": "diamond/uncountable: mineral",
+    "transliteration": "jīn​gāng​shí"
+  },
+  "22960": {
+    "form": "连衣裙",
+    "concept": "dress/garment",
+    "transliteration": "lián​yī​qún"
+  },
+  "23031": {
+    "form": "衣服",
+    "transliteration": "yī​fu",
+    "concept": "clothes/apparel"
+  },
+  "23041": {
+    "form": "赤裸",
+    "transliteration": "chì​luǒ",
+    "concept": "naked/not wearing any clothes"
+  },
+  "23126": {
+    "form": "婚姻",
+    "transliteration": "hūn​yīn",
+    "concept": "marriage/state of being married"
+  },
+  "23216": {
+    "form": "沙漠",
+    "transliteration": "shā​mò",
+    "concept": "desert/barren area"
+  },
+  "23254": {
+    "form": "空",
+    "transliteration": "kōng",
+    "concept": "empty/devoid of content"
+  },
+  "23313": {
+    "form": "同一",
+    "transliteration": "tóng​yī",
+    "concept": "same/not different as regards self; identical"
+  },
+  "23422": {
+    "form": "汽车",
+    "concept": "automobile/passenger vehicle",
+    "transliteration": "qì​chē"
+  },
+  "23428": {
+    "form": "龙",
+    "concept": "dragon/mythical creature",
+    "transliteration": "lóng"
+  },
+  "23449": {
+    "form": "炮",
+    "transliteration": "pào",
+    "concept": "cannon/artillery piece"
+  },
+  "23489": {
+    "form": "文化",
+    "transliteration": "wén​huà",
+    "concept": "culture/arts, customs and habits"
+  },
+  "23497": {
+    "form": "黄蜂",
+    "concept": "wasp/insect",
+    "transliteration": "huáng​fēng"
+  },
+  "23499": {
+    "form": "青蛙",
+    "transliteration": "qīng​wā",
+    "concept": "frog/amphibian"
+  },
+  "23508": {
+    "form": "小狗",
+    "transliteration": "xiǎo​gǒu",
+    "concept": "puppy/young dog"
+  },
+  "23524": {
+    "form": "蚱蜢",
+    "transliteration": "zhà​měng",
+    "concept": "grasshopper/an insect of the order Orthoptera"
+  },
+  "23589": {
+    "form": "电话",
+    "concept": "telephone/a device used for two-way talking with other people",
+    "transliteration": "diàn​huà"
+  },
+  "23630": {
+    "form": "篮球",
+    "concept": "basketball/the sport",
+    "transliteration": "lán​qiú"
+  },
+  "23657": {
+    "form": "母鸡",
+    "concept": "hen/female chicken",
+    "transliteration": "mǔ​jī"
+  },
+  "23716": {
+    "form": "线",
+    "concept": "thread/long, thin and flexible form of material",
+    "transliteration": "xiàn"
+  },
+  "23753": {
+    "form": "蠕虫",
+    "concept": "worm/animal",
+    "transliteration": "rú​chóng"
+  },
+  "23774": {
+    "form": "种子",
+    "concept": "seed/fertilized grain",
+    "transliteration": "zhǒng​zi"
+  },
+  "23785": {
+    "form": "根",
+    "transliteration": "gēn",
+    "concept": "root/part of a plant"
+  },
+  "23809": {
+    "form": "癌症",
+    "transliteration": "ái​zhèng",
+    "concept": "cancer/disease of uncontrolled cellular proliferation"
+  },
+  "23811": {
+    "form": "蟾蜍",
+    "transliteration": "chán​chú",
+    "concept": "toad/amphibian similar to a frog"
+  },
+  "23822": {
+    "form": "汪汪叫",
+    "transliteration": "wāng​wāng jiào",
+    "concept": "bark/to make a loud noise (dogs)"
+  },
+  "23828": {
+    "form": "树皮",
+    "concept": "bark/exterior covering of a tree",
+    "transliteration": "shù​pí"
+  },
+  "23835": {
+    "form": "指甲",
+    "transliteration": "zhǐ​jia",
+    "concept": "fingernail/covering near the tip of finger"
+  },
+  "23857": {
+    "form": "走",
+    "transliteration": "zǒu",
+    "concept": "walk/to move on the feet"
+  },
+  "23944": {
+    "form": "胸",
+    "transliteration": "xiōng",
+    "concept": "chest/thorax"
+  },
+  "24016": {
+    "form": "邻居",
+    "concept": "neighbour/a person living on adjacent or nearby land",
+    "transliteration": "lín​jū"
+  },
+  "24103": {
+    "form": "杯子",
+    "transliteration": "bēi​zi",
+    "concept": "cup/drinking vessel"
+  },
+  "24145": {
+    "form": "羊羔",
+    "transliteration": "yáng​gāo",
+    "concept": "lamb/young sheep"
+  },
+  "24187": {
+    "form": "打喷嚏",
+    "concept": "sneeze/expel air as a reflex",
+    "transliteration": "dǎ​pēn​tì"
+  },
+  "24213": {
+    "form": "地址",
+    "transliteration": "dì​zhǐ",
+    "concept": "address/direction for letters"
+  },
+  "24285": {
+    "form": "图书馆",
+    "concept": "library/institution which holds books etc.",
+    "transliteration": "tú​shū​guǎn"
+  },
+  "24402": {
+    "form": "酱",
+    "concept": "sauce/liquid condiment",
+    "transliteration": "jiàng"
+  },
+  "24423": {
+    "form": "肠管",
+    "concept": "intestine/alimentary canal",
+    "transliteration": "cháng​guǎn"
+  },
+  "24425": {
+    "form": "地理学",
+    "concept": "geography/study of physical structure and inhabitants of the Earth",
+    "transliteration": "dì​lǐ​xué"
+  },
+  "24521": {
+    "form": "袖子",
+    "transliteration": "xiù​zi",
+    "concept": "sleeve/part of a garment that covers the arm"
+  },
+  "24638": {
+    "form": "大洋",
+    "transliteration": "dà​yáng",
+    "concept": "ocean/one of the large bodies of water"
+  },
+  "24641": {
+    "form": "护照",
+    "concept": "passport/official document",
+    "transliteration": "hù​zhào"
+  },
+  "24685": {
+    "form": "肺脏",
+    "concept": "lung/organ that extracts oxygen from the air",
+    "transliteration": "fèi zàng"
+  },
+  "24772": {
+    "form": "毛毛虫",
+    "concept": "caterpillar/larva of a butterfly",
+    "transliteration": "máo​mao​chóng"
+  },
+  "24841": {
+    "form": "灵魂",
+    "concept": "soul/the spirit or essence of a person that is believed to live on after the person’s death",
+    "transliteration": "líng​hún"
+  },
+  "25228": {
+    "form": "胡子",
+    "concept": "moustache/hair on upper lip",
+    "transliteration": "hú​zi"
+  },
+  "25320": {
+    "form": "新娘",
+    "transliteration": "xīn​niáng",
+    "concept": "bride/woman in the context of her own wedding"
+  },
+  "25332": {
+    "form": "矛",
+    "transliteration": "máo",
+    "concept": "spear/long stick with a sharp tip"
+  },
+  "25336": {
+    "form": "胡椒",
+    "transliteration": "hú​jiāo",
+    "concept": "pepper/spice"
+  },
+  "25447": {
+    "form": "下午",
+    "transliteration": "xià​wǔ",
+    "concept": "afternoon/part of the day between noon and evening"
+  },
+  "25808": {
+    "form": "鲨鱼",
+    "concept": "shark/fish",
+    "transliteration": "shā​yú"
+  },
+  "25813": {
+    "form": "鲸鱼",
+    "concept": "whale/large sea mammal",
+    "transliteration": "jīng​yú"
+  },
+  "25862": {
+    "form": "结",
+    "concept": "knot/looping",
+    "transliteration": "jié"
+  },
+  "26042": {
+    "form": "奇迹",
+    "concept": "miracle/wonderful event attributed to supernatural powers",
+    "transliteration": "qí​jì"
+  },
+  "26045": {
+    "form": "尸体",
+    "concept": "corpse/dead body",
+    "transliteration": "shī​tǐ"
+  },
+  "26178": {
+    "form": "蜡烛",
+    "concept": "candle/a light source",
+    "transliteration": "là​zhú"
+  },
+  "26184": {
+    "form": "邪魔",
+    "transliteration": "xié​mó",
+    "concept": "demon/evil spirit"
+  },
+  "26301": {
+    "form": "难看",
+    "concept": "ugly/displeasing to the eye; not aesthetically pleasing",
+    "transliteration": "nán​kàn"
+  },
+  "26314": {
+    "form": "脚腕子",
+    "transliteration": "jiǎo​wàn​zi",
+    "concept": "ankle/joint between foot and leg"
+  },
+  "26357": {
+    "form": "敌人",
+    "concept": "enemy/someone who is hostile to, feels hatred towards, opposes the interests of, or intends injury to someone else",
+    "transliteration": "dí​rén"
+  },
+  "26474": {
+    "form": "公寓",
+    "transliteration": "gōng​yù",
+    "concept": "apartment/domicile occupying part of a building"
+  },
+  "26569": {
+    "form": "肌肉",
+    "transliteration": "jī​ròu",
+    "concept": "muscle/contractile tissue"
+  },
+  "26635": {
+    "form": "红萝卜",
+    "concept": "carrot/''Daucus carota ssp. sativus''",
+    "transliteration": "hóng​luó​bo"
+  },
+  "26680": {
+    "form": "屋顶",
+    "concept": "roof/the cover at the top of a building",
+    "transliteration": "wū​dǐng"
+  },
+  "26683": {
+    "form": "天花板",
+    "transliteration": "tiān​huā​bǎn",
+    "concept": "ceiling/upper limit of room"
+  },
+  "26700": {
+    "form": "烤炉",
+    "concept": "oven/chamber used for baking or heating",
+    "transliteration": "kǎo​lú"
+  },
+  "26808": {
+    "form": "滴",
+    "transliteration": "dī",
+    "concept": "drop/small mass of liquid"
+  },
+  "26847": {
+    "form": "卷心菜",
+    "concept": "cabbage/plant",
+    "transliteration": "juǎn​xīn​cài"
+  },
+  "26852": {
+    "form": "黄瓜",
+    "concept": "cucumber/edible fruit",
+    "transliteration": "huáng​guā"
+  },
+  "26955": {
+    "form": "尿",
+    "transliteration": "niào",
+    "concept": "urine/liquid excrement"
+  },
+  "27040": {
+    "form": "旅馆",
+    "concept": "hotel/establishment providing accommodation",
+    "transliteration": "lǚ​guǎn"
+  },
+  "27061": {
+    "form": "同性恋",
+    "concept": "homosexuality/sexual orientation",
+    "transliteration": "tóng​xìng​liàn"
+  },
+  "27150": {
+    "form": "贵",
+    "concept": "expensive/having a high price or cost",
+    "transliteration": "guì"
+  },
+  "27156": {
+    "form": "齿龈",
+    "concept": "gum/flesh around teeth",
+    "transliteration": "chǐ​yín"
+  },
+  "27402": {
+    "form": "峭壁",
+    "transliteration": "qiào​bì",
+    "concept": "cliff/a (near) vertical rock face"
+  },
+  "27474": {
+    "form": "帽子",
+    "transliteration": "mào​zi",
+    "concept": "hat/a head covering"
+  },
+  "27486": {
+    "form": "危险",
+    "concept": "dangerous/full of danger",
+    "transliteration": "wēi​xiǎn"
+  },
+  "27535": {
+    "form": "汤",
+    "concept": "soup/dish",
+    "transliteration": "tāng"
+  },
+  "27583": {
+    "form": "潜水艇",
+    "concept": "submarine/undersea boat",
+    "transliteration": "qián​shuǐ​tǐng"
+  },
+  "27738": {
+    "form": "前额",
+    "concept": "forehead/part of face above eyebrows",
+    "transliteration": "qián​'é"
+  },
+  "27749": {
+    "form": "雹",
+    "transliteration": "báo",
+    "concept": "hail/balls of ice"
+  },
+  "27772": {
+    "form": "牧羊人",
+    "transliteration": "mù​yáng​rén",
+    "concept": "shepherd/a person who tends sheep"
+  },
+  "27911": {
+    "form": "健康",
+    "transliteration": "jiàn​kāng",
+    "concept": "health/state of being free of physical or psychological disease, illness, or malfunction"
+  },
+  "28105": {
+    "form": "袜子",
+    "concept": "sock/covering for the foot",
+    "transliteration": "wà​zi"
+  },
+  "28113": {
+    "form": "匙子",
+    "transliteration": "chí zi",
+    "concept": "spoon/scooped utensil for eating (or serving)"
+  },
+  "28242": {
+    "form": "中央",
+    "transliteration": "zhōng​yāng",
+    "concept": "middle/centre, midpoint"
+  },
+  "28274": {
+    "form": "地毯",
+    "transliteration": "dì​tǎn",
+    "concept": "carpet/a fabric used as a floor covering"
+  },
+  "28310": {
+    "form": "新年快乐",
+    "concept": "happy New Year/Happy New Year",
+    "transliteration": "xīn​nián​kuài​lè"
+  },
+  "28383": {
+    "form": "战役",
+    "concept": "battle/general action, fight, or encounter; a combat",
+    "transliteration": "zhàn​yì"
+  },
+  "28400": {
+    "form": "火柴",
+    "transliteration": "huǒ​chái",
+    "concept": "match/device to make fire"
+  },
+  "28607": {
+    "form": "橡树",
+    "concept": "oak/tree or shrub of the genus ''Quercus''",
+    "transliteration": "xiàng​shù"
+  },
+  "28661": {
+    "form": "英雄",
+    "transliteration": "yīng​xióng",
+    "concept": "hero/person of great bravery"
+  },
+  "28694": {
+    "form": "扫帚",
+    "concept": "broom/domestic utensil",
+    "transliteration": "sào​zhou"
+  },
+  "28938": {
+    "form": "人类",
+    "concept": "human being/person",
+    "transliteration": "rén​lèi"
+  },
+  "29107": {
+    "form": "味道",
+    "transliteration": "wèi​dao",
+    "concept": "taste/one of the sensations produced by the tongue"
+  },
+  "29226": {
+    "form": "恶魔",
+    "concept": "devil/a creature of hell",
+    "transliteration": "è​mó"
+  },
+  "29254": {
+    "form": "波浪",
+    "transliteration": "bō​làng",
+    "concept": "wave/moving disturbance, undulation"
+  },
+  "29369": {
+    "form": "好吃",
+    "transliteration": "hǎo​chī",
+    "concept": "delicious/pleasing to taste"
+  },
+  "29449": {
+    "form": "勇敢",
+    "transliteration": "yǒng​gǎn",
+    "concept": "brave/strong in the face of fear"
+  },
+  "29482": {
+    "form": "等",
+    "transliteration": "děng",
+    "concept": "wait/delay until some event"
+  },
+  "29572": {
+    "form": "喜欢",
+    "concept": "like/enjoy",
+    "transliteration": "xǐ​huan"
+  },
+  "29637": {
+    "form": "亲戚",
+    "concept": "relative/someone in the same family; someone connected by blood, marriage, or adoption",
+    "transliteration": "qīn​qi"
+  },
+  "29729": {
+    "form": "衣服",
+    "transliteration": "yī​fu",
+    "concept": "clothing/clothes"
+  },
+  "29814": {
+    "form": "士兵",
+    "transliteration": "shì​bīng",
+    "concept": "soldier/member of an army"
+  },
+  "29836": {
+    "form": "婚礼",
+    "concept": "wedding/marriage ceremony",
+    "transliteration": "hūn​lǐ"
+  },
+  "29979": {
+    "form": "头骨",
+    "concept": "skull/cranium",
+    "transliteration": "tóu​gǔ"
+  },
+  "29991": {
+    "form": "歌手",
+    "transliteration": "gē​shǒu",
+    "concept": "singer/person who sings"
+  },
+  "29995": {
+    "form": "学生",
+    "concept": "student/person who studies an academic subject",
+    "transliteration": "xué​sheng"
+  },
+  "30033": {
+    "form": "进入",
+    "concept": "enter/to go into (a room, etc.)",
+    "transliteration": "jìn​rù"
+  },
+  "30059": {
+    "form": "自由",
+    "transliteration": "zì​yóu",
+    "concept": "freedom/not being imprisoned or enslaved"
+  },
+  "30144": {
+    "form": "碗",
+    "transliteration": "wǎn",
+    "concept": "bowl/container"
+  },
+  "30152": {
+    "form": "教师",
+    "concept": "teacher/person who teaches",
+    "transliteration": "jiào​shī"
+  },
+  "30160": {
+    "form": "不久",
+    "transliteration": "bù​jiǔ",
+    "concept": "soon/within a short time"
+  },
+  "30194": {
+    "form": "木乃伊",
+    "transliteration": "mù​nǎi​yī",
+    "concept": "mummy/embalmed corpse"
+  },
+  "30407": {
+    "form": "规则",
+    "concept": "rule/regulation",
+    "transliteration": "guī​zé"
+  },
+  "30559": {
+    "form": "病毒",
+    "transliteration": "bìng​dú",
+    "concept": "virus/infectious organism"
+  },
+  "30743": {
+    "form": "门口",
+    "concept": "gate/door-like structure outside",
+    "transliteration": "mén​kǒu"
+  },
+  "30815": {
+    "form": "恨",
+    "transliteration": "hèn",
+    "concept": "hate/to dislike intensely"
+  },
+  "31066": {
+    "form": "问题",
+    "concept": "question/sentence, phrase or word",
+    "transliteration": "wèn​tí"
+  },
+  "31085": {
+    "form": "眼镜",
+    "concept": "spectacles/a pair of lenses set in a frame",
+    "transliteration": "yǎn​jìng"
+  },
+  "31216": {
+    "form": "面团",
+    "concept": "dough/mix of flour and other ingredients",
+    "transliteration": "miàn​tuán"
+  },
+  "31305": {
+    "form": "地方",
+    "transliteration": "dì​fāng",
+    "concept": "place/location, position"
+  },
+  "31338": {
+    "form": "故事",
+    "transliteration": "gù​shì",
+    "concept": "story/account of events"
+  },
+  "31655": {
+    "form": "页",
+    "concept": "page/one side of a leaf of a book",
+    "transliteration": "yè"
+  },
+  "31697": {
+    "form": "公园",
+    "concept": "park/ground for recreation",
+    "transliteration": "gōng​yuán"
+  },
+  "31824": {
+    "form": "出租汽车",
+    "concept": "taxi/vehicle",
+    "transliteration": "chū​zū​qì​chē"
+  },
+  "31862": {
+    "form": "厨房",
+    "transliteration": "chú​fáng",
+    "concept": "kitchen/room"
+  },
+  "32424": {
+    "form": "数学",
+    "concept": "mathematics/field of study",
+    "transliteration": "shù​xué"
+  },
+  "32431": {
+    "form": "镜子",
+    "concept": "mirror/smooth reflecting surface",
+    "transliteration": "jìng​zi"
+  },
+  "32443": {
+    "form": "蹄",
+    "transliteration": "tí",
+    "concept": "hoof/tip of a toe of ungulates"
+  },
+  "32445": {
+    "form": "小山",
+    "transliteration": "xiǎo shān",
+    "concept": "hill/elevated location"
+  },
+  "32450": {
+    "form": "骨骼",
+    "transliteration": "gǔ​gé",
+    "concept": "skeleton/system that provides support to an organism"
+  },
+  "32478": {
+    "form": "冰箱",
+    "transliteration": "bīng​xiāng",
+    "concept": "refrigerator/appliance that refrigerates food"
+  },
+  "32583": {
+    "form": "夹肢窝",
+    "concept": "armpit/cavity beneath the junction of the arm and shoulder",
+    "transliteration": "gā​zhi​wō"
+  },
+  "32585": {
+    "form": "洞穴",
+    "transliteration": "dòng​xué",
+    "concept": "cave/large, naturally occurring cavity formed underground"
+  },
+  "32599": {
+    "form": "鸟巢",
+    "concept": "nest/bird-built structure",
+    "transliteration": "niǎo​cháo"
+  },
+  "32680": {
+    "form": "豆",
+    "transliteration": "dòu",
+    "concept": "bean/seed"
+  },
+  "32687": {
+    "form": "鸟嘴",
+    "concept": "beak/structure projecting from a bird's face",
+    "transliteration": "niǎo​zuǐ"
+  },
+  "32844": {
+    "form": "龙虾",
+    "concept": "lobster/crustacean",
+    "transliteration": "lóng​xiā"
+  },
+  "32853": {
+    "form": "螃蟹",
+    "transliteration": "páng​xiè",
+    "concept": "crab/crustacean"
+  },
+  "32892": {
+    "form": "聋",
+    "concept": "deaf/unable to hear",
+    "transliteration": "lóng"
+  },
+  "33079": {
+    "form": "农业",
+    "concept": "agriculture/the art or science of cultivating the ground",
+    "transliteration": "nóng​yè"
+  },
+  "33132": {
+    "form": "坟墓",
+    "concept": "grave/excavation for burial",
+    "transliteration": "fén​mù"
+  },
+  "33428": {
+    "form": "手套",
+    "transliteration": "shǒu​tào",
+    "concept": "glove/item of clothing"
+  },
+  "33508": {
+    "form": "希望",
+    "transliteration": "xī​wàng",
+    "concept": "hope/belief that something wished for can happen"
+  },
+  "33510": {
+    "form": "希望",
+    "transliteration": "xī​wàng",
+    "concept": "hope/to want something to happen, with expectation that it might"
+  },
+  "33624": {
+    "form": "松",
+    "transliteration": "sōng",
+    "concept": "pine/tree of the genus ''Pinus''"
+  },
+  "33660": {
+    "form": "玩偶",
+    "transliteration": "wán​'ǒu",
+    "concept": "doll/a toy in the form of a human"
+  },
+  "33670": {
+    "form": "海豚",
+    "transliteration": "hǎi​tún",
+    "concept": "dolphin/aquatic mammal"
+  },
+  "33796": {
+    "form": "口袋",
+    "transliteration": "kǒu​dài",
+    "concept": "pocket/bag stitched to an item of clothing"
+  },
+  "33839": {
+    "form": "发热",
+    "concept": "fever/higher than normal body temperature",
+    "transliteration": "fā​rè"
+  },
+  "33979": {
+    "form": "笨",
+    "transliteration": "bèn",
+    "concept": "stupid/lacking in intelligence"
+  },
+  "33984": {
+    "form": "病",
+    "transliteration": "bìng",
+    "concept": "ill/in poor health, suffering from a disease"
+  },
+  "34064": {
+    "form": "丝",
+    "concept": "silk/fiber",
+    "transliteration": "sī"
+  },
+  "34193": {
+    "form": "大腿",
+    "transliteration": "dà​tuǐ",
+    "concept": "thigh/upper leg"
+  },
+  "34409": {
+    "form": "恨",
+    "transliteration": "hèn",
+    "concept": "hatred/strong aversion"
+  },
+  "34416": {
+    "form": "领巾",
+    "concept": "scarf/long garment worn around the neck",
+    "transliteration": "lǐng​jīn"
+  },
+  "34440": {
+    "form": "肥皂",
+    "transliteration": "féi​zào",
+    "concept": "soap/substance"
+  },
+  "34488": {
+    "form": "社会",
+    "concept": "society/group of people sharing culture",
+    "transliteration": "shè​huì"
+  },
+  "34506": {
+    "form": "西瓜",
+    "transliteration": "xī​guā",
+    "concept": "watermelon/fruit"
+  },
+  "34518": {
+    "form": "软",
+    "concept": "soft/giving way under pressure",
+    "transliteration": "ruǎn"
+  },
+  "34585": {
+    "form": "眼眉",
+    "transliteration": "yǎn méi",
+    "concept": "eyebrow/hair that grows over the bone ridge above the eye socket"
+  },
+  "35015": {
+    "form": "烟囱",
+    "concept": "chimney/vertical tube or hollow column; a flue",
+    "transliteration": "yān​cōng"
+  },
+  "35041": {
+    "form": "监狱",
+    "concept": "prison/place of long-term confinement for those convicted of serious crimes",
+    "transliteration": "jiān​yù"
+  },
+  "35109": {
+    "form": "气候",
+    "concept": "climate/long-term atmospheric conditions",
+    "transliteration": "qì​hòu"
+  },
+  "35169": {
+    "form": "瀑布",
+    "transliteration": "pù​bù",
+    "concept": "waterfall/flow of water over the edge of a cliff"
+  },
+  "35282": {
+    "form": "嗓子",
+    "transliteration": "sǎng​zi",
+    "concept": "throat/front part of the neck"
+  },
+  "35361": {
+    "form": "人民",
+    "transliteration": "rén​mín",
+    "concept": "nation/community of people"
+  },
+  "35413": {
+    "form": "盾",
+    "transliteration": "dùn",
+    "concept": "shield/armor"
+  },
+  "35446": {
+    "form": "孤儿",
+    "concept": "orphan/person whose (parent or) parents have died",
+    "transliteration": "gū​'ér"
+  },
+  "35586": {
+    "form": "富有",
+    "transliteration": "fù​yǒu",
+    "concept": "rich/having wealth"
+  },
+  "35688": {
+    "form": "消息",
+    "transliteration": "xiāo​xi",
+    "concept": "news/new information of interest"
+  },
+  "35880": {
+    "form": "雕像",
+    "transliteration": "diāo​xiàng",
+    "concept": "statue/three-dimensional work of art"
+  },
+  "36003": {
+    "form": "层",
+    "concept": "storey/floor, level",
+    "transliteration": "céng"
+  },
+  "36190": {
+    "form": "黏土",
+    "transliteration": "nián​tǔ",
+    "concept": "clay/mineral substance"
+  },
+  "36375": {
+    "form": "机场",
+    "concept": "airport/place designated for airplanes",
+    "transliteration": "jī​chǎng"
+  },
+  "36704": {
+    "form": "舞蹈",
+    "transliteration": "wǔ​dǎo",
+    "concept": "dance/movements to music"
+  },
+  "36705": {
+    "form": "跳舞",
+    "transliteration": "tiào​wǔ",
+    "concept": "dance/move rhythmically to music"
+  },
+  "36793": {
+    "form": "难",
+    "concept": "difficult/hard, not easy",
+    "transliteration": "nán"
+  },
+  "36842": {
+    "form": "容易",
+    "transliteration": "róng​yì",
+    "concept": "easy/requiring little skill or effort"
+  },
+  "36918": {
+    "form": "建筑学",
+    "concept": "architecture/art and science of designing buildings and other structures",
+    "transliteration": "jiàn​zhù​xué"
+  },
+  "36935": {
+    "form": "酸奶",
+    "transliteration": "suān​nǎi",
+    "concept": "yogurt/a milk-based product thickened by a bacterium-aided curdling process"
+  },
+  "36960": {
+    "form": "运动",
+    "concept": "sport/any athletic activity that uses physical skills",
+    "transliteration": "yùn​dòng"
+  },
+  "37372": {
+    "form": "盲",
+    "transliteration": "máng",
+    "concept": "blind/unable to see"
+  },
+  "37389": {
+    "form": "懒惰",
+    "concept": "lazy/unwilling to work",
+    "transliteration": "lǎn​duò"
+  },
+  "37459": {
+    "form": "脸颊",
+    "concept": "cheek/part of face",
+    "transliteration": "liǎn​jiá"
+  },
+  "37671": {
+    "form": "黑暗",
+    "transliteration": "hēi​'àn",
+    "concept": "darkness/state of being dark"
+  },
+  "37836": {
+    "form": "友谊",
+    "concept": "friendship/(''uncountable'') condition of being friends",
+    "transliteration": "yǒu​yì"
+  },
+  "39325": {
+    "form": "胜利",
+    "concept": "victory/an instance of having won a competition or battle",
+    "transliteration": "shèng​lì"
+  },
+  "39334": {
+    "form": "力气",
+    "concept": "strength/quality of being strong",
+    "transliteration": "lì​qi"
+  },
+  "41443": {
+    "form": "独立",
+    "concept": "independence/state or quality of being independent",
+    "transliteration": "dú​lì"
+  },
+  "41695": {
+    "form": "梯子",
+    "transliteration": "tī​zi",
+    "concept": "ladder/climbing tool"
+  },
+  "42084": {
+    "form": "珍珠",
+    "transliteration": "zhēn​zhū",
+    "concept": "pearl/rounded shelly concretion produced by certain mollusks"
+  },
+  "42690": {
+    "form": "口水",
+    "transliteration": "kǒu​shuǐ",
+    "concept": "saliva/liquid secreted into the mouth"
+  },
+  "43548": {
+    "form": "帐篷",
+    "concept": "tent/portable lodge",
+    "transliteration": "zhàng​peng"
+  },
+  "43558": {
+    "form": "口渴",
+    "transliteration": "kǒu​kě",
+    "concept": "thirst/dryness"
+  },
+  "43581": {
+    "form": "毛巾",
+    "transliteration": "máo​jīn",
+    "concept": "towel/cloth used for wiping"
+  },
+  "43979": {
+    "form": "糖果",
+    "transliteration": "táng​guǒ",
+    "concept": "candy/piece of candy"
+  },
+  "44001": {
+    "form": "诗",
+    "concept": "poem/literary piece written in verse",
+    "transliteration": "shī"
+  },
+  "44005": {
+    "form": "诗歌",
+    "concept": "poetry/class of literature",
+    "transliteration": "shī​gē"
+  },
+  "44012": {
+    "form": "诗人",
+    "concept": "poet/person who writes poems",
+    "transliteration": "shī​rén"
+  },
+  "44018": {
+    "form": "文学",
+    "concept": "literature/body of all written works",
+    "transliteration": "wén​xué"
+  },
+  "44469": {
+    "form": "灌木",
+    "transliteration": "guàn​mù",
+    "concept": "bush/category of woody plant"
+  },
+  "44554": {
+    "form": "早",
+    "transliteration": "zǎo",
+    "concept": "good morning/when seeing someone for the first time in the morning"
+  },
+  "45478": {
+    "form": "警察",
+    "transliteration": "jǐng​chá",
+    "concept": "police/an organisation that enforces the law"
+  },
+  "45783": {
+    "form": "晚上",
+    "transliteration": "wǎn​shang",
+    "concept": "evening/time of day between the approximate time of midwinter dusk and midnight"
+  },
+  "45958": {
+    "form": "祈祷",
+    "concept": "pray/to petition a higher being",
+    "transliteration": "qí​dǎo"
+  },
+  "45970": {
+    "form": "坭",
+    "transliteration": "ní",
+    "concept": "mud/mixture of soil and water"
+  },
+  "45974": {
+    "form": "火山",
+    "transliteration": "huǒ​shān",
+    "concept": "volcano/mountain containing a magma chamber"
+  },
+  "45975": {
+    "form": "沼泽",
+    "concept": "swamp/type of wetland",
+    "transliteration": "zhǎo​zé"
+  },
+  "46585": {
+    "form": "胶水",
+    "concept": "glue/sticky adhesive substance",
+    "transliteration": "jiāo​shuǐ"
+  },
+  "46625": {
+    "form": "卧室",
+    "concept": "bedroom/room in a house where a bed is kept for sleeping",
+    "transliteration": "wò​shì"
+  },
+  "46627": {
+    "form": "寿司",
+    "concept": "sushi/Japanese dish",
+    "transliteration": "shòu​sī"
+  },
+  "46928": {
+    "form": "革命",
+    "transliteration": "gé​mìng",
+    "concept": "revolution/political upheaval"
+  },
+  "47042": {
+    "form": "拳头",
+    "concept": "fist/clenched hand",
+    "transliteration": "quán​tou"
+  },
+  "47096": {
+    "form": "怀孕",
+    "concept": "pregnant/carrying developing offspring within the body",
+    "transliteration": "huái​yùn"
+  },
+  "47212": {
+    "form": "枕头",
+    "concept": "pillow/soft cushion used to support the head in bed",
+    "transliteration": "zhěn​tou"
+  },
+  "47384": {
+    "form": "肩",
+    "transliteration": "jiān",
+    "concept": "shoulder/joint between arm and torso"
+  },
+  "47935": {
+    "form": "分子",
+    "transliteration": "fèn​zǐ",
+    "concept": "molecule/group of atoms held together by chemical bonds"
+  },
+  "48082": {
+    "form": "晚安",
+    "transliteration": "wǎn​'ān",
+    "concept": "good night/a farewell"
+  },
+  "48133": {
+    "form": "青苔",
+    "transliteration": "qīng​tái",
+    "concept": "moss/plants of the division Bryophyta"
+  },
+  "48240": {
+    "form": "篱笆",
+    "concept": "fence/barrier",
+    "transliteration": "lí​ba"
+  },
+  "48452": {
+    "form": "国境",
+    "concept": "border/the line or frontier area separating regions",
+    "transliteration": "guó​jìng"
+  },
+  "48984": {
+    "form": "鼓",
+    "transliteration": "gǔ",
+    "concept": "drum/musical instrument"
+  },
+  "49614": {
+    "form": "祈祷",
+    "concept": "prayer/practice of communicating with one's God",
+    "transliteration": "qí​dǎo"
+  },
+  "49732": {
+    "form": "怀孕",
+    "concept": "pregnancy/condition",
+    "transliteration": "huái​yùn"
+  },
+  "49967": {
+    "form": "棺材",
+    "transliteration": "guān​cai",
+    "concept": "coffin/box in which a dead person is buried"
+  },
+  "50107": {
+    "form": "地平线",
+    "concept": "horizon/line that appears to separate the Earth from the sky",
+    "transliteration": "dì​píng​xiàn"
+  },
+  "50167": {
+    "form": "懒惰",
+    "concept": "sloth/laziness",
+    "transliteration": "lǎn​duò"
+  },
+  "50247": {
+    "form": "饥饿",
+    "concept": "hunger/need for food",
+    "transliteration": "jī​'è"
+  },
+  "50406": {
+    "form": "双胞胎",
+    "concept": "twin/either of two people who shared the same uterus, or of two similar or closely related objects",
+    "transliteration": "shuāng​bāo​tāi"
+  },
+  "50912": {
+    "form": "项链",
+    "concept": "necklace/jewelry",
+    "transliteration": "xiàng​liàn"
+  },
+  "51351": {
+    "form": "博物馆",
+    "concept": "museum/building or institution",
+    "transliteration": "bó​wù​guǎn"
+  },
+  "51512": {
+    "form": "工程师",
+    "concept": "engineer/person qualified or professionally engaged in engineering",
+    "transliteration": "gōng​chéng​shī"
+  },
+  "51942": {
+    "form": "电影院",
+    "concept": "cinema/a film/movie theatre",
+    "transliteration": "diàn​yǐng​yuàn"
+  },
+  "52164": {
+    "form": "岸",
+    "transliteration": "àn",
+    "concept": "shore/land adjoining a large body of water"
+  },
+  "52348": {
+    "form": "折磨",
+    "transliteration": "zhé​mó",
+    "concept": "torture/intentional causing of somebody's experiencing agony"
+  },
+  "52683": {
+    "form": "邀请",
+    "concept": "invite/ask for the presence or participation of someone",
+    "transliteration": "yāo​qǐng"
+  },
+  "53147": {
+    "form": "传统",
+    "concept": "tradition/a part of culture that is passed from person to person or generation to generation",
+    "transliteration": "chuán​tǒng"
+  },
+  "54455": {
+    "form": "牙膏",
+    "transliteration": "yá​gāo",
+    "concept": "toothpaste/paste for cleaning the teeth"
+  },
+  "55605": {
+    "form": "不客气",
+    "concept": "you're welcome/reply to thanks",
+    "transliteration": "bú kè​qi"
+  },
+  "55886": {
+    "form": "头皮屑",
+    "concept": "dandruff/skin flakes",
+    "transliteration": "tóu​pí​xiè"
+  },
+  "56144": {
+    "form": "课业",
+    "concept": "lesson/section of learning or teaching",
+    "transliteration": "kè​yè"
+  },
+  "56584": {
+    "form": "钱包",
+    "concept": "wallet/case for keeping money",
+    "transliteration": "qián​bāo"
+  },
+  "57243": {
+    "form": "柳",
+    "transliteration": "liǔ",
+    "concept": "willow/tree"
+  },
+  "57672": {
+    "form": "独轮车",
+    "concept": "wheelbarrow/small cart",
+    "transliteration": "dú​lún​chē"
+  },
+  "57937": {
+    "form": "耳环",
+    "concept": "earring/piece of jewelry",
+    "transliteration": "ěr​huán"
+  },
+  "57950": {
+    "form": "寡妇",
+    "concept": "widow/woman whose spouse has died",
+    "transliteration": "guǎ​fu"
+  },
+  "59367": {
+    "form": "醋",
+    "transliteration": "cù",
+    "concept": "vinegar/condiment"
+  },
+  "60695": {
+    "form": "剧场",
+    "concept": "theater/place or building",
+    "transliteration": "jù​chǎng"
+  },
+  "62223": {
+    "form": "母语",
+    "concept": "mother tongue/one's native tongue",
+    "transliteration": "mǔ​yǔ"
+  },
+  "62677": {
+    "form": "肋骨",
+    "transliteration": "lèi​gǔ",
+    "concept": "rib/curved bone"
+  },
+  "62701": {
+    "form": "平底锅",
+    "concept": "frying pan/long-handled, shallow pan used for frying food",
+    "transliteration": "píng​dǐ​guō"
+  },
+  "63517": {
+    "form": "茄子",
+    "transliteration": "qié​zi",
+    "concept": "eggplant/edible fruit"
+  },
+  "64442": {
+    "form": "恐怖主义",
+    "concept": "terrorism/use of terror as a means of coercion",
+    "transliteration": "kǒng​bù​zhǔ​yì"
+  },
+  "66812": {
+    "form": "大使馆",
+    "concept": "embassy/organization representing a foreign state",
+    "transliteration": "dà​shǐ​guǎn"
+  },
+  "67901": {
+    "form": "椰子",
+    "transliteration": "yē​zi",
+    "concept": "coconut/fruit of coco palm"
+  },
+  "70224": {
+    "form": "鞍",
+    "transliteration": "ān",
+    "concept": "saddle/seat on an animal"
+  },
+  "70800": {
+    "form": "游泳池",
+    "transliteration": "yóu​yǒng​chí",
+    "concept": "swimming pool/pool for swimming"
+  },
+  "72000": {
+    "form": "药店",
+    "concept": "pharmacy/a place where prescription drugs are dispensed",
+    "transliteration": "yào​diàn"
+  },
+  "73886": {
+    "form": "绷带",
+    "concept": "bandage/medical binding",
+    "transliteration": "bēng​dài"
+  },
+  "75875": {
+    "form": "公墓",
+    "transliteration": "gōng​mù",
+    "concept": "graveyard/tract of land in which the dead are buried"
+  },
+  "82820": {
+    "form": "灯塔",
+    "concept": "lighthouse/building containing a light to warn or guide ships",
+    "transliteration": "dēng​tǎ"
+  },
+  "83183": {
+    "form": "领带",
+    "concept": "necktie/strip of cloth worn around the neck and tied in the front",
+    "transliteration": "lǐng​dài"
+  },
+  "84601": {
+    "form": "找",
+    "transliteration": "zhǎo",
+    "concept": "look for/search; seek"
+  },
+  "85793": {
+    "form": "偷",
+    "transliteration": "tōu",
+    "concept": "steal/to illegally take possession of"
+  },
+  "86275": {
+    "form": "国歌",
+    "concept": "national anthem/official song of a nation or country",
+    "transliteration": "guó​gē"
+  },
+  "99596": {
+    "form": "不",
+    "transliteration": "bù",
+    "concept": "no/used to show disagreement or negation"
+  },
+  "100273": {
+    "form": "马",
+    "concept": "horse/members of the species ''Equus ferus''",
+    "transliteration": "mǎ"
+  },
+  "103753": {
+    "form": "蜘蛛网",
+    "concept": "spiderweb/net-like construct of a spider",
+    "transliteration": "zhī​zhū​wǎng"
+  },
+  "110307": {
+    "form": "首都",
+    "transliteration": "shǒu​dū",
+    "concept": "capital city/city designated as seat of government"
+  },
+  "116425": {
+    "form": "脂肪",
+    "transliteration": "zhī​fáng",
+    "concept": "fat/specialized animal tissue"
+  },
+  "119862": {
+    "form": "舔",
+    "transliteration": "tiǎn",
+    "concept": "lick/to stroke with the tongue"
+  },
+  "120607": {
+    "form": "生日快乐",
+    "concept": "happy birthday/good wishes for a birthday",
+    "transliteration": "shēng​rì​kuài​lè"
+  },
+  "135703": {
+    "form": "出生",
+    "transliteration": "chū​shēng",
+    "concept": "be born/to come into existence through birth"
+  },
+  "148994": {
+    "form": "人",
+    "transliteration": "rén",
+    "concept": "man/translations/human"
+  },
+  "148995": {
+    "form": "男人",
+    "transliteration": "nán​rén",
+    "concept": "man/translations/adult male human"
+  },
+  "148997": {
+    "form": "猫",
+    "concept": "cat/translations/domestic species",
+    "transliteration": "māo"
+  },
+  "149092": {
+    "form": "狗",
+    "transliteration": "gǒu",
+    "concept": "dog/translations/animal"
+  },
+  "149107": {
+    "form": "金",
+    "transliteration": "jīn",
+    "concept": "gold/translations/element"
+  },
+  "149132": {
+    "form": "神",
+    "transliteration": "shén",
+    "concept": "god/translations/deity"
+  },
+  "149221": {
+    "form": "卵子",
+    "transliteration": "luǎn​zǐ",
+    "concept": "egg/translations/body housing an embryo"
+  },
+  "149222": {
+    "form": "蛋",
+    "transliteration": "dàn",
+    "concept": "egg/translations/egg of domestic fowl as food item"
+  }
 };

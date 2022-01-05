@@ -6,7 +6,6 @@ export type WordPair = {
 };
 export type GameWords = {
   getAllWords: () => WordPair[];
-  getByCategory: (category: string) => WordPair[];
 };
 
 const cachedGameWords: Record<string, GameWords> = {};
@@ -18,22 +17,15 @@ export const gameWords = async (languageCode: string): Promise<GameWords> => {
   if (cachedGameWords[languageCode]) {
     return cachedGameWords[languageCode];
   }
-  let languageData: Record<string, [string, string[]]>;
+  let languageData: Record<string, { form: string; concept: string; transliteration?: string }>;
 
   languageData = await supportedLangImports[languageCode]().then((x) => x.default);
-  const allWords = new Set();
-  const byCategory: Record<string, Set<string>> = {};
+
   const translations: Record<string, string> = {};
-  for (const word of Object.keys(languageData)) {
-    const data = languageData[word];
-    if (!data) continue;
-    if (!data[0] || !data[1]) continue;
-    translations[word] = data[0];
-    for (const category of data[1]) {
-      if (!byCategory[category]) byCategory[category] = new Set();
-      byCategory[category].add(word);
-      allWords.add(word);
-    }
+  for (const conceptId of Object.keys(languageData)) {
+    const { form, concept, transliteration } = languageData[conceptId];
+    const en = concept.split('/')[0];
+    translations[form] = en;
   }
   function toWordPair(word: string) {
     return {
@@ -42,8 +34,7 @@ export const gameWords = async (languageCode: string): Promise<GameWords> => {
     };
   }
   const out: GameWords = {
-    getAllWords: () => [...allWords].map(toWordPair),
-    getByCategory: (category) => [...byCategory[category]].map(toWordPair) || [],
+    getAllWords: () => Object.keys(translations).map(toWordPair),
   };
   cachedGameWords[languageCode] = out;
   return out;

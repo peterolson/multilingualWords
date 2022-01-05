@@ -1,3391 +1,736 @@
 export default {
-  "铁": [
-    "iron",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "图书馆": [
-    "library",
-    [
-      "catchphrase"
-    ]
-  ],
-  "外层空间": [
-    "outer space",
-    [
-      "catchphrase"
-    ]
-  ],
-  "鲨鱼": [
-    "shark",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "货币": [
-    "money",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "隧道": [
-    "tunnel",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "电话": [
-    "telephone",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "拖帉": [
-    "mop",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "波": [
-    "wave",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "滩": [
-    "beach",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "银行": [
-    "bank",
-    [
-      "catchphrase"
-    ]
-  ],
-  "脚馒头": [
-    "knee",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "咳嗽": [
-    "cough",
-    [
-      "catchphrase"
-    ]
-  ],
-  "铅笔": [
-    "pencil",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "黑色": [
-    "black",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "婚礼": [
-    "wedding",
-    [
-      "catchphrase"
-    ]
-  ],
-  "無線電": [
-    "radio",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "牙刷": [
-    "toothbrush",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "猪猡": [
-    "pig",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "睏觉": [
-    "sleep",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "摄像机": [
-    "video camera",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "脚踝": [
-    "ankle",
-    [
-      "catchphrase"
-    ]
-  ],
-  "西兰花": [
-    "broccoli",
-    [
-      "catchphrase"
-    ]
-  ],
-  "睏衣": [
-    "pajamas",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "月球": [
-    "moon",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "风暴": [
-    "storm",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "吉他": [
-    "guitar",
-    [
-      "catchphrase"
-    ]
-  ],
-  "動物": [
-    "animal",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "运动员": [
-    "athlete",
-    [
-      "catchphrase",
-      "people"
-    ]
-  ],
-  "额角头": [
-    "forehead",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "电子计算机": [
-    "computer",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "购物": [
-    "shopping",
-    [
-      "catchphrase"
-    ]
-  ],
-  "押韵": [
-    "rhyme",
-    [
-      "catchphrase"
-    ]
-  ],
-  "喷泉": [
-    "fountain",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "王爵": [
-    "prince",
-    [
-      "catchphrase"
-    ]
-  ],
-  "笔": [
-    "pen",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "大衣": [
-    "coat",
-    [
-      "catchphrase",
-      "household",
-      "objects"
-    ]
-  ],
-  "小提琴": [
-    "violin",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "差头": [
-    "taxi",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "紅": [
-    "red",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "袋带": [
-    "bag",
-    [
-      "catchphrase",
-      "household",
-      "objects"
-    ]
-  ],
-  "眼镜": [
-    "glasses",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "汽车": [
-    "car",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "游泳池": [
-    "swimming pool",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "礼物": [
-    "gift",
-    [
-      "catchphrase"
-    ]
-  ],
-  "拖拉机": [
-    "tractor",
-    [
-      "catchphrase"
-    ]
-  ],
-  "连衫裙": [
-    "dress",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "國家": [
-    "country",
-    [
-      "catchphrase"
-    ]
-  ],
-  "雹": [
-    "hail",
-    [
-      "catchphrase"
-    ]
-  ],
-  "口腔": [
-    "mouth",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "房子": [
-    "house",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "摇篮曲": [
-    "lullaby",
-    [
-      "catchphrase"
-    ]
-  ],
-  "狗": [
-    "dog",
-    [
-      "catchphrase",
-      "charades",
-      "people",
-      "swadesh"
-    ]
-  ],
-  "鸡": [
-    "chicken",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "耳": [
-    "ear",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "男性": [
-    "man",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "夜到": [
-    "night",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "貓": [
-    "cat",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "鱼": [
-    "fish",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "山": [
-    "mountain",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "涂料": [
-    "paint",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "鼻头": [
-    "nose",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "动物园": [
-    "zoo",
-    [
-      "catchphrase"
-    ]
-  ],
-  "幽老猫": [
-    "hide-and-seek",
-    [
-      "catchphrase"
-    ]
-  ],
-  "艺术家": [
-    "artist",
-    [
-      "catchphrase",
-      "charades",
-      "people"
-    ]
-  ],
-  "钻石": [
-    "diamond",
-    [
-      "catchphrase"
-    ]
-  ],
-  "汏碗机": [
-    "dishwasher",
-    [
-      "catchphrase"
-    ]
-  ],
-  "胃": [
-    "stomach",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "黄色": [
-    "yellow",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "调羹": [
-    "spoon",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "狐狸": [
-    "fox",
-    [
-      "catchphrase"
-    ]
-  ],
-  "毛发": [
-    "hair",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "鸟": [
-    "bird",
-    [
-      "catchphrase",
-      "charades",
-      "swadesh"
-    ]
-  ],
-  "生日": [
-    "birthday",
-    [
-      "catchphrase"
-    ]
-  ],
-  "水": [
-    "water",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "梦": [
-    "dream",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "云": [
-    "cloud",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "象": [
-    "elephant",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "风": [
-    "wind",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "学堂": [
-    "school",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "墙": [
-    "wall",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "电子计算器": [
-    "calculator",
-    [
-      "catchphrase"
-    ]
-  ],
-  "芭蕾舞": [
-    "ballet",
-    [
-      "catchphrase"
-    ]
-  ],
-  "手节头": [
-    "finger",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "圣诞": [
-    "Christmas",
-    [
-      "catchphrase"
-    ]
-  ],
-  "贝壳": [
-    "seashell",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "糖果": [
-    "candy",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "科学家": [
-    "scientist",
-    [
-      "catchphrase",
-      "people"
-    ]
-  ],
-  "衬衫": [
-    "shirt",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "鹞子": [
-    "kite",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "艇": [
-    "boat",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "脚趾": [
-    "toe",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "护理人员": [
-    "nurse",
-    [
-      "catchphrase",
-      "people"
-    ]
-  ],
-  "电动扶梯": [
-    "escalator",
-    [
-      "catchphrase"
-    ]
-  ],
-  "铁路列车": [
-    "train",
-    [
-      "catchphrase"
-    ]
-  ],
-  "鞋": [
-    "shoe",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "食盐": [
-    "salt",
-    [
-      "catchphrase",
-      "charades",
-      "swadesh"
-    ]
-  ],
-  "彩虹": [
-    "rainbow",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "演员": [
-    "actor",
-    [
-      "catchphrase",
-      "people"
-    ]
-  ],
-  "蛋糕": [
-    "cake",
-    [
-      "catchphrase"
-    ]
-  ],
-  "三角形": [
-    "triangle",
-    [
-      "catchphrase"
-    ]
-  ],
-  "鸭": [
-    "duck",
-    [
-      "catchphrase"
-    ]
-  ],
-  "肺": [
-    "lung",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "头": [
-    "head",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "狼": [
-    "wolf",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "树": [
-    "tree",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "太陽": [
-    "sun",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "蜡烛": [
-    "candle",
-    [
-      "catchphrase",
-      "household",
-      "objects"
-    ]
-  ],
-  "房间": [
-    "room",
-    [
-      "catchphrase"
-    ]
-  ],
-  "女小人": [
-    "girl",
-    [
-      "catchphrase"
-    ]
-  ],
-  "雷": [
-    "thunder",
-    [
-      "catchphrase"
-    ]
-  ],
-  "床": [
-    "bed",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "王": [
-    "king",
-    [
-      "catchphrase",
-      "people"
-    ]
-  ],
-  "娃娃": [
-    "doll",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "沙发": [
-    "couch",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "桥": [
-    "bridge",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "雪": [
-    "snow",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "毛巾": [
-    "towel",
-    [
-      "catchphrase",
-      "household",
-      "objects"
-    ]
-  ],
-  "平面镜": [
-    "mirror",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "电视机": [
-    "television",
-    [
-      "catchphrase",
-      "household",
-      "objects"
-    ]
-  ],
-  "篮球": [
-    "basketball",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "帐篷": [
-    "tent",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "棒球": [
-    "baseball",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "绿色": [
-    "green",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "屋顶": [
-    "roof",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "火": [
-    "fire",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "摩托车": [
-    "motorcycle",
-    [
-      "catchphrase"
-    ]
-  ],
-  "霍闪": [
-    "lightning",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "男小人": [
-    "boy",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "喙": [
-    "beak",
-    [
-      "catchphrase"
-    ]
-  ],
-  "时钟": [
-    "clock",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "平底锅": [
-    "frying pan",
-    [
-      "catchphrase"
-    ]
-  ],
-  "面颊": [
-    "cheek",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "结蛛": [
-    "spider",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "音乐": [
-    "music",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "舞蹈": [
-    "dance",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "纸": [
-    "paper",
-    [
-      "catchphrase",
-      "household",
-      "objects"
-    ]
-  ],
-  "小仙子": [
-    "fairy",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "腿": [
-    "leg",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "泥": [
-    "mud",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "冬天": [
-    "winter",
-    [
-      "catchphrase"
-    ]
-  ],
-  "博物馆": [
-    "museum",
-    [
-      "catchphrase"
-    ]
-  ],
-  "歌手": [
-    "singer",
-    [
-      "catchphrase",
-      "people"
-    ]
-  ],
-  "瓶子": [
-    "bottle",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "花": [
-    "flower",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "日": [
-    "day",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "影": [
-    "shadow",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "白色": [
-    "white",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "伞": [
-    "umbrella",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "蠕虫": [
-    "worm",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "毛皮": [
-    "fur",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "白垩岩": [
-    "chalk",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "围巾": [
-    "scarf",
-    [
-      "catchphrase",
-      "household",
-      "objects"
-    ]
-  ],
-  "帽子": [
-    "hat",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "狮": [
-    "lion",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "枕头": [
-    "pillow",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "旗帜": [
-    "flag",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "卫生纸": [
-    "toilet paper",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "胡萝卜": [
-    "carrot",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "家庭": [
-    "family",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "球": [
-    "ball",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "蝴蝶": [
-    "butterfly",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "剪刀": [
-    "scissors",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "道路": [
-    "road",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "围栏": [
-    "fence",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "地球": [
-    "earth",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "正方形": [
-    "square",
-    [
-      "catchphrase"
-    ]
-  ],
-  "喷嚏": [
-    "sneeze",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "窗": [
-    "window",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "柠檬": [
-    "lemon",
-    [
-      "catchphrase"
-    ]
-  ],
-  "机器人": [
-    "robot",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "people"
-    ]
-  ],
-  "苹果": [
-    "apple",
-    [
-      "catchphrase"
-    ]
-  ],
-  "汏衣": [
-    "laundry",
-    [
-      "catchphrase"
-    ]
-  ],
-  "公园": [
-    "park",
-    [
-      "catchphrase"
-    ]
-  ],
-  "马": [
-    "horse",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "铧锹": [
-    "shovel",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "电灯": [
-    "light bulb",
-    [
-      "catchphrase"
-    ]
-  ],
-  "颈": [
-    "neck",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "火山": [
-    "volcano",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "窠": [
-    "nest",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "叶": [
-    "leaf",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "葡萄": [
-    "grape",
-    [
-      "catchphrase"
-    ]
-  ],
-  "门": [
-    "door",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "虎": [
-    "tiger",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "早饭": [
-    "breakfast",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "冰": [
-    "ice",
-    [
-      "catchphrase",
-      "household",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "蝙蝠": [
-    "bat",
-    [
-      "catchphrase"
-    ]
-  ],
-  "该歇": [
-    "present",
-    [
-      "catchphrase"
-    ]
-  ],
-  "雾": [
-    "fog",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "光": [
-    "light",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "农场": [
-    "farm",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "扫帚": [
-    "broom",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "眼": [
-    "eye",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "航天员": [
-    "astronaut",
-    [
-      "catchphrase",
-      "people"
-    ]
-  ],
-  "恆星": [
-    "star",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "直升机": [
-    "helicopter",
-    [
-      "catchphrase"
-    ]
-  ],
-  "肥皂": [
-    "soap",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "城市": [
-    "city",
-    [
-      "catchphrase"
-    ]
-  ],
-  "雨": [
-    "rain",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "叉子": [
-    "fork",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "学生": [
-    "student",
-    [
-      "catchphrase",
-      "people"
-    ]
-  ],
-  "蓝色": [
-    "blue",
-    [
-      "catchphrase"
-    ]
-  ],
-  "椅": [
-    "chair",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "裙": [
-    "skirt",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "载货汽车": [
-    "truck",
-    [
-      "catchphrase"
-    ]
-  ],
-  "小丑": [
-    "clown",
-    [
-      "catchphrase",
-      "people"
-    ]
-  ],
-  "圆": [
-    "circle",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "河流": [
-    "river",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "洞穴": [
-    "cave",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "派对": [
-    "party",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "碗": [
-    "bowl",
-    [
-      "catchphrase"
-    ]
-  ],
-  "电冰箱": [
-    "refrigerator",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "烟": [
-    "smoke",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "蜥蜴": [
-    "lizard",
-    [
-      "catchphrase"
-    ]
-  ],
-  "楼梯": [
-    "stairs",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "微笑": [
-    "smile",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "眉毛": [
-    "eyebrow",
-    [
-      "catchphrase"
-    ]
-  ],
-  "飞机": [
-    "airplane",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "教师": [
-    "teacher",
-    [
-      "catchphrase",
-      "people"
-    ]
-  ],
-  "被头": [
-    "blanket",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "皮夹子": [
-    "wallet",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "餐馆": [
-    "restaurant",
-    [
-      "catchphrase"
-    ]
-  ],
-  "生梨": [
-    "pear",
-    [
-      "catchphrase"
-    ]
-  ],
-  "祷告": [
-    "prayer",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "街道": [
-    "street",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "三明治": [
-    "sandwich",
-    [
-      "catchphrase"
-    ]
-  ],
-  "尾巴": [
-    "tail",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "心臟": [
-    "heart",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "中上向": [
-    "noon",
-    [
-      "catchphrase"
-    ]
-  ],
-  "雪人": [
-    "snowman",
-    [
-      "catchphrase",
-      "household",
-      "people"
-    ]
-  ],
-  "丘": [
-    "hill",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "假日": [
-    "holiday",
-    [
-      "catchphrase"
-    ]
-  ],
-  "雀斑": [
-    "freckle",
-    [
-      "catchphrase"
-    ]
-  ],
-  "蹄": [
-    "hoof",
-    [
-      "catchphrase"
-    ]
-  ],
-  "礼拜一": [
-    "Monday",
-    [
-      "catchphrase"
-    ]
-  ],
-  "电梯": [
-    "elevator",
-    [
-      "catchphrase"
-    ]
-  ],
-  "紫色": [
-    "purple",
-    [
-      "catchphrase"
-    ]
-  ],
-  "西瓜": [
-    "watermelon",
-    [
-      "catchphrase"
-    ]
-  ],
-  "照相机": [
-    "camera",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "短袜": [
-    "sock",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "图书": [
-    "book",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "遊戲": [
-    "game",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "中饭": [
-    "lunch",
-    [
-      "catchphrase"
-    ]
-  ],
-  "下巴": [
-    "chin",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "颅骨": [
-    "skull",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "钮扣": [
-    "button",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "金": [
-    "gold",
-    [
-      "catchphrase"
-    ]
-  ],
-  "硬币": [
-    "coin",
-    [
-      "catchphrase",
-      "household",
-      "objects"
-    ]
-  ],
-  "灯塔": [
-    "lighthouse",
-    [
-      "catchphrase"
-    ]
-  ],
-  "机场": [
-    "airport",
-    [
-      "catchphrase"
-    ]
-  ],
-  "鞍": [
-    "saddle",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "消防员": [
-    "firefighter",
-    [
-      "catchphrase"
-    ]
-  ],
-  "花瓶": [
-    "vase",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "脚踏车": [
-    "bicycle",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "海报": [
-    "poster",
-    [
-      "catchphrase",
-      "household",
-      "objects"
-    ]
-  ],
-  "警察": [
-    "police officer",
-    [
-      "catchphrase"
-    ]
-  ],
-  "唇": [
-    "lip",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "锯子": [
-    "saw",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "池塘": [
-    "pond",
-    [
-      "catchphrase"
-    ]
-  ],
-  "牙齿": [
-    "tooth",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "自来火": [
-    "match",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "亲吻": [
-    "kiss",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "皮肤": [
-    "skin",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "滑板": [
-    "skateboard",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "湖": [
-    "lake",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "T恤": [
-    "t-shirt",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "家生": [
-    "tool",
-    [
-      "catchphrase"
-    ]
-  ],
-  "风车": [
-    "windmill",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "多孔动物门": [
-    "sponge",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "汽油": [
-    "gasoline",
-    [
-      "catchphrase"
-    ]
-  ],
-  "铁路": [
-    "railroad",
-    [
-      "catchphrase"
-    ]
-  ],
-  "踵": [
-    "heel",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "森林": [
-    "forest",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "地图": [
-    "map",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "呵欠": [
-    "yawn",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "草": [
-    "weed",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "砖": [
-    "brick",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "肋盆骨": [
-    "rib",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "洗衣机": [
-    "washing machine",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "墨水": [
-    "ink",
-    [
-      "catchphrase",
-      "household",
-      "objects"
-    ]
-  ],
-  "植物": [
-    "plant",
-    [
-      "catchphrase"
-    ]
-  ],
-  "皮革": [
-    "leather",
-    [
-      "catchphrase"
-    ]
-  ],
-  "油": [
-    "oil",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "报纸": [
-    "newspaper",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "篮": [
-    "basket",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "塑料": [
-    "plastic",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "头痛": [
-    "headache",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "轮船": [
-    "ship",
-    [
-      "catchphrase"
-    ]
-  ],
-  "肩": [
-    "shoulder",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "国际象棋": [
-    "chess",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "手": [
-    "hand",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "笛": [
-    "flute",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "火箭": [
-    "rocket",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "谜子": [
-    "riddle",
-    [
-      "catchphrase"
-    ]
-  ],
-  "轮胎": [
-    "tire",
-    [
-      "catchphrase"
-    ]
-  ],
-  "地震": [
-    "earthquake",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "昆虫": [
-    "insect",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "邮件": [
-    "mail",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "蜘蛛网": [
-    "spider web",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "笼": [
-    "cage",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "木材": [
-    "wood",
-    [
-      "catchphrase"
-    ]
-  ],
-  "露水": [
-    "dew",
-    [
-      "catchphrase"
-    ]
-  ],
-  "拉链": [
-    "zipper",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "礼拜五": [
-    "Friday",
-    [
-      "catchphrase"
-    ]
-  ],
-  "空气": [
-    "air",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "脑": [
-    "brain",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "罪": [
-    "sin",
-    [
-      "catchphrase"
-    ]
-  ],
-  "饮料": [
-    "drink",
-    [
-      "charades",
-      "swadesh"
-    ]
-  ],
-  "袋鼠": [
-    "kangaroo",
-    [
-      "charades"
-    ]
-  ],
-  "折梯": [
-    "ladder",
-    [
-      "charades",
-      "household"
-    ]
-  ],
-  "猢狲": [
-    "monkey",
-    [
-      "charades",
-      "objects",
-      "people"
-    ]
-  ],
-  "蚊": [
-    "mosquito",
-    [
-      "charades"
-    ]
-  ],
-  "肘": [
-    "elbow",
-    [
-      "charades"
-    ]
-  ],
-  "舌头": [
-    "tongue",
-    [
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "歌曲": [
-    "song",
-    [
-      "charades",
-      "objects"
-    ]
-  ],
-  "独角兽": [
-    "unicorn",
-    [
-      "charades"
-    ]
-  ],
-  "口红": [
-    "lipstick",
-    [
-      "charades",
-      "household"
-    ]
-  ],
-  "翅膀": [
-    "wing",
-    [
-      "charades",
-      "swadesh"
-    ]
-  ],
-  "玩具": [
-    "toy",
-    [
-      "charades",
-      "objects"
-    ]
-  ],
-  "汏头膏": [
-    "shampoo",
-    [
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "企鹅": [
-    "penguin",
-    [
-      "charades"
-    ]
-  ],
-  "长颈鹿": [
-    "giraffe",
-    [
-      "charades"
-    ]
-  ],
-  "蛇": [
-    "snake",
-    [
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "轮": [
-    "wheel",
-    [
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "腕": [
-    "wrist",
-    [
-      "charades"
-    ]
-  ],
-  "领带": [
-    "necktie",
-    [
-      "charades",
-      "household"
-    ]
-  ],
-  "叫扁": [
-    "whistle",
-    [
-      "charades"
-    ]
-  ],
-  "沙": [
-    "sand",
-    [
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "绳结": [
-    "knot",
-    [
-      "charades"
-    ]
-  ],
-  "假发": [
-    "wig",
-    [
-      "charades",
-      "objects"
-    ]
-  ],
-  "地板": [
-    "floor",
-    [
-      "charades",
-      "household"
-    ]
-  ],
-  "网球": [
-    "tennis",
-    [
-      "charades"
-    ]
-  ],
-  "绳": [
-    "rope",
-    [
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "牙膏": [
-    "toothpaste",
-    [
-      "household"
-    ]
-  ],
-  "烟囱": [
-    "chimney",
-    [
-      "household"
-    ]
-  ],
-  "杂志": [
-    "magazine",
-    [
-      "household"
-    ]
-  ],
-  "饭": [
-    "meal",
-    [
-      "household"
-    ]
-  ],
-  "橡皮擦": [
-    "eraser",
-    [
-      "household",
-      "objects"
-    ]
-  ],
-  "厨房": [
-    "kitchen",
-    [
-      "household"
-    ]
-  ],
-  "纱线": [
-    "yarn",
-    [
-      "household"
-    ]
-  ],
-  "电钻": [
-    "drill",
-    [
-      "household"
-    ]
-  ],
-  "地球仪": [
-    "globe",
-    [
-      "household"
-    ]
-  ],
-  "粪箕": [
-    "dustpan",
-    [
-      "household"
-    ]
-  ],
-  "毛衣": [
-    "sweater",
-    [
-      "household"
-    ]
-  ],
-  "水桶": [
-    "bucket",
-    [
-      "household",
-      "objects"
-    ]
-  ],
-  "玻璃": [
-    "glass",
-    [
-      "household"
-    ]
-  ],
-  "浴室": [
-    "bathroom",
-    [
-      "household"
-    ]
-  ],
-  "浴缸": [
-    "bathtub",
-    [
-      "household"
-    ]
-  ],
-  "天花板": [
-    "ceiling",
-    [
-      "household"
-    ]
-  ],
-  "靴": [
-    "boot",
-    [
-      "household"
-    ]
-  ],
-  "书桌": [
-    "desk",
-    [
-      "household"
-    ]
-  ],
-  "园林": [
-    "garden",
-    [
-      "household",
-      "objects"
-    ]
-  ],
-  "醇": [
-    "alcohol",
-    [
-      "objects"
-    ]
-  ],
-  "天使": [
-    "angel",
-    [
-      "objects"
-    ]
-  ],
-  "艺术": [
-    "art",
-    [
-      "objects"
-    ]
-  ],
-  "战役": [
-    "battle",
-    [
-      "objects"
-    ]
-  ],
-  "胡须": [
-    "beard",
-    [
-      "objects"
-    ]
-  ],
-  "比基尼泳衣": [
-    "bikini",
-    [
-      "objects"
-    ]
-  ],
-  "血液": [
-    "blood",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "炸弹": [
-    "bomb",
-    [
-      "objects"
-    ]
-  ],
-  "骨骼": [
-    "bone",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "弹丸": [
-    "bullet",
-    [
-      "objects"
-    ]
-  ],
-  "公共汽车": [
-    "bus",
-    [
-      "objects"
-    ]
-  ],
-  "白脱": [
-    "butter",
-    [
-      "objects"
-    ]
-  ],
-  "仙人掌": [
-    "cactus",
-    [
-      "objects"
-    ]
-  ],
-  "加农炮": [
-    "cannon",
-    [
-      "objects"
-    ]
-  ],
-  "地毯": [
-    "carpet",
-    [
-      "objects"
-    ]
-  ],
-  "干酪": [
-    "cheese",
-    [
-      "objects"
-    ]
-  ],
-  "马戏": [
-    "circus",
-    [
-      "objects"
-    ]
-  ],
-  "棺材": [
-    "coffin",
-    [
-      "objects"
-    ]
-  ],
-  "音乐会": [
-    "concert",
-    [
-      "objects"
-    ]
-  ],
-  "勇气": [
-    "courage",
-    [
-      "objects"
-    ]
-  ],
-  "奶油": [
-    "cream",
-    [
-      "objects"
-    ]
-  ],
-  "皇冠": [
-    "crown",
-    [
-      "objects"
-    ]
-  ],
-  "死": [
-    "death",
-    [
-      "objects"
-    ]
-  ],
-  "债务": [
-    "debt",
-    [
-      "objects"
-    ]
-  ],
-  "私布": [
-    "diaper",
-    [
-      "objects"
-    ]
-  ],
-  "恐龙": [
-    "dinosaur",
-    [
-      "objects"
-    ]
-  ],
-  "海豚": [
-    "dolphin",
-    [
-      "objects"
-    ]
-  ],
-  "驴": [
-    "donkey",
-    [
-      "objects"
-    ]
-  ],
-  "龙形动物": [
-    "dragon",
-    [
-      "objects"
-    ]
-  ],
-  "鼓": [
-    "drum",
-    [
-      "objects"
-    ]
-  ],
-  "灰尘": [
-    "dust",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "蛋": [
-    "egg",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "能量": [
-    "energy",
-    [
-      "objects"
-    ]
-  ],
-  "羡慕": [
-    "envy",
-    [
-      "objects"
-    ]
-  ],
-  "事实": [
-    "fact",
-    [
-      "objects"
-    ]
-  ],
-  "工厂": [
-    "factory",
-    [
-      "objects"
-    ]
-  ],
-  "信仰": [
-    "faith",
-    [
-      "objects"
-    ]
-  ],
-  "恐惧": [
-    "fear",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "羽毛": [
-    "feather",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "寒热": [
-    "fever",
-    [
-      "objects"
-    ]
-  ],
-  "食物": [
-    "food",
-    [
-      "objects"
-    ]
-  ],
-  "脚": [
-    "foot",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "果实": [
-    "fruit",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "未来": [
-    "future",
-    [
-      "objects"
-    ]
-  ],
-  "星系": [
-    "galaxy",
-    [
-      "objects"
-    ]
-  ],
-  "鬼": [
-    "ghost",
-    [
-      "objects",
-      "people"
-    ]
-  ],
-  "手套": [
-    "glove",
-    [
-      "objects"
-    ]
-  ],
-  "大猩猩": [
-    "gorilla",
-    [
-      "objects"
-    ]
-  ],
-  "引力": [
-    "gravity",
-    [
-      "objects"
-    ]
-  ],
-  "榔头": [
-    "hammer",
-    [
-      "objects"
-    ]
-  ],
-  "天堂": [
-    "heaven",
-    [
-      "objects"
-    ]
-  ],
-  "地狱": [
-    "hell",
-    [
-      "objects"
-    ]
-  ],
-  "盔": [
-    "helmet",
-    [
-      "objects"
-    ]
-  ],
-  "蜂蜜": [
-    "honey",
-    [
-      "objects"
-    ]
-  ],
-  "希望": [
-    "hope",
-    [
-      "objects"
-    ]
-  ],
-  "岛屿": [
-    "island",
-    [
-      "objects"
-    ]
-  ],
-  "笑话": [
-    "joke",
-    [
-      "objects"
-    ]
-  ],
-  "丛林": [
-    "jungle",
-    [
-      "objects"
-    ]
-  ],
-  "小刀": [
-    "knife",
-    [
-      "objects"
-    ]
-  ],
-  "爱": [
-    "love",
-    [
-      "objects"
-    ]
-  ],
-  "机器": [
-    "machine",
-    [
-      "objects"
-    ]
-  ],
-  "磁铁": [
-    "magnet",
-    [
-      "objects"
-    ]
-  ],
-  "婚姻": [
-    "marriage",
-    [
-      "objects"
-    ]
-  ],
-  "按摩": [
-    "massage",
-    [
-      "objects"
-    ]
-  ],
-  "肉类食物": [
-    "meat",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "醫學": [
-    "medicine",
-    [
-      "objects"
-    ]
-  ],
-  "记忆": [
-    "memory",
-    [
-      "objects"
-    ]
-  ],
-  "乳": [
-    "milk",
-    [
-      "objects"
-    ]
-  ],
-  "奇迹": [
-    "miracle",
-    [
-      "objects"
-    ]
-  ],
-  "谋杀": [
-    "murder",
-    [
-      "objects"
-    ]
-  ],
-  "肌肉": [
-    "muscle",
-    [
-      "objects"
-    ]
-  ],
-  "新闻": [
-    "news",
-    [
-      "objects"
-    ]
-  ],
-  "噪音": [
-    "noise",
-    [
-      "objects"
-    ]
-  ],
-  "洋": [
-    "ocean",
-    [
-      "objects"
-    ]
-  ],
-  "烤炉": [
-    "oven",
-    [
-      "objects"
-    ]
-  ],
-  "氧": [
-    "oxygen",
-    [
-      "objects"
-    ]
-  ],
-  "痛": [
-    "pain",
-    [
-      "objects"
-    ]
-  ],
-  "降落伞": [
-    "parachute",
-    [
-      "objects"
-    ]
-  ],
-  "和平": [
-    "peace",
-    [
-      "objects"
-    ]
-  ],
-  "愉快": [
-    "pleasure",
-    [
-      "objects"
-    ]
-  ],
-  "毒物": [
-    "poison",
-    [
-      "objects"
-    ]
-  ],
-  "爆米花": [
-    "popcorn",
-    [
-      "objects"
-    ]
-  ],
-  "担桑身": [
-    "pregnancy",
-    [
-      "objects"
-    ]
-  ],
-  "蛋白质": [
-    "protein",
-    [
-      "objects"
-    ]
-  ],
-  "南瓜": [
-    "pumpkin",
-    [
-      "objects"
-    ]
-  ],
-  "智力游戏": [
-    "puzzle",
-    [
-      "objects"
-    ]
-  ],
-  "剃刀": [
-    "razor",
-    [
-      "objects"
-    ]
-  ],
-  "现实": [
-    "reality",
-    [
-      "objects"
-    ]
-  ],
-  "酱汁": [
-    "sauce",
-    [
-      "objects"
-    ]
-  ],
-  "香肠": [
-    "sausage",
-    [
-      "objects"
-    ]
-  ],
-  "保安": [
-    "security",
-    [
-      "objects"
-    ]
-  ],
-  "种子": [
-    "seed",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "羞耻": [
-    "shame",
-    [
-      "objects"
-    ]
-  ],
-  "盾": [
-    "shield",
-    [
-      "objects"
-    ]
-  ],
-  "骨骼系统": [
-    "skeleton",
-    [
-      "objects"
-    ]
-  ],
-  "天空": [
-    "sky",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "汤": [
-    "soup",
-    [
-      "objects"
-    ]
-  ],
-  "空間": [
-    "space",
-    [
-      "objects"
-    ]
-  ],
-  "塑像": [
-    "statue",
-    [
-      "objects"
-    ]
-  ],
-  "食糖": [
-    "sugar",
-    [
-      "objects"
-    ]
-  ],
-  "外科学": [
-    "surgery",
-    [
-      "objects"
-    ]
-  ],
-  "剑": [
-    "sword",
-    [
-      "objects"
-    ]
-  ],
-  "刺青": [
-    "tattoo",
-    [
-      "objects"
-    ]
-  ],
-  "税": [
-    "tax",
-    [
-      "objects"
-    ]
-  ],
-  "望远镜": [
-    "telescope",
-    [
-      "objects"
-    ]
-  ],
-  "咽喉": [
-    "throat",
-    [
-      "objects"
-    ]
-  ],
-  "辰光": [
-    "time",
-    [
-      "objects"
-    ]
-  ],
-  "马桶": [
-    "toilet",
-    [
-      "objects"
-    ]
-  ],
-  "塔式建筑": [
-    "tower",
-    [
-      "objects"
-    ]
-  ],
-  "真理": [
-    "truth",
-    [
-      "objects"
-    ]
-  ],
-  "视频": [
-    "video",
-    [
-      "objects"
-    ]
-  ],
-  "病毒": [
-    "virus",
-    [
-      "objects"
-    ]
-  ],
-  "维生素": [
-    "vitamin",
-    [
-      "objects"
-    ]
-  ],
-  "打仗": [
-    "war",
-    [
-      "objects"
-    ]
-  ],
-  "智慧": [
-    "wisdom",
-    [
-      "objects"
-    ]
-  ],
-  "父亲": [
-    "father",
-    [
-      "people",
-      "swadesh"
-    ]
-  ],
-  "渔民": [
-    "fisherman",
-    [
-      "people"
-    ]
-  ],
-  "律师": [
-    "lawyer",
-    [
-      "people"
-    ]
-  ],
-  "传教士": [
-    "missionary",
-    [
-      "people"
-    ]
-  ],
-  "丈夫": [
-    "husband",
-    [
-      "people",
-      "swadesh"
-    ]
-  ],
-  "老婆": [
-    "wife",
-    [
-      "people",
-      "swadesh"
-    ]
-  ],
-  "警察机构": [
-    "police",
-    [
-      "people"
-    ]
-  ],
-  "政治人物": [
-    "politician",
-    [
-      "people"
-    ]
-  ],
-  "神父": [
-    "priest",
-    [
-      "people"
-    ]
-  ],
-  "士兵": [
-    "soldier",
-    [
-      "people"
-    ]
-  ],
-  "小人": [
-    "child",
-    [
-      "people",
-      "swadesh"
-    ]
-  ],
-  "囚犯": [
-    "prisoner",
-    [
-      "people"
-    ]
-  ],
-  "法官": [
-    "judge",
-    [
-      "people"
-    ]
-  ],
-  "工程师": [
-    "engineer",
-    [
-      "people"
-    ]
-  ],
-  "音乐家": [
-    "musician",
-    [
-      "people"
-    ]
-  ],
-  "海员": [
-    "sailor",
-    [
-      "people"
-    ]
-  ],
-  "女性": [
-    "woman",
-    [
-      "swadesh"
-    ]
-  ],
-  "个人": [
-    "person",
-    [
-      "swadesh"
-    ]
-  ],
-  "姆妈": [
-    "mother",
-    [
-      "swadesh"
-    ]
-  ],
-  "根": [
-    "root",
-    [
-      "swadesh"
-    ]
-  ],
-  "脂肪": [
-    "fat",
-    [
-      "swadesh"
-    ]
-  ],
-  "乳房": [
-    "breast",
-    [
-      "swadesh"
-    ]
-  ],
-  "肝脏": [
-    "liver",
-    [
-      "swadesh"
-    ]
-  ],
-  "造话": [
-    "lie",
-    [
-      "swadesh"
-    ]
-  ],
-  "海": [
-    "sea",
-    [
-      "swadesh"
-    ]
-  ],
-  "灰": [
-    "ash",
-    [
-      "swadesh"
-    ]
-  ],
-  "年": [
-    "year",
-    [
-      "swadesh"
-    ]
-  ]
+  "37": {
+    "form": "書",
+    "concept": "book/collection of sheets of paper bound together containing printed or written material"
+  },
+  "131": {
+    "form": "天",
+    "transliteration": "thi",
+    "concept": "day/period of 24 hours"
+  },
+  "169": {
+    "form": "鐘頭",
+    "concept": "hour/time period of sixty minutes"
+  },
+  "173": {
+    "form": "分鐘",
+    "concept": "minute/unit of time"
+  },
+  "272": {
+    "form": "頭",
+    "concept": "head/part of the body"
+  },
+  "305": {
+    "form": "名",
+    "transliteration": "min",
+    "concept": "name/word or phrase indicating a particular person, place, class or thing"
+  },
+  "812": {
+    "form": "星期",
+    "transliteration": "xin qi",
+    "concept": "week/period of seven days"
+  },
+  "851": {
+    "form": "今朝",
+    "transliteration": "jin tsau",
+    "concept": "today/on the current day"
+  },
+  "1126": {
+    "form": "色",
+    "transliteration": "seq",
+    "concept": "color/spectral composition of visible light"
+  },
+  "1357": {
+    "form": "草",
+    "transliteration": "tshau",
+    "concept": "grass/ground cover plant"
+  },
+  "1555": {
+    "form": "太陽",
+    "concept": "sun/a star, especially when seen as the centre of any single solar system"
+  },
+  "1710": {
+    "form": "語言",
+    "concept": "language/body of words used as a form of communication"
+  },
+  "1820": {
+    "form": "鉛筆",
+    "concept": "pencil/graphite writing-instrument"
+  },
+  "1835": {
+    "form": "音樂",
+    "concept": "music/sound, organized in time in a melodious way"
+  },
+  "1955": {
+    "form": "銀行",
+    "concept": "bank/institution"
+  },
+  "1985": {
+    "form": "苹果",
+    "transliteration": "bin ku",
+    "concept": "apple/fruit"
+  },
+  "2044": {
+    "form": "丈夫",
+    "transliteration": "zan fu",
+    "concept": "husband/male partner in marriage"
+  },
+  "2047": {
+    "form": "宗教",
+    "transliteration": "tson jiau",
+    "concept": "religion/system of beliefs dealing with soul, deity and/or life after death"
+  },
+  "2049": {
+    "form": "政府",
+    "transliteration": "tsen fu",
+    "concept": "government/body with the power to make and/or enforce laws"
+  },
+  "2073": {
+    "form": "市場",
+    "concept": "market/spacious site for trading"
+  },
+  "2095": {
+    "form": "世界",
+    "transliteration": "sr jia",
+    "concept": "world/human collective existence"
+  },
+  "2162": {
+    "form": "昨日",
+    "transliteration": "zoq nyiq, zo nyiq",
+    "concept": "yesterday/day before today"
+  },
+  "2164": {
+    "form": "昨日",
+    "transliteration": "zoq nyiq, zo nyiq",
+    "concept": "yesterday/on the day before today"
+  },
+  "2207": {
+    "form": "手機",
+    "concept": "mobile phone/portable telephone"
+  },
+  "2224": {
+    "form": "工作",
+    "transliteration": "kon tsoq",
+    "concept": "work/to do a specific task"
+  },
+  "2280": {
+    "form": "時間",
+    "concept": "time/inevitable passing of events"
+  },
+  "2402": {
+    "form": "歡迎",
+    "concept": "welcome/greeting given upon someone's arrival"
+  },
+  "2467": {
+    "form": "愛",
+    "concept": "love/strong affection"
+  },
+  "2474": {
+    "form": "愛",
+    "concept": "love/have a strong affection for"
+  },
+  "2583": {
+    "form": "電腦",
+    "concept": "computer/device"
+  },
+  "2992": {
+    "form": "地圖",
+    "concept": "map/visual representation of an area"
+  },
+  "3066": {
+    "form": "鈔票",
+    "concept": "money/means of exchange and measure of value"
+  },
+  "3096": {
+    "form": "吃",
+    "transliteration": "qiq",
+    "concept": "drink/consume liquid through the mouth"
+  },
+  "3104": {
+    "form": "雌牛",
+    "transliteration": "tshr nyieu (T1)",
+    "concept": "cow/female domesticated ox or other bovine"
+  },
+  "3270": {
+    "form": "總統",
+    "concept": "president/the head of state of a republic"
+  },
+  "3332": {
+    "form": "曉得",
+    "concept": "know/be certain or sure about (something)"
+  },
+  "3399": {
+    "form": "植物",
+    "transliteration": "zeq veq",
+    "concept": "plant/organism capable of photosynthesis"
+  },
+  "3423": {
+    "form": "撥",
+    "concept": "give/transfer the possession of something to someone else"
+  },
+  "3436": {
+    "form": "老虎",
+    "transliteration": "lau hu",
+    "concept": "tiger/The mammal ''Panthera tigris''"
+  },
+  "3471": {
+    "form": "小",
+    "transliteration": "xiau",
+    "concept": "small/not large"
+  },
+  "3795": {
+    "form": "寫",
+    "concept": "write/to form letters, etc."
+  },
+  "3834": {
+    "form": "女人",
+    "transliteration": "nyy nyin",
+    "concept": "woman/adult female person"
+  },
+  "3925": {
+    "form": "老鼠",
+    "transliteration": "lau tshr",
+    "concept": "mouse/rodent of the genus ''Mus''"
+  },
+  "4024": {
+    "form": "人",
+    "transliteration": "nyin",
+    "concept": "person/individual"
+  },
+  "4371": {
+    "form": "手骨",
+    "transliteration": "seu kueq",
+    "concept": "hand/part of the fore limb"
+  },
+  "4395": {
+    "form": "角子",
+    "transliteration": "koh-tsy",
+    "concept": "coin/(''currency'') a piece of currency"
+  },
+  "4406": {
+    "form": "動物",
+    "concept": "animal/organism"
+  },
+  "4643": {
+    "form": "囡兒",
+    "transliteration": "noe hhngg",
+    "concept": "girl/young female person"
+  },
+  "4910": {
+    "form": "島",
+    "concept": "island/area of land completely surrounded by water"
+  },
+  "4941": {
+    "form": "魚",
+    "concept": "fish/vertebrate animal"
+  },
+  "5002": {
+    "form": "空氣",
+    "concept": "air/mixture of gases making up the atmosphere of the Earth"
+  },
+  "5047": {
+    "form": "螞蟻",
+    "concept": "ant/insect"
+  },
+  "5109": {
+    "form": "月亮",
+    "transliteration": "hhyq lian, hhioq lian",
+    "concept": "moon/id=Q405|largest natural satellite of planet Earth"
+  },
+  "5138": {
+    "form": "北",
+    "transliteration": "poq",
+    "concept": "north/compass point"
+  },
+  "5193": {
+    "form": "蛇",
+    "transliteration": "zo",
+    "concept": "snake/legless reptile"
+  },
+  "5297": {
+    "form": "姆媽",
+    "concept": "mother/female (human) who parents a child, gives birth to a baby, or is pregnant"
+  },
+  "5324": {
+    "form": "小囡",
+    "transliteration": "xiau noe",
+    "concept": "child/a female or male child, a daughter or son"
+  },
+  "5335": {
+    "form": "囡兒",
+    "concept": "daughter/female offspring"
+  },
+  "5372": {
+    "form": "蜂蜜",
+    "transliteration": "fon miq",
+    "concept": "honey/sweet substance produced by bees"
+  },
+  "5475": {
+    "form": "虹",
+    "transliteration": "hhon",
+    "concept": "rainbow/multicoloured arch in the sky"
+  },
+  "5510": {
+    "form": "花",
+    "transliteration": "ho",
+    "concept": "flower/reproductive structure in angiosperms"
+  },
+  "5801": {
+    "form": "巧克力",
+    "transliteration": "qiau kheq liq",
+    "concept": "chocolate/food made from ground roasted cocoa beans"
+  },
+  "6020": {
+    "form": "筆",
+    "concept": "pen/writing tool"
+  },
+  "6142": {
+    "form": "蚊子",
+    "transliteration": "men tsr",
+    "concept": "mosquito/small flying insect of the family Culicidae, known for biting and sucking blood"
+  },
+  "6143": {
+    "form": "儂好",
+    "concept": "hello/greeting"
+  },
+  "6148": {
+    "form": "儂好",
+    "concept": "hi/friendly, informal greeting"
+  },
+  "6258": {
+    "form": "葡萄",
+    "transliteration": "bu dau, beq dau",
+    "concept": "grape/fruit"
+  },
+  "6302": {
+    "form": "米",
+    "transliteration": "mi",
+    "concept": "rice/seeds used as food"
+  },
+  "6706": {
+    "form": "歌",
+    "transliteration": "ku",
+    "concept": "song/music with words"
+  },
+  "6726": {
+    "form": "眼泪水",
+    "transliteration": "ngae-li-syu",
+    "concept": "tear/drop of clear salty liquid from the eyes"
+  },
+  "6728": {
+    "form": "眼睛",
+    "transliteration": "nge jin",
+    "concept": "eye/organ"
+  },
+  "7081": {
+    "form": "鼻頭",
+    "concept": "nose/protuberance on the face"
+  },
+  "7093": {
+    "form": "嘴",
+    "transliteration": "tsr",
+    "concept": "mouth/the opening of a creature through which food is ingested"
+  },
+  "7112": {
+    "form": "腳",
+    "concept": "foot/part of human body {{jump|t|human body part}}"
+  },
+  "7637": {
+    "form": "謝謝",
+    "concept": "thank you/an expression of gratitude"
+  },
+  "7814": {
+    "form": "火車",
+    "concept": "train/line of connected cars or carriages"
+  },
+  "8031": {
+    "form": "地震",
+    "transliteration": "di tsen",
+    "concept": "earthquake/shaking of the surface of a planet"
+  },
+  "8067": {
+    "form": "熊",
+    "transliteration": "hhion",
+    "concept": "bear/large mammal of family Ursidae"
+  },
+  "8136": {
+    "form": "人類",
+    "concept": "human/id=Q15978631|a human being"
+  },
+  "8155": {
+    "form": "語法",
+    "concept": "grammar/rules for speaking and writing a language"
+  },
+  "8513": {
+    "form": "來",
+    "concept": "come/to move nearer"
+  },
+  "8971": {
+    "form": "有",
+    "transliteration": "hhieu",
+    "concept": "have/to possess"
+  },
+  "9150": {
+    "form": "光",
+    "transliteration": "kuaan",
+    "concept": "light/electromagnetic waves"
+  },
+  "9326": {
+    "form": "明朝",
+    "transliteration": "min tsau, men tsau",
+    "concept": "tomorrow/on the day after the present day"
+  },
+  "9547": {
+    "form": "雷",
+    "transliteration": "le",
+    "concept": "thunder/sound caused by lightning"
+  },
+  "9735": {
+    "form": "剪刀",
+    "transliteration": "ji tau",
+    "concept": "scissors/tool used for cutting"
+  },
+  "9852": {
+    "form": "𠼢",
+    "transliteration": "jjian",
+    "concept": "cheap/low in price"
+  },
+  "10048": {
+    "form": "白脫",
+    "concept": "butter/soft foodstuff made from milk"
+  },
+  "10173": {
+    "form": "睏",
+    "transliteration": "khun",
+    "concept": "sleep/to rest in state of reduced consciousness"
+  },
+  "11013": {
+    "form": "游水",
+    "transliteration": "hhieu sr",
+    "concept": "swim/move through water"
+  },
+  "11146": {
+    "form": "風",
+    "concept": "wind/movement of air"
+  },
+  "11630": {
+    "form": "鐵",
+    "concept": "iron/id=Q677|element"
+  },
+  "11709": {
+    "form": "冰",
+    "transliteration": "pin",
+    "concept": "ice/water in frozen form"
+  },
+  "11722": {
+    "form": "湖",
+    "transliteration": "hhu",
+    "concept": "lake/body of water"
+  },
+  "11782": {
+    "form": "門",
+    "concept": "door/portal of entry into a building, room or vehicle"
+  },
+  "11951": {
+    "form": "蝴蝶",
+    "transliteration": "hhu diq",
+    "concept": "butterfly/id=Q11946202|insect"
+  },
+  "12083": {
+    "form": "豬玀",
+    "concept": "pig/mammal of genus ''Sus''"
+  },
+  "12101": {
+    "form": "狐狸",
+    "transliteration": "3hhu li",
+    "concept": "fox/''Vulpes''"
+  },
+  "12200": {
+    "form": "心臟",
+    "concept": "heart/an organ"
+  },
+  "12260": {
+    "form": "死亡",
+    "transliteration": "sr vaan",
+    "concept": "death/cessation of life"
+  },
+  "12409": {
+    "form": "生命",
+    "transliteration": "sen min",
+    "concept": "life/the state of being alive"
+  },
+  "12491": {
+    "form": "醫院",
+    "concept": "hospital/large medical facility"
+  },
+  "12497": {
+    "form": "刀",
+    "transliteration": "tau",
+    "concept": "knife/utensil or tool designed for cutting"
+  },
+  "12505": {
+    "form": "山",
+    "transliteration": "se",
+    "concept": "mountain/large mass of earth and rock"
+  },
+  "12507": {
+    "form": "鹽",
+    "concept": "salt/sodium chloride"
+  },
+  "12518": {
+    "form": "糖",
+    "transliteration": "daan",
+    "concept": "sugar/sucrose from sugar cane or sugar beet and used to sweeten food and drink"
+  },
+  "12561": {
+    "form": "劍",
+    "concept": "sword/weapon"
+  },
+  "12940": {
+    "form": "雪",
+    "transliteration": "xiq",
+    "concept": "snow/precipitation"
+  },
+  "13184": {
+    "form": "國家",
+    "concept": "state/any sovereign polity"
+  },
+  "14016": {
+    "form": "氫",
+    "concept": "hydrogen/id=Q556|chemical element"
+  },
+  "14448": {
+    "form": "咖啡",
+    "transliteration": "ka fi",
+    "concept": "coffee/beverage"
+  },
+  "15019": {
+    "form": "飛機",
+    "concept": "airplane/powered aircraft"
+  },
+  "15020": {
+    "form": "紙頭",
+    "concept": "paper/sheet material"
+  },
+  "15126": {
+    "form": "窗頭",
+    "concept": "window/opening for light and air"
+  },
+  "15254": {
+    "form": "蜘蛛",
+    "transliteration": "tsr tsr",
+    "concept": "spider/arthropod"
+  },
+  "16038": {
+    "form": "腳踏車",
+    "concept": "bicycle/vehicle"
+  },
+  "16056": {
+    "form": "摩托車",
+    "concept": "motorcycle/open-seated motor-powered vehicle with two wheels"
+  },
+  "16117": {
+    "form": "牛奶",
+    "transliteration": "nieu na",
+    "concept": "milk/liquid"
+  },
+  "16163": {
+    "form": "碳",
+    "concept": "carbon/id=Q623|chemical element"
+  },
+  "16265": {
+    "form": "香煙",
+    "concept": "cigarette/cigarette"
+  },
+  "16463": {
+    "form": "公共汽車",
+    "concept": "bus/vehicle"
+  },
+  "17211": {
+    "form": "電視",
+    "concept": "television/medium"
+  },
+  "17703": {
+    "form": "森林",
+    "transliteration": "sen lin",
+    "concept": "forest/dense collection of trees"
+  },
+  "18064": {
+    "form": "生日",
+    "transliteration": "san nyiq",
+    "concept": "birthday/anniversary"
+  },
+  "18310": {
+    "form": "電影",
+    "concept": "movie/motion picture"
+  },
+  "19354": {
+    "form": "儂好𠲎？",
+    "concept": "how are you/greeting"
+  },
+  "19377": {
+    "form": "報紙",
+    "concept": "newspaper/publication"
+  },
+  "19427": {
+    "form": "冰淇淋",
+    "transliteration": "pin jji lin",
+    "concept": "ice cream/dessert"
+  },
+  "21185": {
+    "form": "活猻",
+    "concept": "monkey/primate"
+  },
+  "21263": {
+    "form": "麥",
+    "concept": "wheat/grain"
+  },
+  "21334": {
+    "form": "茶",
+    "transliteration": "zo",
+    "concept": "tea/drink made from leaves of tea plant"
+  },
+  "21594": {
+    "form": "洋山芋",
+    "transliteration": "hhian se hhy",
+    "concept": "potato/plant tuber eaten as starchy vegetable"
+  },
+  "21596": {
+    "form": "歷史",
+    "concept": "history/aggregate of past events"
+  },
+  "22023": {
+    "form": "雜誌",
+    "concept": "magazine/periodical"
+  },
+  "22457": {
+    "form": "葉",
+    "concept": "leaf/part of a plant"
+  },
+  "23031": {
+    "form": "衣裳",
+    "transliteration": "i zaan",
+    "concept": "clothes/apparel"
+  },
+  "23216": {
+    "form": "沙漠",
+    "transliteration": "so moq",
+    "concept": "desert/barren area"
+  },
+  "23589": {
+    "form": "電話",
+    "concept": "telephone/a device used for two-way talking with other people"
+  },
+  "23809": {
+    "form": "癌",
+    "concept": "cancer/disease of uncontrolled cellular proliferation"
+  },
+  "24213": {
+    "form": "地址",
+    "transliteration": "di tsr",
+    "concept": "address/direction for letters"
+  },
+  "24285": {
+    "form": "圖書館",
+    "concept": "library/institution which holds books etc."
+  },
+  "26474": {
+    "form": "公寓",
+    "transliteration": "kon nyy",
+    "concept": "apartment/domicile occupying part of a building"
+  },
+  "27061": {
+    "form": "同性媾",
+    "concept": "homosexuality/sexual orientation"
+  },
+  "30059": {
+    "form": "自由",
+    "transliteration": "zr hhieu",
+    "concept": "freedom/not being imprisoned or enslaved"
+  },
+  "30152": {
+    "form": "老師",
+    "concept": "teacher/person who teaches"
+  },
+  "31066": {
+    "form": "問題",
+    "concept": "question/sentence, phrase or word"
+  },
+  "31085": {
+    "form": "眼鏡",
+    "concept": "spectacles/a pair of lenses set in a frame"
+  },
+  "31824": {
+    "form": "差頭",
+    "concept": "taxi/vehicle"
+  },
+  "32844": {
+    "form": "龙虾",
+    "transliteration": "lonho",
+    "concept": "lobster/crustacean"
+  },
+  "32853": {
+    "form": "蟹",
+    "transliteration": "ha",
+    "concept": "crab/crustacean"
+  },
+  "35413": {
+    "form": "盾",
+    "transliteration": "den",
+    "concept": "shield/armor"
+  },
+  "44554": {
+    "form": "儂早",
+    "concept": "good morning/when seeing someone for the first time in the morning"
+  },
+  "45478": {
+    "form": "警察",
+    "transliteration": "jin tshaq",
+    "concept": "police/an organisation that enforces the law"
+  },
+  "45974": {
+    "form": "火山",
+    "transliteration": "hu se",
+    "concept": "volcano/mountain containing a magma chamber"
+  },
+  "53147": {
+    "form": "傳統",
+    "concept": "tradition/a part of culture that is passed from person to person or generation to generation"
+  },
+  "57243": {
+    "form": "柳",
+    "transliteration": "lieu",
+    "concept": "willow/tree"
+  },
+  "84601": {
+    "form": "尋",
+    "concept": "look for/search; seek"
+  },
+  "100273": {
+    "form": "馬",
+    "concept": "horse/members of the species ''Equus ferus''"
+  },
+  "110307": {
+    "form": "首都",
+    "transliteration": "seu tu",
+    "concept": "capital city/city designated as seat of government"
+  },
+  "120607": {
+    "form": "生日快樂",
+    "concept": "happy birthday/good wishes for a birthday"
+  },
+  "148997": {
+    "form": "貓",
+    "concept": "cat/translations/domestic species"
+  },
+  "149107": {
+    "form": "金",
+    "transliteration": "cin",
+    "concept": "gold/translations/element"
+  },
+  "149132": {
+    "form": "神",
+    "transliteration": "zen",
+    "concept": "god/translations/deity"
+  }
 };

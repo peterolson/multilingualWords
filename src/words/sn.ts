@@ -1,1527 +1,398 @@
 export default {
-  "Chikuvamagwaro": [
-    "library",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Sisi": [
-    "sister",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Dengezeze reChadenga": [
-    "outer space",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Mari": [
-    "money",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Runhare": [
-    "telephone",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Masaisai": [
-    "wave",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Mabvi": [
-    "knee",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "Penzura": [
-    "pencil",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "Nhema": [
-    "black",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "Muchato": [
-    "wedding",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Nguruve": [
-    "pig",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Kukotsira": [
-    "sleep",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Mwedzi muChadenga": [
-    "moon",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Mhuka": [
-    "animal",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Huma": [
-    "forehead",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Kombiyuta": [
-    "computer",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Karamu": [
-    "pen",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Tsvuku": [
-    "red",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "Hambautare": [
-    "car",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Dziva rokushambira": [
-    "swimming pool",
-    [
-      "catchphrase",
-      "household"
-    ]
-  ],
-  "Rokwe": [
-    "dress",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "Chivhuramabwe": [
-    "hail",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Imba": [
-    "house",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Imbwa": [
-    "dog",
-    [
-      "catchphrase",
-      "charades",
-      "people",
-      "swadesh"
-    ]
-  ],
-  "Huku": [
-    "chicken",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Nzeve": [
-    "ear",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Munhurume": [
-    "man",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Husiku": [
-    "night",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Katsi": [
-    "cat",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Hove": [
-    "fish",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Gomo": [
-    "mountain",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Mhuno": [
-    "nose",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Ngoda": [
-    "diamond",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Dumbu": [
-    "stomach",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Huroro": [
-    "yellow",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "Gava": [
-    "fox",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Vhudzi": [
-    "hair",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Shiri": [
-    "bird",
-    [
-      "catchphrase",
-      "charades",
-      "swadesh"
-    ]
-  ],
-  "Mvura": [
-    "water",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Chiroto": [
-    "dream",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Nzou": [
-    "elephant",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Mhepo": [
-    "wind",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Chikoro": [
-    "school",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Igwa": [
-    "boat",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Mukoti": [
-    "nurse",
-    [
-      "catchphrase",
-      "people"
-    ]
-  ],
-  "Chitima": [
-    "train",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Shangu": [
-    "shoe",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "Munyu": [
-    "salt",
-    [
-      "catchphrase",
-      "charades",
-      "swadesh"
-    ]
-  ],
-  "Murarabungu": [
-    "rainbow",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Gonyonhatu": [
-    "triangle",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Dhadha": [
-    "duck",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Mapapu": [
-    "lung",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Musoro": [
-    "head",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Bhumi": [
-    "wolf",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Muti": [
-    "tree",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Zuva": [
-    "sun",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Musikana": [
-    "girl",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Mubhedha": [
-    "bed",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Duramahwi": [
-    "dictionary",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Mambo": [
-    "king",
-    [
-      "catchphrase",
-      "people"
-    ]
-  ],
-  "Zambuko": [
-    "bridge",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Ruwoko": [
-    "arm",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Sinowo": [
-    "snow",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Chiringiro": [
-    "mirror",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Denga remba": [
-    "roof",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "Moto": [
-    "fire",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Mheni": [
-    "lightning",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Mukomana": [
-    "boy",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Buwe": [
-    "spider",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Mimhanzi": [
-    "music",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Kudzana": [
-    "dance",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Bepa": [
-    "paper",
-    [
-      "catchphrase",
-      "household",
-      "objects"
-    ]
-  ],
-  "Gumbo": [
-    "leg",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Mwaka weChando": [
-    "winter",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Bhodhoro": [
-    "bottle",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Ruva": [
-    "flower",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Musi": [
-    "day",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "Mumvuri": [
-    "shadow",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Shumba": [
-    "lion",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Mhuri": [
-    "family",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Shaveshave": [
-    "butterfly",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Mugwagwa": [
-    "road",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Rumanda": [
-    "fence",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Rinopasi": [
-    "earth",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "Skweya": [
-    "square",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Fafitera": [
-    "window",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Mandimu": [
-    "lemon",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Bhiza": [
-    "horse",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Mutsipa": [
-    "neck",
-    [
-      "catchphrase",
-      "swadesh"
-    ]
-  ],
-  "Chikwatamabwe": [
-    "volcano",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Shizha": [
-    "leaf",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Gonhi": [
-    "door",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Chisvusvuro": [
-    "breakfast",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Karemwaremwa": [
-    "bat",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Bvungapfunga": [
-    "fog",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Chiedza": [
-    "light",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Ziso": [
-    "eye",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Nyenyedzi": [
-    "star",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Sipo": [
-    "soap",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Guta": [
-    "city",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Ungu": [
-    "blue",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Gonyeti": [
-    "truck",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Denderedzwa": [
-    "circle",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Rwizi": [
-    "river",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Bako": [
-    "cave",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Firiji": [
-    "refrigerator",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "Dzvinyu": [
-    "lizard",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Danhiko": [
-    "stairs",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "Nyemwerera": [
-    "smile",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Ndege": [
-    "airplane",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Mudzidzisi": [
-    "teacher",
-    [
-      "catchphrase",
-      "people"
-    ]
-  ],
-  "Gumbeze": [
-    "blanket",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Muskwe": [
-    "tail",
-    [
-      "catchphrase",
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Moyo": [
-    "heart",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Komichi": [
-    "cup",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Mhemberero": [
-    "holiday",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Muvhuro": [
-    "Monday",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Nwiwa": [
-    "watermelon",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Sokisi": [
-    "sock",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Bhuku": [
-    "book",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Dehenya": [
-    "skull",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Bhatani": [
-    "button",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "Ndarama": [
-    "gold",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Bhasikoro": [
-    "bicycle",
-    [
-      "catchphrase",
-      "charades",
-      "household",
-      "objects"
-    ]
-  ],
-  "Muromo": [
-    "lip",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Kutsvoda": [
-    "kiss",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Nyanza": [
-    "lake",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Chombo Chebasa": [
-    "tool",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Njanji": [
-    "railroad",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Chitsitsinho": [
-    "heel",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Sango": [
-    "forest",
-    [
-      "catchphrase",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Zvidhinha": [
-    "brick",
-    [
-      "catchphrase",
-      "objects"
-    ]
-  ],
-  "Mbabvu": [
-    "rib",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Ingi": [
-    "ink",
-    [
-      "catchphrase",
-      "household",
-      "objects"
-    ]
-  ],
-  "Madzinde": [
-    "plant",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Dehwe": [
-    "leather",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Pepanhau": [
-    "newspaper",
-    [
-      "catchphrase",
-      "charades",
-      "household"
-    ]
-  ],
-  "Ngarava": [
-    "ship",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Chinyenze": [
-    "flute",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Kundengenyeka kwenyika": [
-    "earthquake",
-    [
-      "catchphrase",
-      "charades"
-    ]
-  ],
-  "Stovhu": [
-    "stove",
-    [
-      "catchphrase",
-      "household",
-      "objects"
-    ]
-  ],
-  "Dova": [
-    "dew",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Musi weChishanu": [
-    "Friday",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Huropi": [
-    "brain",
-    [
-      "catchphrase",
-      "charades",
-      "objects"
-    ]
-  ],
-  "Chitadzo": [
-    "sin",
-    [
-      "catchphrase"
-    ]
-  ],
-  "Shoko": [
-    "monkey",
-    [
-      "charades",
-      "objects",
-      "people"
-    ]
-  ],
-  "Humhutu": [
-    "mosquito",
-    [
-      "charades"
-    ]
-  ],
-  "Rurimi": [
-    "tongue",
-    [
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Rwiyo": [
-    "song",
-    [
-      "charades",
-      "objects"
-    ]
-  ],
-  "Bapiro": [
-    "wing",
-    [
-      "charades",
-      "swadesh"
-    ]
-  ],
-  "Nyoka": [
-    "snake",
-    [
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Pito": [
-    "whistle",
-    [
-      "charades"
-    ]
-  ],
-  "Jecha": [
-    "sand",
-    [
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Tambo": [
-    "rope",
-    [
-      "charades",
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Magazini": [
-    "magazine",
-    [
-      "household"
-    ]
-  ],
-  "Gwati remarara": [
-    "dustpan",
-    [
-      "household"
-    ]
-  ],
-  "Mugomo": [
-    "bucket",
-    [
-      "household",
-      "objects"
-    ]
-  ],
-  "Bhutsu": [
-    "boot",
-    [
-      "household"
-    ]
-  ],
-  "Bindu": [
-    "garden",
-    [
-      "household",
-      "objects"
-    ]
-  ],
-  "Useza": [
-    "art",
-    [
-      "objects"
-    ]
-  ],
-  "Ndebvu": [
-    "beard",
-    [
-      "objects"
-    ]
-  ],
-  "Ropa": [
-    "blood",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Bhomba": [
-    "bomb",
-    [
-      "objects"
-    ]
-  ],
-  "Bara": [
-    "bullet",
-    [
-      "objects"
-    ]
-  ],
-  "Bhazi": [
-    "bus",
-    [
-      "objects"
-    ]
-  ],
-  "Ruomba": [
-    "cream",
-    [
-      "objects"
-    ]
-  ],
-  "Mhomho": [
-    "crowd",
-    [
-      "objects"
-    ]
-  ],
-  "Mbongoro": [
-    "donkey",
-    [
-      "objects"
-    ]
-  ],
-  "Ngoma": [
-    "drum",
-    [
-      "objects"
-    ]
-  ],
-  "Zai": [
-    "egg",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Simba": [
-    "energy",
-    [
-      "objects"
-    ]
-  ],
-  "Idi": [
-    "fact",
-    [
-      "objects"
-    ]
-  ],
-  "Kutya": [
-    "fear",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Manhenga": [
-    "feather",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Zvidyo": [
-    "food",
-    [
-      "objects"
-    ]
-  ],
-  "Tsoka": [
-    "foot",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Muchero": [
-    "fruit",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Gunganidzo": [
-    "gravity",
-    [
-      "objects"
-    ]
-  ],
-  "Nyundo": [
-    "hammer",
-    [
-      "objects"
-    ]
-  ],
-  "Denga": [
-    "heaven",
-    [
-      "objects"
-    ]
-  ],
-  "Huchi": [
-    "honey",
-    [
-      "objects"
-    ]
-  ],
-  "Chitsuwa": [
-    "island",
-    [
-      "objects"
-    ]
-  ],
-  "Jeye": [
-    "joke",
-    [
-      "objects"
-    ]
-  ],
-  "Banga": [
-    "knife",
-    [
-      "objects"
-    ]
-  ],
-  "Rudo": [
-    "love",
-    [
-      "objects"
-    ]
-  ],
-  "Nyama": [
-    "meat",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Mukaka": [
-    "milk",
-    [
-      "objects"
-    ]
-  ],
-  "Mhondi": [
-    "murder",
-    [
-      "objects"
-    ]
-  ],
-  "Ruzha": [
-    "noise",
-    [
-      "objects"
-    ]
-  ],
-  "Gungwa": [
-    "ocean",
-    [
-      "objects"
-    ]
-  ],
-  "Kurwadziwa": [
-    "pain",
-    [
-      "objects"
-    ]
-  ],
-  "Rugare": [
-    "peace",
-    [
-      "objects"
-    ]
-  ],
-  "Nhumbu": [
-    "pregnancy",
-    [
-      "objects"
-    ]
-  ],
-  "Manhanga": [
-    "pumpkin",
-    [
-      "objects"
-    ]
-  ],
-  "Mbeu": [
-    "seed",
-    [
-      "objects",
-      "swadesh"
-    ]
-  ],
-  "Nhoo": [
-    "shield",
-    [
-      "objects"
-    ]
-  ],
-  "Shuga": [
-    "sugar",
-    [
-      "objects"
-    ]
-  ],
-  "Munondo": [
-    "sword",
-    [
-      "objects"
-    ]
-  ],
-  "Mutero": [
-    "tax",
-    [
-      "objects"
-    ]
-  ],
-  "Dongorahweva": [
-    "telescope",
-    [
-      "objects"
-    ]
-  ],
-  "Pahuro": [
-    "throat",
-    [
-      "objects"
-    ]
-  ],
-  "Nguva": [
-    "time",
-    [
-      "objects"
-    ]
-  ],
-  "Chimbuzi": [
-    "toilet",
-    [
-      "objects"
-    ]
-  ],
-  "Chokwadi": [
-    "truth",
-    [
-      "objects"
-    ]
-  ],
-  "Hondo": [
-    "war",
-    [
-      "objects"
-    ]
-  ],
-  "Baba": [
-    "father",
-    [
-      "people",
-      "swadesh"
-    ]
-  ],
-  "Gweta": [
-    "lawyer",
-    [
-      "people"
-    ]
-  ],
-  "Vana": [
-    "child",
-    [
-      "people",
-      "swadesh"
-    ]
-  ],
-  "Mukadzi": [
-    "woman",
-    [
-      "swadesh"
-    ]
-  ],
-  "Amai": [
-    "mother",
-    [
-      "swadesh"
-    ]
-  ],
-  "Mafuta": [
-    "fat",
-    [
-      "swadesh"
-    ]
-  ],
-  "Zamu": [
-    "breast",
-    [
-      "swadesh"
-    ]
-  ],
-  "Chitaka": [
-    "liver",
-    [
-      "swadesh"
-    ]
-  ],
-  "Bhahari": [
-    "sea",
-    [
-      "swadesh"
-    ]
-  ],
-  "Dota": [
-    "ash",
-    [
-      "swadesh"
-    ]
-  ],
-  "Gore": [
-    "year",
-    [
-      "swadesh"
-    ]
-  ]
+  "1": {
+    "form": "duramahwi",
+    "concept": "dictionary/publication that explains the meanings of an ordered list of words"
+  },
+  "95": {
+    "form": "nzou",
+    "concept": "elephant/mammal"
+  },
+  "97": {
+    "form": "mbise",
+    "concept": "brown/colour"
+  },
+  "267": {
+    "form": "gondo",
+    "concept": "eagle/any of several large carnivorous birds in the family Accipitridae"
+  },
+  "1093": {
+    "form": "mwaka yepaNyika",
+    "concept": "season/quarter of a year"
+  },
+  "1197": {
+    "form": "ranjisi",
+    "concept": "orange/colour"
+  },
+  "1225": {
+    "form": "nyeredzi",
+    "concept": "planet/each of the seven major bodies which move relative to the fixed stars in the night sky"
+  },
+  "1460": {
+    "form": "wachi",
+    "concept": "clock/instrument to measure or keep track of time"
+  },
+  "2068": {
+    "form": "mangwana",
+    "concept": "morning/the part of the day after midnight and before midday"
+  },
+  "2162": {
+    "form": "nezuro",
+    "concept": "yesterday/day before today"
+  },
+  "2280": {
+    "form": "nguva",
+    "concept": "time/inevitable passing of events"
+  },
+  "3076": {
+    "form": "husiku",
+    "concept": "night/period between sunset and sunrise"
+  },
+  "3104": {
+    "form": "mhóu",
+    "concept": "cow/female domesticated ox or other bovine"
+  },
+  "3399": {
+    "form": "mbesa",
+    "concept": "plant/organism capable of photosynthesis"
+  },
+  "3599": {
+    "form": "pingi",
+    "concept": "pink/pale red colour"
+  },
+  "3610": {
+    "form": "tsvuku",
+    "concept": "red/colour"
+  },
+  "3834": {
+    "form": "mukadzi",
+    "concept": "woman/adult female person"
+  },
+  "3849": {
+    "form": "mambo",
+    "concept": "king/a male of a royal family who is the supreme ruler of his nation"
+  },
+  "4129": {
+    "form": "gonyonhatu",
+    "concept": "triangle/polygon"
+  },
+  "4498": {
+    "form": "mbizi",
+    "concept": "zebra/African animal"
+  },
+  "4874": {
+    "form": "chigayo",
+    "concept": "mill/grinding apparatus"
+  },
+  "4910": {
+    "form": "chitsuwa",
+    "concept": "island/area of land completely surrounded by water"
+  },
+  "5291": {
+    "form": "baba",
+    "concept": "father/male parent"
+  },
+  "5368": {
+    "form": "nyuchi",
+    "concept": "bee/insect"
+  },
+  "5382": {
+    "form": "motokari",
+    "concept": "car/automobile, a vehicle steered by a driver"
+  },
+  "5475": {
+    "form": "murarabungu",
+    "concept": "rainbow/multicoloured arch in the sky"
+  },
+  "5510": {
+    "form": "ruva",
+    "concept": "flower/reproductive structure in angiosperms"
+  },
+  "5806": {
+    "form": "ruwomba",
+    "concept": "cream/oily part of milk"
+  },
+  "5866": {
+    "form": "gireyi",
+    "concept": "gray/having a color somewhere between white and black, as the [[ash]] of an [[ember]]"
+  },
+  "6149": {
+    "form": "pfuti",
+    "concept": "gun/a very portable, short weapon, for hand use"
+  },
+  "6384": {
+    "form": "musikiti",
+    "concept": "mosque/a place of worship for Muslims"
+  },
+  "6680": {
+    "form": "nyemwerera",
+    "concept": "smile/a happy face expression using mouth, but without producing voice"
+  },
+  "7072": {
+    "form": "si",
+    "concept": "hair/the collection or mass of filaments growing from the skin of humans and animals"
+  },
+  "7074": {
+    "form": "nzeve",
+    "concept": "ear/organ of hearing"
+  },
+  "7150": {
+    "form": "hózhwe",
+    "concept": "snail/any animal of the class ''Gastropoda'' having a shell"
+  },
+  "7170": {
+    "form": "uso",
+    "concept": "face/front part of head"
+  },
+  "8098": {
+    "form": "kutapira",
+    "concept": "sweet/having a pleasant taste"
+  },
+  "8231": {
+    "form": "tsiye",
+    "concept": "eyelash/hair growing on the edge of an eyelid"
+  },
+  "9083": {
+    "form": "mheni",
+    "concept": "lightning/flash of light"
+  },
+  "9150": {
+    "form": "chiedza",
+    "concept": "light/electromagnetic waves"
+  },
+  "9516": {
+    "form": "kutaura",
+    "concept": "speak/to communicate with one's voice using words"
+  },
+  "9735": {
+    "form": "chigero",
+    "concept": "scissors/tool used for cutting"
+  },
+  "9865": {
+    "form": "seledu",
+    "concept": "chin/bottom of a face"
+  },
+  "11357": {
+    "form": "gore",
+    "concept": "cloud/visible mass of water droplets suspended in the air"
+  },
+  "11782": {
+    "form": "gonhi",
+    "concept": "door/portal of entry into a building, room or vehicle"
+  },
+  "11853": {
+    "form": "mbudzi",
+    "concept": "goat/animal"
+  },
+  "11910": {
+    "form": "mboro",
+    "concept": "penis/male organ for copulation and urination"
+  },
+  "11916": {
+    "form": "huku",
+    "concept": "chicken/bird"
+  },
+  "11951": {
+    "form": "shavishavi",
+    "concept": "butterfly/id=Q11946202|insect"
+  },
+  "12000": {
+    "form": "zizi",
+    "concept": "owl/a bird"
+  },
+  "12082": {
+    "form": "tsindi",
+    "concept": "squirrel/rodent"
+  },
+  "12491": {
+    "form": "chipatara",
+    "concept": "hospital/large medical facility"
+  },
+  "12497": {
+    "form": "banga",
+    "concept": "knife/utensil or tool designed for cutting"
+  },
+  "12505": {
+    "form": "gomo",
+    "concept": "mountain/large mass of earth and rock"
+  },
+  "12518": {
+    "form": "shuga",
+    "concept": "sugar/sucrose from sugar cane or sugar beet and used to sweeten food and drink"
+  },
+  "12561": {
+    "form": "munondo",
+    "concept": "sword/weapon"
+  },
+  "12809": {
+    "form": "jecha",
+    "concept": "sand/finely ground rock"
+  },
+  "12832": {
+    "form": "bvungapfunga",
+    "concept": "fog/cloud that forms at a low altitude and obscures vision"
+  },
+  "13644": {
+    "form": "nyundo",
+    "concept": "hammer/tool"
+  },
+  "14428": {
+    "form": "chipembere",
+    "concept": "rhinoceros/herbivorous pachyderm with horn(s)"
+  },
+  "14448": {
+    "form": "kofi",
+    "concept": "coffee/beverage"
+  },
+  "14657": {
+    "form": "ketaupenyu",
+    "concept": "biology/study of living matter"
+  },
+  "15019": {
+    "form": "ndege",
+    "concept": "airplane/powered aircraft"
+  },
+  "15254": {
+    "form": "buwe",
+    "concept": "spider/arthropod"
+  },
+  "15878": {
+    "form": "rudunhumwe",
+    "concept": "universe/id=Q1|the Universe"
+  },
+  "16117": {
+    "form": "mukaka",
+    "concept": "milk/liquid"
+  },
+  "17211": {
+    "form": "tiivhii",
+    "concept": "television/medium"
+  },
+  "17703": {
+    "form": "sango",
+    "concept": "forest/dense collection of trees"
+  },
+  "20162": {
+    "form": "mumvuri",
+    "concept": "shadow/dark image projected onto a surface"
+  },
+  "21181": {
+    "form": "chinyaride",
+    "concept": "scorpion/any of various arachnids of the order Scorpiones"
+  },
+  "21263": {
+    "form": "gorosi",
+    "concept": "wheat/grain"
+  },
+  "21288": {
+    "form": "dzvinyu",
+    "concept": "lizard/reptile"
+  },
+  "21334": {
+    "form": "tii",
+    "concept": "tea/drink made from leaves of tea plant"
+  },
+  "22457": {
+    "form": "shizha",
+    "concept": "leaf/part of a plant"
+  },
+  "23216": {
+    "form": "gwenga",
+    "concept": "desert/barren area"
+  },
+  "23589": {
+    "form": "runhare",
+    "concept": "telephone/a device used for two-way talking with other people"
+  },
+  "25336": {
+    "form": "mhiripiri",
+    "concept": "pepper/spice"
+  },
+  "26045": {
+    "form": "chitunha",
+    "concept": "corpse/dead body"
+  },
+  "26301": {
+    "form": "shata",
+    "concept": "ugly/displeasing to the eye; not aesthetically pleasing"
+  },
+  "26808": {
+    "form": "donhwe",
+    "concept": "drop/small mass of liquid"
+  },
+  "27061": {
+    "form": "ungochani",
+    "concept": "homosexuality/sexual orientation"
+  },
+  "28694": {
+    "form": "mutsvairo",
+    "concept": "broom/domestic utensil"
+  },
+  "28938": {
+    "form": "murume",
+    "concept": "human being/person"
+  },
+  "29729": {
+    "form": "zvipfeko",
+    "concept": "clothing/clothes"
+  },
+  "29979": {
+    "form": "dehenya",
+    "concept": "skull/cranium"
+  },
+  "32431": {
+    "form": "chiringiro",
+    "concept": "mirror/smooth reflecting surface"
+  },
+  "32585": {
+    "form": "bako",
+    "concept": "cave/large, naturally occurring cavity formed underground"
+  },
+  "33079": {
+    "form": "kurima",
+    "concept": "agriculture/the art or science of cultivating the ground"
+  },
+  "34193": {
+    "form": "zvidya",
+    "concept": "thigh/upper leg"
+  },
+  "35169": {
+    "form": "mapopoma",
+    "concept": "waterfall/flow of water over the edge of a cliff"
+  },
+  "36190": {
+    "form": "dhaga",
+    "concept": "clay/mineral substance"
+  },
+  "45783": {
+    "form": "maneru",
+    "concept": "evening/time of day between the approximate time of midwinter dusk and midnight"
+  },
+  "45974": {
+    "form": "chikwatamabwe",
+    "concept": "volcano/mountain containing a magma chamber"
+  },
+  "48984": {
+    "form": "ngoma",
+    "concept": "drum/musical instrument"
+  },
+  "52348": {
+    "form": "kurwadziswa",
+    "concept": "torture/intentional causing of somebody's experiencing agony"
+  },
+  "55886": {
+    "form": "makwenu",
+    "concept": "dandruff/skin flakes"
+  },
+  "57672": {
+    "form": "bhara",
+    "concept": "wheelbarrow/small cart"
+  },
+  "100273": {
+    "form": "bhiza",
+    "concept": "horse/members of the species ''Equus ferus''"
+  },
+  "149107": {
+    "form": "ndarama",
+    "concept": "gold/translations/element"
+  }
 };

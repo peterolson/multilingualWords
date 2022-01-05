@@ -2,6 +2,10 @@
 
 Words for games like taboo/pictionary/charades/catchphrase/etc in many different languages.
 
+Translations come from Wiktionary.
+
+> Tiago Tresoldi, "Extracting translation data from the Wiktionary project," in Computer-Assisted Language Comparison in Practice, 11/06/2018, https://calc.hypotheses.org/?p=32.
+
 ## Installation
 
 ```
@@ -11,31 +15,22 @@ npm install --save multilingual-game-words
 ## Usage
 
 ```javascript
-import { gameWords } from 'multilingual-game-words';
-
 async function run() {
-  const spanishWords = await gameWords('es');
   const russianWords = await gameWords('ru');
 
-  console.log(spanishWords.getAllWords());
+  console.log(russianWords.getAllWords());
   /*
     [
-    { word: 'hierro', en: 'iron' },
-    { word: 'biblioteca', en: 'library' },
-    { word: 'hermana', en: 'sister' },
-    { word: 'cuaderno', en: 'notebook' },
-    ...
-    */
-  console.log(russianWords.getByCategory('swadesh'));
-  /*
-    [
-    { word: 'колено', en: 'knee' },
-    { word: 'черный', en: 'black' },
-    { word: 'спать', en: 'sleep' },
-    { word: 'луна', en: 'moon' },
-    { word: 'животное', en: 'animal' },
-    { word: 'красный', en: 'red' },
-    { word: 'рот', en: 'mouth' },
+    { word: 'слова́рь', en: 'dictionary' },
+    { word: 'свобо́дный', en: 'free' },
+    { word: 'сло́во', en: 'word' },
+    { word: 'кни́га', en: 'book' },
+    { word: 'пруд', en: 'pond' },
+    { word: 'слон', en: 'elephant' },
+    { word: 'кори́чневый', en: 'brown' },
+    { word: 'ме́сяц', en: 'month' },
+    { word: 'су́тки', en: 'day' },
+    { word: 'диале́кт', en: 'dialect' },
     ...
     */
 }

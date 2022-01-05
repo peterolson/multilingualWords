@@ -1,6 +1,6 @@
 {
   "name": "multilingual-game-words",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Words for games like taboo/pictionary/charades/catchphrase/etc in many different languages.",
   "main": "lib/index.js",
   "scripts": {
