@@ -17,7 +17,7 @@ export const gameWords = async (languageCode: string): Promise<GameWords> => {
   if (cachedGameWords[lang]) {
     return cachedGameWords[lang];
   }
-  let languageData = await getWordData(lang);
+  const languageData = await getWordData(lang);
 
   const translations: Record<string, { en: string; transliteration?: string }> = {};
   for (const conceptId of Object.keys(languageData)) {
