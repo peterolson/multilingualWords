@@ -1,8 +1,9 @@
-import { supportedLangImports } from './supportedLangs';
+import { getWordData, verifySupportedLang } from './supportedLangs';
 
 export type WordPair = {
   word: string;
   en: string;
+  transliteration?: string;
 };
 export type GameWords = {
   getAllWords: () => WordPair[];
@@ -11,26 +12,26 @@ export type GameWords = {
 const cachedGameWords: Record<string, GameWords> = {};
 
 export const gameWords = async (languageCode: string): Promise<GameWords> => {
-  if (!(languageCode in supportedLangImports)) {
-    throw new Error(`Language ${languageCode} is not supported.`);
-  }
-  if (cachedGameWords[languageCode]) {
-    return cachedGameWords[languageCode];
-  }
-  let languageData: Record<string, { form: string; concept: string; transliteration?: string }>;
+  const lang = verifySupportedLang(languageCode);
 
-  languageData = await supportedLangImports[languageCode]().then((x) => x.default);
+  if (cachedGameWords[lang]) {
+    return cachedGameWords[lang];
+  }
+  let languageData = await getWordData(lang);
 
-  const translations: Record<string, string> = {};
+  const translations: Record<string, { en: string; transliteration?: string }> = {};
   for (const conceptId of Object.keys(languageData)) {
     const { form, concept, transliteration } = languageData[conceptId];
     const en = concept.split('/')[0];
-    translations[form] = en;
+    translations[form] = { en };
+    if (transliteration) {
+      translations[form].transliteration = transliteration;
+    }
   }
   function toWordPair(word: string) {
     return {
       word,
-      en: translations[word],
+      ...translations[word],
     };
   }
   const out: GameWords = {
